@@ -6,6 +6,14 @@ SpinFox is a casino and sportsbook demo workspace with a Next.js frontend and a 
 
 The full SpinFox source has been updated to work with our SynCode API Provider system. The complete production package, private API configuration, database schema/data, deployment setup, and merchant-specific credentials are not included in this public workspace.
 
+## Preview
+
+| | | |
+|---|---|---|
+| ![SpinFox preview 1](Previews/Screenshot_1.jpg) | ![SpinFox preview 2](Previews/Screenshot_2.jpg) | ![SpinFox preview 3](Previews/Screenshot_3.jpg) |
+| ![SpinFox preview 4](Previews/Screenshot_4.jpg) | ![SpinFox preview 5](Previews/Screenshot_5.jpg) | ![SpinFox preview 6](Previews/Screenshot_6.jpg) |
+| ![SpinFox preview 7](Previews/Screenshot_7.jpg) | ![SpinFox preview 8](Previews/Screenshot_8.jpg) | ![SpinFox preview 9](Previews/Screenshot_9.jpg) |
+
 ## Repository Contents
 
 - `frontend/` - Next.js user interface for casino, slots, sports, wallet, promotions, support, and admin demo screens.
