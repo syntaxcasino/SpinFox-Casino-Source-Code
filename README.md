@@ -154,7 +154,7 @@ This workspace includes a root `.gitignore` to help prevent accidental credentia
 
 For the complete SynCode-ready source code, API integration details, custom setup, pricing, provider support, or merchant onboarding:
 
-- Telegram: `[@syntaxcasino](https://t.me/)`
+- Telegram: https://t.me/syntaxcasino
 - Discord: https://discord.gg/kpGJ4yq26h
 
 Serious merchants, operators, and distributors can contact us to discuss business model, target market, traffic plan, platform structure, provider needs, and API integration requirements.
