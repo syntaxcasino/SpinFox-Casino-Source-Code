@@ -1,0 +1,15 @@
+{
+  "title": "优惠活动",
+  "activePromotions": "当前优惠",
+  "expiredPromotions": "已过期优惠",
+  "bonus": "奖金",
+  "freeSpins": "免费旋转",
+  "cashback": "现金返还",
+  "depositBonus": "存款奖金",
+  "welcomeBonus": "欢迎奖金",
+  "reloadBonus": "充值奖金",
+  "claimNow": "立即领取",
+  "details": "查看详情",
+  "terms": "奖金条款与条件",
+  "noPromotions": "目前没有可用的优惠活动。"
+}

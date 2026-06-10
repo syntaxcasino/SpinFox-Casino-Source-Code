@@ -1,0 +1,33 @@
+{
+    "hero": {
+        "card1": {
+            "slide1": {
+                "title": "Discover Exciting Slots",
+                "subtitle": "Explore a world of thrilling slot games with amazing features and big wins!"
+            },
+            "slide2": {
+                "title": "Live Casino Experience",
+                "subtitle": "Enjoy the thrill of live dealer games from the comfort of your home."
+            },
+            "slide3": {
+                "title": "Sports Betting Action",
+                "subtitle": "Bet on your favorite sports and experience the excitement of live betting."
+            }
+        },
+        "card2": {
+            "badge": "Why Choose SpinFox?",
+            "slide1": {
+                "title": "Vast Game Selection",
+                "content": "Access hundreds of top-quality games from leading providers, ensuring endless entertainment."
+            },
+            "slide2": {
+                "title": "Generous Bonuses",
+                "content": "Benefit from our lucrative bonuses and promotions to boost your gameplay."
+            },
+            "slide3": {
+                "title": "Secure & Fair",
+                "content": "Play with confidence knowing we prioritize your security and fair play."
+            }
+        }
+    }
+}

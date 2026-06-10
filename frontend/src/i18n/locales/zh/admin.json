@@ -1,0 +1,13 @@
+{
+  "menu": {
+    "users": "用户",
+    "affiliates": "联盟伙伴",
+    "leaderboard": "排行榜",
+    "promocode": "优惠码",
+    "approve": "审批",
+    "settings": "设置"
+  },
+  "auth": {
+    "login": "管理员登录"
+  }
+}

@@ -1,0 +1,1112 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "diaochan",
+    "game_name": "Honey Trap of Diao Chan",
+    "banner": "https://cdn.slotgambit.com/diaochan.png",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "gem-saviour",
+    "game_name": "Gem Saviour",
+    "banner": "https://cdn.slotgambit.com/gem-saviour.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-gods",
+    "game_name": "Fortune Gods",
+    "banner": "https://cdn.slotgambit.com/fortune-gods.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "medusa2",
+    "game_name": "Medusa II",
+    "banner": "https://cdn.slotgambit.com/medusa2.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "medusa",
+    "game_name": "Medusa",
+    "banner": "https://cdn.slotgambit.com/medusa.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "hood-wolf",
+    "game_name": "Hood vs Wolf",
+    "banner": "https://cdn.slotgambit.com/hood-wolf.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "reel-love",
+    "game_name": "Reel Love",
+    "banner": "https://cdn.slotgambit.com/reel-love.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "win-win-won",
+    "game_name": "Win Win Won",
+    "banner": "https://cdn.slotgambit.com/win-win-won.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "plushie-frenzy",
+    "game_name": "Plushie Frenzy",
+    "banner": "https://cdn.slotgambit.com/plushie-frenzy.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-tree",
+    "game_name": "Tree of Fortune",
+    "banner": "https://cdn.slotgambit.com/fortune-tree.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "hotpot",
+    "game_name": "Hotpot",
+    "banner": "https://cdn.slotgambit.com/hotpot.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "dragon-legend",
+    "game_name": "Dragon Legend",
+    "banner": "https://cdn.slotgambit.com/dragon-legend.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "hip-hop-panda",
+    "game_name": "Hip Hop Panda",
+    "banner": "https://cdn.slotgambit.com/hip-hop-panda.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "legend-of-hou-yi",
+    "game_name": "Legend of Hou Yi",
+    "banner": "https://cdn.slotgambit.com/legend-of-hou-yi.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "mr-hallow-win",
+    "game_name": "Mr. Hallow-Win",
+    "banner": "https://cdn.slotgambit.com/mr-hallow-win.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "prosperity-lion",
+    "game_name": "Prosperity Lion",
+    "banner": "https://cdn.slotgambit.com/prosperity-lion.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "santas-gift-rush",
+    "game_name": "Santa's Gift Rush",
+    "banner": "https://cdn.slotgambit.com/santas-gift-rush.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "gem-saviour-sword",
+    "game_name": "Gem Saviour Sword",
+    "banner": "https://cdn.slotgambit.com/gem-saviour-sword.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "piggy-gold",
+    "game_name": "Piggy Gold",
+    "banner": "https://cdn.slotgambit.com/piggy-gold.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "jungle-delight",
+    "game_name": "Jungle Delight",
+    "banner": "https://cdn.slotgambit.com/jungle-delight.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "symbols-of-egypt",
+    "game_name": "Symbols of Egypt",
+    "banner": "https://cdn.slotgambit.com/symbols-of-egypt.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "ganesha-gold",
+    "game_name": "Ganesha Gold",
+    "banner": "https://cdn.slotgambit.com/ganesha-gold.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "emperors-favour",
+    "game_name": "Emperor's Favour",
+    "banner": "https://cdn.slotgambit.com/emperors-favour.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "double-fortune",
+    "game_name": "Double Fortune",
+    "banner": "https://cdn.slotgambit.com/double-fortune.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "journey-to-the-wealth",
+    "game_name": "Journey to the Wealth",
+    "banner": "https://cdn.slotgambit.com/journey-to-the-wealth.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "the-great-icescape",
+    "game_name": "The Great Icescape",
+    "banner": "https://cdn.slotgambit.com/the-great-icescape.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "captains-bounty",
+    "game_name": "Captain's Bounty",
+    "banner": "https://cdn.slotgambit.com/captains-bounty.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "dragon-hatch",
+    "game_name": "Dragon Hatch",
+    "banner": "https://cdn.slotgambit.com/dragon-hatch.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "vampires-charm",
+    "game_name": "Vampire's Charm",
+    "banner": "https://cdn.slotgambit.com/vampires-charm.png",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "ninja-vs-samurai",
+    "game_name": "Ninja vs Samurai",
+    "banner": "https://cdn.slotgambit.com/ninja-vs-samurai.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "leprechaun-riches",
+    "game_name": "Leprechaun Riches",
+    "banner": "https://cdn.slotgambit.com/leprechaun-riches.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "flirting-scholar",
+    "game_name": "Flirting Scholar",
+    "banner": "https://cdn.slotgambit.com/flirting-scholar.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "gem-saviour-conquest",
+    "game_name": "Gem Saviour Conquest",
+    "banner": "https://cdn.slotgambit.com/gem-saviour-conquest.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "dragon-tiger-luck",
+    "game_name": "Dragon Tiger Luck",
+    "banner": "https://cdn.slotgambit.com/dragon-tiger-luck.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "muay-thai-champion",
+    "game_name": "Muay Thai Champion",
+    "banner": "https://cdn.slotgambit.com/muay-thai-champion.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "mahjong-ways",
+    "game_name": "Mahjong Ways",
+    "banner": "https://cdn.slotgambit.com/mahjong-ways.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "shaolin-soccer",
+    "game_name": "Shaolin Soccer",
+    "banner": "https://cdn.slotgambit.com/shaolin-soccer.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-mouse",
+    "game_name": "Fortune Mouse",
+    "banner": "https://cdn.slotgambit.com/fortune-mouse.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "bikini-paradise",
+    "game_name": "Bikini Paradise ",
+    "banner": "https://cdn.slotgambit.com/bikini-paradise.png",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "candy-burst",
+    "game_name": "Candy Burst",
+    "banner": "https://cdn.slotgambit.com/candy-burst.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "cai-shen-wins",
+    "game_name": "Cai shen Wins",
+    "banner": "https://cdn.slotgambit.com/cai-shen-wins.png",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "egypts-book-mystery",
+    "game_name": "Egypt's Book of Mystery",
+    "banner": "https://cdn.slotgambit.com/egypts-book-mystery.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "mahjong-ways2",
+    "game_name": "Mahjong Ways 2",
+    "banner": "https://cdn.slotgambit.com/mahjong-ways2.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "ganesha-fortune",
+    "game_name": "Ganesha Fortune",
+    "banner": "https://cdn.slotgambit.com/ganesha-fortune.png",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "dreams-of-macau",
+    "game_name": "Dreams of Macau",
+    "banner": "https://cdn.slotgambit.com/dreams-of-macau.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "circus-delight",
+    "game_name": "Circus Delight",
+    "banner": "https://cdn.slotgambit.com/circus-delight.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "phoenix-rises",
+    "game_name": "Phoenix Rises",
+    "banner": "https://cdn.slotgambit.com/phoenix-rises.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "wild-fireworks",
+    "game_name": "Wild Fireworks",
+    "banner": "https://cdn.slotgambit.com/wild-fireworks.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "queen-bounty",
+    "game_name": "Queen of Bounty ",
+    "banner": "https://cdn.slotgambit.com/queen-bounty.png",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "genies-wishes",
+    "game_name": "Genie's 3 Wishes",
+    "banner": "https://cdn.slotgambit.com/genies-wishes.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "galactic-gems",
+    "game_name": "Galactic Gems",
+    "banner": "https://cdn.slotgambit.com/galactic-gems.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "treasures-aztec",
+    "game_name": "Treasures of Aztec",
+    "banner": "https://cdn.slotgambit.com/treasures-aztec.png",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "jewels-prosper",
+    "game_name": "Jewels of Prosperity",
+    "banner": "https://cdn.slotgambit.com/jewels-prosper.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "lucky-neko",
+    "game_name": "Lucky Neko",
+    "banner": "https://cdn.slotgambit.com/lucky-neko.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "sct-cleopatra",
+    "game_name": "Secrets of Cleopatra",
+    "banner": "https://cdn.slotgambit.com/sct-cleopatra.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "gdn-ice-fire",
+    "game_name": "Guardians of Ice and Fire",
+    "banner": "https://cdn.slotgambit.com/gdn-ice-fire.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "thai-river",
+    "game_name": "Thai River Wonders",
+    "banner": "https://cdn.slotgambit.com/thai-river.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "opera-dynasty",
+    "game_name": "Opera Dynasty",
+    "banner": "https://cdn.slotgambit.com/opera-dynasty.png",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "bali-vacation",
+    "game_name": "Bali Vacation",
+    "banner": "https://cdn.slotgambit.com/bali-vacation.png",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "majestic-ts",
+    "game_name": "Majestic Treasures",
+    "banner": "https://cdn.slotgambit.com/majestic-ts.png",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "jack-frosts",
+    "game_name": "Jack Frost's Winter",
+    "banner": "https://cdn.slotgambit.com/jack-frosts.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-ox",
+    "game_name": "Fortune Ox",
+    "banner": "https://cdn.slotgambit.com/fortune-ox.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "candy-bonanza",
+    "game_name": "Candy Bonanza",
+    "banner": "https://cdn.slotgambit.com/candy-bonanza.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "rise-of-apollo",
+    "game_name": "Rise of Apollo",
+    "banner": "https://cdn.slotgambit.com/rise-of-apollo.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "mermaid-riches",
+    "game_name": "Mermaid Riches",
+    "banner": "https://cdn.slotgambit.com/mermaid-riches.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "crypto-gold",
+    "game_name": "Crypto Gold",
+    "banner": "https://cdn.slotgambit.com/crypto-gold.png",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "wild-bandito",
+    "game_name": "Wild Bandito",
+    "banner": "https://cdn.slotgambit.com/wild-bandito.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "heist-stakes",
+    "game_name": "Heist  Stakes",
+    "banner": "https://cdn.slotgambit.com/heist-stakes.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "ways-of-qilin",
+    "game_name": "Ways of the Qilin",
+    "banner": "https://cdn.slotgambit.com/ways-of-qilin.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "lgd-monkey-kg",
+    "game_name": "Legendary Monkey King",
+    "banner": "https://cdn.slotgambit.com/lgd-monkey-kg.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "buffalo-win",
+    "game_name": "Buffalo Win",
+    "banner": "https://cdn.slotgambit.com/buffalo-win.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "jurassic-kdm",
+    "game_name": "Jurassic Kingdom",
+    "banner": "https://cdn.slotgambit.com/jurassic-kdm.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "oriental-pros",
+    "game_name": "Oriental Prosperity",
+    "banner": "https://cdn.slotgambit.com/oriental-pros.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "crypt-fortune",
+    "game_name": "Raider Jane's Crypt of Fortune",
+    "banner": "https://cdn.slotgambit.com/crypt-fortune.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "emoji-riches",
+    "game_name": "Emoji Riches",
+    "banner": "https://cdn.slotgambit.com/emoji-riches.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "sprmkt-spree",
+    "game_name": "Supermarket Spree",
+    "banner": "https://cdn.slotgambit.com/sprmkt-spree.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "cocktail-nite",
+    "game_name": "Cocktail Nights",
+    "banner": "https://cdn.slotgambit.com/cocktail-nite.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "mask-carnival",
+    "game_name": "Mask Carnival",
+    "banner": "https://cdn.slotgambit.com/mask-carnival.png",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "spirit-wonder",
+    "game_name": "Spirited Wonders",
+    "banner": "https://cdn.slotgambit.com/spirit-wonder.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "queen-banquet",
+    "game_name": "The Queen's Banquet",
+    "banner": "https://cdn.slotgambit.com/queen-banquet.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "dest-sun-moon",
+    "game_name": "Destiny of Sun & Moon",
+    "banner": "https://cdn.slotgambit.com/dest-sun-moon.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "garuda-gems",
+    "game_name": "Garuda Gems",
+    "banner": "https://cdn.slotgambit.com/garuda-gems.png",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "rooster-rbl",
+    "game_name": "Rooster Rumble",
+    "banner": "https://cdn.slotgambit.com/rooster-rbl.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "battleground",
+    "game_name": "Battleground Royale",
+    "banner": "https://cdn.slotgambit.com/battleground.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "btrfly-blossom",
+    "game_name": "Butterfly Blossom",
+    "banner": "https://cdn.slotgambit.com/btrfly-blossom.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-tiger",
+    "game_name": "Fortune Tiger",
+    "banner": "https://cdn.slotgambit.com/fortune-tiger.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "speed-winner",
+    "game_name": "Speed Winner",
+    "banner": "https://cdn.slotgambit.com/speed-winner.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "legend-perseus",
+    "game_name": "Legend of Perseus",
+    "banner": "https://cdn.slotgambit.com/legend-perseus.png",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "win-win-fpc",
+    "game_name": "Win Win Fish Prawn Crab",
+    "banner": "https://cdn.slotgambit.com/win-win-fpc.png",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "lucky-piggy",
+    "game_name": "Lucky Piggy",
+    "banner": "https://cdn.slotgambit.com/lucky-piggy.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "wild-coaster",
+    "game_name": "Wild Coaster",
+    "banner": "https://cdn.slotgambit.com/wild-coaster.png",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "wild-bounty-sd",
+    "game_name": "Wild Bounty Showdown",
+    "banner": "https://cdn.slotgambit.com/wild-bounty-sd.png",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "prosper-ftree",
+    "game_name": "Prosperity Fortune Tree",
+    "banner": "https://cdn.slotgambit.com/prosper-ftree.png",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "totem-wonders",
+    "game_name": "Totem Wonders",
+    "banner": "https://cdn.slotgambit.com/totem-wonders.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "asgardian-rs",
+    "game_name": "Asgardian Rising",
+    "banner": "https://cdn.slotgambit.com/asgardian-rs.png",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "alchemy-gold",
+    "game_name": "Alchemy Gold",
+    "banner": "https://cdn.slotgambit.com/alchemy-gold.png",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "diner-delights",
+    "game_name": "Diner Delights",
+    "banner": "https://cdn.slotgambit.com/diner-delights.png",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "hawaiian-tiki",
+    "game_name": "Hawaiian Tiki",
+    "banner": "https://cdn.slotgambit.com/hawaiian-tiki.png",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fruity-candy",
+    "game_name": "Fruity Candy",
+    "banner": "https://cdn.slotgambit.com/fruity-candy.png",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "midas-fortune",
+    "game_name": "Midas Fortune",
+    "banner": "https://cdn.slotgambit.com/midas-fortune.png",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "bakery-bonanza",
+    "game_name": "Bakery Bonanza",
+    "banner": "https://cdn.slotgambit.com/bakery-bonanza.png",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "rave-party-fvr",
+    "game_name": "Rave Party Fever",
+    "banner": "https://cdn.slotgambit.com/rave-party-fvr.png",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "myst-spirits",
+    "game_name": "Mystical Spirits",
+    "banner": "https://cdn.slotgambit.com/myst-spirits.png",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "songkran-spl",
+    "game_name": "Songkran Splash",
+    "banner": "https://cdn.slotgambit.com/songkran-spl.png",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "cruise-royale",
+    "game_name": "Cruise Royale",
+    "banner": "https://cdn.slotgambit.com/cruise-royale.png",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "ult-striker",
+    "game_name": "Ultimate Striker",
+    "banner": "https://cdn.slotgambit.com/ult-striker.png",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "spr-golf-drive",
+    "game_name": "Super Golf Drive",
+    "banner": "https://cdn.slotgambit.com/spr-golf-drive.png",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-rabbit",
+    "game_name": "Fortune Rabbit",
+    "banner": "https://cdn.slotgambit.com/fortune-rabbit.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "safari-wilds",
+    "game_name": "Safari Wilds",
+    "banner": "https://cdn.slotgambit.com/safari-wilds.png",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "lucky-clover",
+    "game_name": "Lucky Clover Lady",
+    "banner": "https://cdn.slotgambit.com/lucky-clover.png",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PGSOFT",
+    "game_code": "fortune-dragon",
+    "game_name": "Fortune Dragon",
+    "banner": "https://cdn.slotgambit.com/1695365.jpg",
+    "status": 1
+  }
+]

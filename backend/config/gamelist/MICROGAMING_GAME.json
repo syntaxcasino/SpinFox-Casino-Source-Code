@@ -1,0 +1,562 @@
+[
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_adventurePalaceVF",
+    "game_name": "Adventure Palace VF",
+    "banner": "https://cdn.slotgambit.com/adventure-palace.jpg",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_fishEmUpVF",
+    "game_name": "Fish Em Up VF",
+    "banner": "https://cdn.slotgambit.com/fish-em-up.jpg",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_agentjaneblondereturns",
+    "game_name": "Agent Jane Blonde Returns",
+    "banner": "https://cdn.slotgambit.com/agent-jane-blonde-returns.jpg",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_alaskanFishing",
+    "game_name": "Alaskan Fishing",
+    "banner": "https://cdn.slotgambit.com/SMG_alaskanFishing.jpg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_amazingLinkZeus",
+    "game_name": "Amazing Link Zeus",
+    "banner": "https://cdn.slotgambit.com/AmazingLinkZeus-Logo1.png.webp",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_amazingLinkApollo",
+    "game_name": "Amazing Link Apollo",
+    "banner": "https://cdn.slotgambit.com/ng_mg_amazinglinkapollo_en.jpg",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_ancientFortunesPoseidonMegaways",
+    "game_name": "Ancient Fortunes: Poseidon Megaways    ",
+    "banner": "https://cdn.slotgambit.com/SMG_ancientFortunesPoseidonMegaways.jpg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_ancientFortunesZeus",
+    "game_name": "Ancient Fortunes: Zeus",
+    "banner": "https://cdn.slotgambit.com/SMG_ancientFortunesZeus.jpg",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_asianBeauty",
+    "game_name": "Asian Beauty",
+    "banner": "https://cdn.slotgambit.com/SMG_asianBeauty.jpg",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_atlantisRising",
+    "game_name": "Atlantis Rising",
+    "banner": "https://cdn.slotgambit.com/atlantis-rising.jpg",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_avalon",
+    "game_name": "Avalon",
+    "banner": "https://cdn.slotgambit.com/SMG_avalon.jpg",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_barBarBlackSheep5Reel",
+    "game_name": "Bar Bar Black Sheep 5 Reel",
+    "banner": "https://cdn.slotgambit.com/SMG_barBarBlackSheep5Reel.jpg",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_basketballStar",
+    "game_name": "Basketball Star",
+    "banner": "https://cdn.slotgambit.com/SMG_basketballStar.jpg",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_bigTop",
+    "game_name": "Big Top",
+    "banner": "https://cdn.slotgambit.com/SMG_bigTop.jpg",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_breakDaBankAgain",
+    "game_name": "Break da Bank Again",
+    "banner": "https://cdn.slotgambit.com/SMG_breakDaBankAgain.jpg",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_burningDesire",
+    "game_name": "Burning Desire",
+    "banner": "https://cdn.slotgambit.com/SMG_burningDesire.jpg",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_centreCourt",
+    "game_name": "Centre Court",
+    "banner": "https://cdn.slotgambit.com/SMG_centreCourt.jpg",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_cricketStar",
+    "game_name": "Cricket Star",
+    "banner": "https://cdn.slotgambit.com/SMG_cricketStar.jpg",
+    "status": 1
+  },
+  {
+    "id": 149,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_footballStar",
+    "game_name": "Football Star",
+    "banner": "https://cdn.slotgambit.com/SMG_footballStar.jpg",
+    "status": 1
+  },
+  {
+    "id": 161,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_goldCollector",
+    "game_name": "Gold Collector",
+    "banner": "https://cdn.slotgambit.com/SMG_goldCollector.jpg",
+    "status": 1
+  },
+  {
+    "id": 162,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_goldFactory",
+    "game_name": "Gold Factory",
+    "banner": "https://cdn.slotgambit.com/gold-factory.jpg",
+    "status": 1
+  },
+  {
+    "id": 166,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_goldenPrincess",
+    "game_name": "Golden Princess",
+    "banner": "https://cdn.slotgambit.com/SMG_goldenPrincess.jpg",
+    "status": 1
+  },
+  {
+    "id": 168,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_gopherGold",
+    "game_name": "Gopher Gold",
+    "banner": "https://cdn.slotgambit.com/SMG_gopherGold.jpg",
+    "status": 1
+  },
+  {
+    "id": 178,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_hyperStar",
+    "game_name": "Hyper Star",
+    "banner": "https://cdn.slotgambit.com/hyper_star_online_slot1.png",
+    "status": 1
+  },
+  {
+    "id": 191,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_kathmandu",
+    "game_name": "Kathmandu",
+    "banner": "https://cdn.slotgambit.com/SMG_kathmandu.jpg",
+    "status": 1
+  },
+  {
+    "id": 197,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_kodiakKingdom",
+    "game_name": "Kodiak Kingdom",
+    "banner": "https://cdn.slotgambit.com/SMG_kodiakKingdom.jpg",
+    "status": 1
+  },
+  {
+    "id": 198,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_ladiesNite",
+    "game_name": "Ladies Nite",
+    "banner": "https://cdn.slotgambit.com/SMG_ladiesNite.jpg",
+    "status": 1
+  },
+  {
+    "id": 203,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_lifeOfRiches",
+    "game_name": "Life Of Riches",
+    "banner": "https://cdn.slotgambit.com/SMG_lifeOfRiches.jpg",
+    "status": 1
+  },
+  {
+    "id": 204,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_lionsPride",
+    "game_name": "Lion's Pride",
+    "banner": "https://cdn.slotgambit.com/lion-s-pride.webp",
+    "status": 1
+  },
+  {
+    "id": 205,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_liquidGold",
+    "game_name": "Liquid Gold",
+    "banner": "https://cdn.slotgambit.com/Liquid_Gold_Online_Slot_mob.jpg",
+    "status": 1
+  },
+  {
+    "id": 206,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_loaded",
+    "game_name": "Loaded",
+    "banner": "https://cdn.slotgambit.com/SMG_loaded.jpg",
+    "status": 1
+  },
+  {
+    "id": 212,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_luckyfirecracker",
+    "game_name": "Lucky Firecracker",
+    "banner": "https://cdn.slotgambit.com/SMG_luckyfirecracker.jpg",
+    "status": 1
+  },
+  {
+    "id": 214,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_luckyLeprechaun",
+    "game_name": "Lucky Leprechaun",
+    "banner": "https://cdn.slotgambit.com/SMG_luckyLeprechaun.jpg",
+    "status": 1
+  },
+  {
+    "id": 217,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_luckyTwins",
+    "game_name": "Lucky Twins",
+    "banner": "https://cdn.slotgambit.com/SMG_luckyTwins.jpg",
+    "status": 1
+  },
+  {
+    "id": 235,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_nobleSky",
+    "game_name": "Noble Sky",
+    "banner": "https://cdn.slotgambit.com/noble-sky.jpg",
+    "status": 1
+  },
+  {
+    "id": 245,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_playboy",
+    "game_name": "Playboy",
+    "banner": "https://cdn.slotgambit.com/SMG_playboy.jpg",
+    "status": 1
+  },
+  {
+    "id": 252,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_purePlatinum",
+    "game_name": "Pure Platinum",
+    "banner": "https://cdn.slotgambit.com/SMG_purePlatinum.jpg",
+    "status": 1
+  },
+  {
+    "id": 263,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_rhymingReelsHeartsAndTarts",
+    "game_name": "Rhyming Reels Hearts And Tarts",
+    "banner": "https://cdn.slotgambit.com/SMG_rhymingReelsHeartsAndTarts.jpg",
+    "status": 1
+  },
+  {
+    "id": 264,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_rivieraRiches",
+    "game_name": "Riviera Riches",
+    "banner": "https://cdn.slotgambit.com/Riviera-Riches-1_s.jpg",
+    "status": 1
+  },
+  {
+    "id": 268,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_rugbyStar",
+    "game_name": "Rugby Star",
+    "banner": "https://cdn.slotgambit.com/SMG_rugbyStar.jpg",
+    "status": 1
+  },
+  {
+    "id": 292,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_springBreak",
+    "game_name": "Spring Break",
+    "banner": "https://cdn.slotgambit.com/SMG_springBreak.jpg",
+    "status": 1
+  },
+  {
+    "id": 316,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_theTwistedCircus",
+    "game_name": "The Twisted Circus",
+    "banner": "https://cdn.slotgambit.com/SMG_theTwistedCircus.jpg",
+    "status": 1
+  },
+  {
+    "id": 317,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_thunderstruck",
+    "game_name": "Thunderstruck",
+    "banner": "https://cdn.slotgambit.com/SMG_thunderstruck.jpg",
+    "status": 1
+  },
+  {
+    "id": 319,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_tigersEye",
+    "game_name": "Tiger's Eye",
+    "banner": "https://cdn.slotgambit.com/SMG_tigersEye.jpg",
+    "status": 1
+  },
+  {
+    "id": 328,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_treasurePalace",
+    "game_name": "Treasure Palace",
+    "banner": "https://cdn.slotgambit.com/SMG_treasurePalace.jpg",
+    "status": 1
+  },
+  {
+    "id": 335,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_wackyPanda",
+    "game_name": "Wacky Panda",
+    "banner": "https://cdn.slotgambit.com/SMG_wackyPanda.jpg",
+    "status": 1
+  },
+  {
+    "id": 339,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_whatAHoot",
+    "game_name": "What A Hoot",
+    "banner": "https://cdn.slotgambit.com/SMG_whatAHoot.jpg",
+    "status": 1
+  },
+  {
+    "id": 345,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_winSumDimSum",
+    "game_name": "Win Sum Dim Sum",
+    "banner": "https://cdn.slotgambit.com/SMG_winSumDimSum.jpg",
+    "status": 1
+  },
+  {
+    "id": 354,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_kingofTheRing",
+    "game_name": "King of the Ring",
+    "banner": "https://cdn.slotgambit.com/king-of-the-ring.png",
+    "status": 1
+  },
+  {
+    "id": 355,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_luckyKoi",
+    "game_name": "Lucky Koi",
+    "banner": "https://cdn.slotgambit.com/SMG_luckyKoi.jpg",
+    "status": 1
+  },
+  {
+    "id": 357,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_luckySilat",
+    "game_name": "Lucky Silat",
+    "banner": "https://cdn.slotgambit.com/lucky-lift.jpg",
+    "status": 1
+  },
+  {
+    "id": 365,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_5ReelDrive",
+    "game_name": "5 Reel Drive VF",
+    "banner": "https://cdn.slotgambit.com/5-reel-drive.jpg",
+    "status": 1
+  },
+  {
+    "id": 380,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_8GoldenSkullsOfHollyRoger",
+    "game_name": "8 Golden Skulls of the Holly Roger Megaways   ",
+    "banner": "https://cdn.slotgambit.com/8-golden-skulls-of-holly-roger-megaways-tile.jpg",
+    "status": 1
+  },
+  {
+    "id": 381,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_9BlazingDiamonds",
+    "game_name": "9 Blazing Diamonds",
+    "banner": "https://cdn.slotgambit.com/9-blazing-diamonds-wowpot--tile.jpg",
+    "status": 1
+  },
+  {
+    "id": 382,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_9MadHats",
+    "game_name": "9 Mad Hats",
+    "banner": "https://cdn.slotgambit.com/9madhats-icon_full-5e1b770e.jpg",
+    "status": 1
+  },
+  {
+    "id": 387,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MICROGAMING",
+    "game_code": "SMG_abraCatDabra",
+    "game_name": "AbraCatDabra",
+    "banner": "https://cdn.slotgambit.com/SMG_abraCatDabra.jpg",
+    "status": 1
+  }
+]

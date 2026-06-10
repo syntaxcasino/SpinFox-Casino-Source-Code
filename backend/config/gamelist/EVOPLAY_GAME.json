@@ -1,0 +1,542 @@
+[
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "jewellerystore",
+    "game_name": "Jewellery Store",
+    "banner": "https://cdn.slotgambit.com/Jewellery_Store_Thumbnail_360x360.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "redcliff",
+    "game_name": "Red Cliff",
+    "banner": "https://cdn.slotgambit.com/Red_Cliff_360x340.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "ElvenPrincesses",
+    "game_name": "Elven Princesses",
+    "banner": "https://cdn.slotgambit.com/Elven_Princesses_Thumbnail_360x360.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "NaughtyGirlsCabaret",
+    "game_name": "Naughty Girls Cabaret",
+    "banner": "https://cdn.slotgambit.com/Naughty_Girls_Cabaret_Thumbnail_360x360.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "robinzon",
+    "game_name": "Robinzon",
+    "banner": "https://cdn.slotgambit.com/Robinson_Thumbnail_360x360.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "seventies",
+    "game_name": "Seventies",
+    "banner": "https://cdn.slotgambit.com/USSR_Seventies_thumbnail_360x360_EN.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "aeronauts",
+    "game_name": "Aeronauts",
+    "banner": "https://cdn.slotgambit.com/Aeronauts_Thumbnail_360x360.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "monsterlab",
+    "game_name": "Monster Lab",
+    "banner": "https://cdn.slotgambit.com/Monste_-Lab_Thumbnail_360x360.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TriptotheFuture",
+    "game_name": "Trip To The Future",
+    "banner": "https://cdn.slotgambit.com/Trip-to-the-future-1280x720-ENG.jpg",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "NukeWorld",
+    "game_name": "Nuke World",
+    "banner": "https://cdn.slotgambit.com/9102.jpg",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "legendofkaan",
+    "game_name": "Legend Of Kaan",
+    "banner": "https://cdn.slotgambit.com/10033.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "IceMania",
+    "game_name": "Ice Mania",
+    "banner": "https://cdn.slotgambit.com/11384.jpg",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "ValleyOfDreams",
+    "game_name": "Valley of Dreams",
+    "banner": "https://cdn.slotgambit.com/11427.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitNova",
+    "game_name": "Fruit Nova",
+    "banner": "https://cdn.slotgambit.com/11428.jpg",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TreeOfLight",
+    "game_name": "Tree of Light",
+    "banner": "https://cdn.slotgambit.com/11503.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TempleOfDead",
+    "game_name": "Temple of Dead",
+    "banner": "https://cdn.slotgambit.com/11604.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitSuperNova",
+    "game_name": "Fruit Super Nova",
+    "banner": "https://cdn.slotgambit.com/11605.jpg",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "RunesOfDestiny",
+    "game_name": "Runes Of Destiny",
+    "banner": "https://cdn.slotgambit.com/11728.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "EllensFortune",
+    "game_name": "Ellens Fortune",
+    "banner": "https://cdn.slotgambit.com/11729.jpg",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "UnlimitedWishes",
+    "game_name": "Unlimited Wishes",
+    "banner": "https://cdn.slotgambit.com/11807.jpg",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FoodFeast",
+    "game_name": "Food Feast",
+    "banner": "https://cdn.slotgambit.com/11808.jpg",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "EpicLegends",
+    "game_name": "Epic Legends",
+    "banner": "https://cdn.slotgambit.com/11810.jpg",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "SweetSugar",
+    "game_name": "Sweet Sugar",
+    "banner": "https://cdn.slotgambit.com/11811.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "CycleofLuck",
+    "game_name": "Cycle Of Luck",
+    "banner": "https://cdn.slotgambit.com/12054.jpg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "GoldOfSirens",
+    "game_name": "Gold Of Sirens",
+    "banner": "https://cdn.slotgambit.com/12058.jpg",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "BloodyBrilliant",
+    "game_name": "Bloody Brilliant",
+    "banner": "https://cdn.slotgambit.com/12059.jpg",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitSuperNova40",
+    "game_name": "Fruit Super Nova 40",
+    "banner": "https://cdn.slotgambit.com/12060.jpg",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "ShadowOfLuxor",
+    "game_name": "Shadow Of Luxor",
+    "banner": "https://cdn.slotgambit.com/12134.jpg",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "AnubisMoon",
+    "game_name": "Anubis Moon",
+    "banner": "https://cdn.slotgambit.com/12171.jpg",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitDisco",
+    "game_name": "Fruit Disco",
+    "banner": "https://cdn.slotgambit.com/12172.jpg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitSuperNova30",
+    "game_name": "Fruit Super Nova 30",
+    "banner": "https://cdn.slotgambit.com/12173.jpg",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "CurseOfThePharaoh",
+    "game_name": "Curse Of The Pharaoh",
+    "banner": "https://cdn.slotgambit.com/12174.jpg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitSuperNova60",
+    "game_name": "Fruit Super Nova 60",
+    "banner": "https://cdn.slotgambit.com/12227.jpg",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "CurseofthePharaohBonusBuy",
+    "game_name": "Curse Of The Pharaoh Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12228.jpg",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitSuperNova100",
+    "game_name": "Fruit Super Nova 100",
+    "banner": "https://cdn.slotgambit.com/12256.jpg",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "ChristmasReach",
+    "game_name": "Christmas Reach",
+    "banner": "https://cdn.slotgambit.com/12269.jpg",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "FruitSuperNova80",
+    "game_name": "Fruit Super Nova 80",
+    "banner": "https://cdn.slotgambit.com/12326.jpg",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "DragonsTavern",
+    "game_name": "Dragons Tavern",
+    "banner": "https://cdn.slotgambit.com/12327.jpg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "WildOverlords",
+    "game_name": "Wild Overlords",
+    "banner": "https://cdn.slotgambit.com/12329.jpg",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "DragonsTavernBonusBuy",
+    "game_name": "Dragons Tavern Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12358.jpg",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "BudaiReels",
+    "game_name": "Budai Reels",
+    "banner": "https://cdn.slotgambit.com/12381.jpg",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "BudaiReelsBonusBuy",
+    "game_name": "Budai Reels Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12573.jpeg",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "MoneyMinter",
+    "game_name": "Money Minter",
+    "banner": "https://cdn.slotgambit.com/12575_.jpeg",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "JuicyGems",
+    "game_name": "Juicy Gems",
+    "banner": "https://cdn.slotgambit.com/12895.jpg",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "JuicyGemsBB",
+    "game_name": "Juicy Gems Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12896.jpg",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TheGreatestCatch",
+    "game_name": "The Greatest Catch",
+    "banner": "https://cdn.slotgambit.com/12892.jpg",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TheGreatestCatchBonusBuy",
+    "game_name": "The Greatest Catch Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12893.jpg",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TreeOfLightBB",
+    "game_name": "Tree Of Light Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12899.jpg",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "WolfHiding",
+    "game_name": "Wolf Hiding",
+    "banner": "https://cdn.slotgambit.com/12953.jpg",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "CaminoDeChili",
+    "game_name": "Camino De Chili",
+    "banner": "https://cdn.slotgambit.com/12902.jpg",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "CandyDreamsSweetPlanet",
+    "game_name": "Candy Dreams Sweet Planet",
+    "banner": "https://cdn.slotgambit.com/12902.jpg",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "WildOverlordsBonusBuy",
+    "game_name": "Wild Overlords Bonus Buy",
+    "banner": "https://cdn.slotgambit.com/12890.jpg",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "TempleOfThunder",
+    "game_name": "Temple of Thunder",
+    "banner": "https://cdn.slotgambit.com/12891.jpg",
+    "status": 1
+  },
+  {
+    "id": 428,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "EVOPLAY",
+    "game_code": "chinesenewyear",
+    "game_name": "Chinese New Year",
+    "banner": "https://cdn.slotgambit.com/ChineseNewYear_270x270.jpg",
+    "status": 1
+  }
+]

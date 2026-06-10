@@ -1,0 +1,382 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "GoldenCatch",
+    "game_name": "Golden Catch",
+    "banner": "https://cdn.slotgambit.com/goldencatchv1950.png",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Bonanza",
+    "game_name": "Bonanza",
+    "banner": "https://cdn.slotgambit.com/bonanzav29500000.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "ChristmasBonanza",
+    "game_name": "Christmas Bonanza",
+    "banner": "https://cdn.slotgambit.com/christmasnzav195.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "GoldMegaways",
+    "game_name": "Gold Megaways",
+    "banner": "https://cdn.slotgambit.com/goldmegawaysv195.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "ExtraChilli",
+    "game_name": "Extra Chilli",
+    "banner": "https://cdn.slotgambit.com/extrachilliv2950.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Millionaire",
+    "game_name": "Millionaire",
+    "banner": "https://cdn.slotgambit.com/millionairev1950.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "WhiteRabbit",
+    "game_name": "White Rabbit",
+    "banner": "https://cdn.slotgambit.com/whiterabbitv2950.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "OvertheMoon",
+    "game_name": "Over the Moon",
+    "banner": "https://cdn.slotgambit.com/overthemoonv1950.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "RasputinMegaways",
+    "game_name": "Rasputin Megaways",
+    "banner": "https://cdn.slotgambit.com/rasputinmaysv195.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "GiftsofFortune",
+    "game_name": "Gifts of Fortune",
+    "banner": "https://cdn.slotgambit.com/giftsoffounev295.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "ApolloPays",
+    "game_name": "Apollo Pays",
+    "banner": "https://cdn.slotgambit.com/apollopaysv19500.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "VegasRush",
+    "game_name": "Vegas Rush",
+    "banner": "https://cdn.slotgambit.com/vegasrushv195000.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "TheRace",
+    "game_name": "The Race",
+    "banner": "https://cdn.slotgambit.com/theracev19500000.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "BigBadBison",
+    "game_name": "Big Bad Bison",
+    "banner": "https://cdn.slotgambit.com/bigbadbisonv1950.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "PandaMoney",
+    "game_name": "Panda Money",
+    "banner": "https://cdn.slotgambit.com/pandamoneyv19400.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "SpicyMeatballs",
+    "game_name": "Spicy Meatballs",
+    "banner": "https://cdn.slotgambit.com/spicymeatllsv194.jpg",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "FireworksMegaways",
+    "game_name": "Fireworks Megaways",
+    "banner": "https://cdn.slotgambit.com/fireworksaysv194.jpg",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "TriggerHappy",
+    "game_name": "Trigger Happy",
+    "banner": "https://cdn.slotgambit.com/triggerhappyv194.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "CyberslotMegaclusters",
+    "game_name": "Cyberslot Megaclusters",
+    "banner": "https://cdn.slotgambit.com/cyberslotersv194.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "BonanzaFalls",
+    "game_name": "Bonanza Falls",
+    "banner": "https://cdn.slotgambit.com/bonanzafallsv195.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Christmascatch",
+    "game_name": "Christmas catch",
+    "banner": "https://cdn.slotgambit.com/christmastchv195.jpg",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Donuts",
+    "game_name": "Donuts",
+    "banner": "https://cdn.slotgambit.com/donutsv195000000.jpg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "LilDevil",
+    "game_name": "Lil Devil",
+    "banner": "https://cdn.slotgambit.com/lildevilv1940000.jpg",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "MaxMegaways",
+    "game_name": "Max Megaways",
+    "banner": "https://cdn.slotgambit.com/maxmegawaysv1950.jpg",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "MaxMegaways2",
+    "game_name": "Max Megaways 2",
+    "banner": "https://cdn.slotgambit.com/maxmegaways2v195.jpg",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "MoreTurkey",
+    "game_name": "More Turkey",
+    "banner": "https://cdn.slotgambit.com/moreturkeyv19500.jpg",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "OpalFruits",
+    "game_name": "Opal Fruits",
+    "banner": "https://cdn.slotgambit.com/opalfruitsv19500.jpg",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Outlaw",
+    "game_name": "Outlaw",
+    "banner": "https://cdn.slotgambit.com/outlawv195000000.jpg",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "PiratePays",
+    "game_name": "Pirate Pays",
+    "banner": "https://cdn.slotgambit.com/piratepaysv19500.jpg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Pop",
+    "game_name": "Pop",
+    "banner": "https://cdn.slotgambit.com/popv195000000000.jpg",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "RoyalMint",
+    "game_name": "Royal Mint",
+    "banner": "https://cdn.slotgambit.com/royalmintv194000.jpg",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Sanctuary",
+    "game_name": "Sanctuary",
+    "banner": "https://cdn.slotgambit.com/sanctuaryv195000.jpg",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "SlotVegas",
+    "game_name": "Slot Vegas Fully Loaded",
+    "banner": "https://cdn.slotgambit.com/slotvegasdedv195.jpg",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "WildFlower",
+    "game_name": "Wild Flower",
+    "banner": "https://cdn.slotgambit.com/wildflowerv19500.jpg",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "WildPortals",
+    "game_name": "Wild Portals",
+    "banner": "https://cdn.slotgambit.com/wildportalsv1950.jpg",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "WildUnicorns",
+    "game_name": "Wild Unicorns",
+    "banner": "https://cdn.slotgambit.com/wildunicornsv195.jpg",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "KingofCats",
+    "game_name": "King of Cats",
+    "banner": "https://cdn.slotgambit.com/kingofcatsv19400.jpg",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BTG",
+    "game_code": "Chocolates",
+    "game_name": "Chocolates",
+    "banner": "https://cdn.slotgambit.com/chocolatesv19400.jpg",
+    "status": 1
+  }
+]

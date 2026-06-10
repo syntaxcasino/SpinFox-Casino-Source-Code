@@ -1,0 +1,37 @@
+{
+  "title": "Settings",
+  "appearance": {
+    "title": "Appearance",
+    "subtitle": "Customize how SpinFox looks on your device",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode",
+    "lightDescription": "Clean and bright interface",
+    "darkDescription": "Easy on the eyes in low light"
+  },
+  "oddsFormat": {
+    "title": "Odds Display Format",
+    "subtitle": "Choose how you want odds to be displayed throughout the site",
+    "decimal": {
+      "title": "Decimal",
+      "format": "Format: 2.50, 1.50",
+      "example": "Example: 2.50"
+    },
+    "american": {
+      "title": "American",
+      "format": "Format: +150, -200",
+      "example": "Example: +150"
+    },
+    "normalized": {
+      "title": "Normalized",
+      "format": "Format: 0.43, 0.63",
+      "example": "Example: 0.43"
+    }
+  },
+  "account": {
+    "title": "Account Information",
+    "username": "Username",
+    "email": "Email",
+    "balance": "Balance"
+  }
+}
+

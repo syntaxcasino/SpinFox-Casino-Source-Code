@@ -1,0 +1,15 @@
+{
+  "title": "Sports Betting",
+  "selectSport": "Select sport",
+  "allSports": "All sports",
+  "search": "Search",
+  "noResults": "No search result for",
+  "noSportsAvailable": "No sports available",
+  "loading": "Loading...",
+  "oddsFormat": {
+    "decimal": "Decimal",
+    "american": "American",
+    "normalized": "Normalized"
+  }
+}
+

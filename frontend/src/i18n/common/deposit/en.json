@@ -1,0 +1,8 @@
+{
+  "title": "Deposit",
+  "currency": "Deposit Currency",
+  "network": "Choose CoinNetwork",
+  "address" : "Deposit Address",
+  "copy": "Copy Address",
+  "copySuccess": "Copied"
+}

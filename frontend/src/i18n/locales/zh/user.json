@@ -1,0 +1,16 @@
+{
+  "balance": "余额",
+  "bonusBalance": "奖金余额",
+  "loyaltyPoints": "忠诚积分",
+  "level": "等级",
+  "rank": "排名",
+  "deposit": "存款",
+  "withdraw": "取款",
+  "profile": "个人资料",
+  "accountSettings": "账户设置",
+  "transactions": "交易记录",
+  "referral": "推荐计划",
+  "myBonuses": "我的奖金",
+  "security": "安全设置",
+  "2fa": "双重验证"
+}

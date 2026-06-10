@@ -1,0 +1,16 @@
+{
+  "yes": "Yes",
+  "no": "No",
+  "ok": "OK",
+  "success": "Success",
+  "error": "Error",
+  "tryAgain": "Try Again",
+  "learnMore": "Learn More",
+  "somethingWentWrong": "Something went wrong. Please try again.",
+  "404": {
+    "title": "Page Not Found",
+    "subtitle": "The page you are looking for does not exist.",
+    "casino": "Go to Casino",
+    "origin": "Go to Origin"
+  }
+}

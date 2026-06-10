@@ -1,0 +1,432 @@
+[
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "24HourGrandPrix",
+    "game_name": "24 Hour Grand Prix",
+    "banner": "https://cdn.slotgambit.com/24HourGrandPrix.jpg",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "4Squad",
+    "game_name": "4Squad",
+    "banner": "https://cdn.slotgambit.com/4Squad.jpg",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "5Families",
+    "game_name": "5 Families",
+    "banner": "https://cdn.slotgambit.com/5Families.jpg",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "777Strike",
+    "game_name": "777 Strike",
+    "banner": "https://cdn.slotgambit.com/777Strike.jpg",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "AgentRoyale",
+    "game_name": "Agent Royale",
+    "banner": "https://cdn.slotgambit.com/AgentRoyale.jpg",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "ArcadeBomb",
+    "game_name": "Arcade Bomb",
+    "banner": "https://cdn.slotgambit.com/ArcadeBomb.jpg",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "AztecSpins",
+    "game_name": "Aztec Spins",
+    "banner": "https://cdn.slotgambit.com/AztecSpins.jpg",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "BlueDiamond",
+    "game_name": "Blue Diamond",
+    "banner": "https://cdn.slotgambit.com/BlueDiamond.jpg",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "BountyRaid",
+    "game_name": "Bounty Raid",
+    "banner": "https://cdn.slotgambit.com/BountyRaid.jpg",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "CashUltimate",
+    "game_name": "Cash Ultimate",
+    "banner": "https://cdn.slotgambit.com/CashUltimate.jpg",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "ChineseTreasures",
+    "game_name": "Chinese Treasures",
+    "banner": "https://cdn.slotgambit.com/ChineseTreasures.jpg",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "CrazyGenie",
+    "game_name": "Crazy Genie",
+    "banner": "https://cdn.slotgambit.com/CrazyGenie.jpg",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "CrystalMirror",
+    "game_name": "Crystal Mirror",
+    "banner": "https://cdn.slotgambit.com/CrystalMirror.jpg",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DaVincisMystery",
+    "game_name": "Da Vincis Mystery",
+    "banner": "https://cdn.slotgambit.com/DaVincisMystery.jpg",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DevilsNumber",
+    "game_name": "Devils Number",
+    "banner": "https://cdn.slotgambit.com/DevilsNumber.jpg",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DiamondBlitz",
+    "game_name": "Diamond Blitz",
+    "banner": "https://cdn.slotgambit.com/DiamondBlitz.jpg",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DiceDiceDice",
+    "game_name": "Dice Dice Dice",
+    "banner": "https://cdn.slotgambit.com/DiceDiceDice.jpg",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DivineWays",
+    "game_name": "Divine Ways",
+    "banner": "https://cdn.slotgambit.com/DivineWays.jpg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DragonsFire",
+    "game_name": "Dragons Fire",
+    "banner": "https://cdn.slotgambit.com/DragonsFire.jpg",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DragonsLuck",
+    "game_name": "Dragons Luck",
+    "banner": "https://cdn.slotgambit.com/DragonsLuck.jpg",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "DragonsLuckDeluxe",
+    "game_name": "Dragons Luck Deluxe",
+    "banner": "https://cdn.slotgambit.com/DragonsLuckDeluxe.jpg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "EagleRiches",
+    "game_name": "Eagle Riches",
+    "banner": "https://cdn.slotgambit.com/EagleRiches.jpg",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "EmeraldDiamond",
+    "game_name": "Emerald Diamond",
+    "banner": "https://cdn.slotgambit.com/EmeraldDiamond.jpg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "EsqueletoMariachi",
+    "game_name": "Esqueleto Mariachi",
+    "banner": "https://cdn.slotgambit.com/EsqueletoMariachi.jpg",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "FiveStar",
+    "game_name": "Five Star",
+    "banner": "https://cdn.slotgambit.com/FiveStar.jpg",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "FiveStarPowerReels",
+    "game_name": "Five Star Power Reels",
+    "banner": "https://cdn.slotgambit.com/FiveStarPowerReels.jpg",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "FortuneCharm",
+    "game_name": "Fortune Charm",
+    "banner": "https://cdn.slotgambit.com/FortuneCharm.jpg",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "ImperialPalace",
+    "game_name": "Imperial Palace",
+    "banner": "https://cdn.slotgambit.com/ImperialPalace.jpg",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "JackpotQuest",
+    "game_name": "Jackpot Quest",
+    "banner": "https://cdn.slotgambit.com/JackpotQuest.jpg",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "JadeCharms",
+    "game_name": "Jade Charms",
+    "banner": "https://cdn.slotgambit.com/JadeCharms.jpg",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "JewelScarabs",
+    "game_name": "Jewel Scarabs",
+    "banner": "https://cdn.slotgambit.com/JewelScarabs.jpg",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "JingleBells",
+    "game_name": "Jingle Bells",
+    "banner": "https://cdn.slotgambit.com/JingleBells.jpg",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "JingleBellsPowerReels",
+    "game_name": "Jingle Bells Power Reels",
+    "banner": "https://cdn.slotgambit.com/JingleBellsPowerReels.jpg",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "JoeExotic",
+    "game_name": "Joe Exotic",
+    "banner": "https://cdn.slotgambit.com/JoeExotic.jpg",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LegendaryExcalibur",
+    "game_name": "Legendary Excalibur",
+    "banner": "https://cdn.slotgambit.com/LegendaryExcalibur.jpg",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LionDance",
+    "game_name": "Lion Dance",
+    "banner": "https://cdn.slotgambit.com/LionDance.jpg",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LuckyEaster",
+    "game_name": "Lucky Easter",
+    "banner": "https://cdn.slotgambit.com/LuckyEaster.jpg",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LuckyFortuneCat",
+    "game_name": "Lucky Fortune Cat",
+    "banner": "https://cdn.slotgambit.com/lucky-fortune-cat.jpg",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LuckyHalloween",
+    "game_name": "Lucky Halloween",
+    "banner": "https://cdn.slotgambit.com/LuckyHalloween.jpg",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LuckyValentine",
+    "game_name": "Lucky Valentine",
+    "banner": "https://cdn.slotgambit.com/LuckyValentine.jpg",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "LuckyWizard",
+    "game_name": "Lucky Wizard",
+    "banner": "https://cdn.slotgambit.com/LuckyWizard.jpg",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "MegaPyramid",
+    "game_name": "Mega Pyramid",
+    "banner": "https://cdn.slotgambit.com/MegaPyramid.jpg",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "REDTIGER",
+    "game_code": "RedPhoenixRising",
+    "game_name": "Phoenix",
+    "banner": "https://cdn.slotgambit.com/RedPhoenixRising.jpg",
+    "status": 1
+  }
+]

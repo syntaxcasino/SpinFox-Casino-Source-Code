@@ -1,0 +1,78 @@
+{
+  "title": "Support Center",
+  "subtitle": "Get help with your account, games, and more",
+  "searchPlaceholder": "Search FAQ or support topics...",
+  "tabs": {
+    "faq": "FAQ",
+    "tickets": "Support Tickets",
+    "liveSupport": "Live Support"
+  },
+  "faq": {
+    "noResults": "No results found for \"{query}\"",
+    "stillNeedHelp": "Still need help?",
+    "cantFindAnswer": "Can't find what you're looking for? Our support team is here to help!",
+    "createTicket": "Create Support Ticket",
+    "startLiveChat": "Start Live Chat"
+  },
+  "tickets": {
+    "title": "Support Tickets",
+    "newTicket": "New Ticket",
+    "noTickets": "No Tickets Yet",
+    "noTicketsDescription": "Create your first support ticket to get help with any issues.",
+    "createFirstTicket": "Create Support Ticket",
+    "selectTicket": "Select a Ticket",
+    "selectTicketDescription": "Choose a ticket from the list to view details and messages.",
+    "loginRequired": "Login Required",
+    "loginRequiredDescription": "Please log in to view and create support tickets.",
+    "status": {
+      "open": "Open",
+      "pending": "Pending",
+      "resolved": "Resolved",
+      "closed": "Closed"
+    },
+    "priority": {
+      "low": "Low",
+      "medium": "Medium",
+      "high": "High",
+      "urgent": "Urgent"
+    },
+    "category": {
+      "general": "General",
+      "technical": "Technical Issue",
+      "billing": "Billing",
+      "account": "Account",
+      "gameIssue": "Game Issue"
+    },
+    "createTicket": {
+      "title": "Create Support Ticket",
+      "subject": "Subject",
+      "subjectPlaceholder": "Brief description of your issue",
+      "message": "Message",
+      "messagePlaceholder": "Please provide detailed information about your issue...",
+      "category": "Category",
+      "priority": "Priority",
+      "cancel": "Cancel",
+      "create": "Create Ticket",
+      "creating": "Creating..."
+    }
+  },
+  "liveSupport": {
+    "title": "Live Support",
+    "description": "Get instant help from our support team. Start a live chat session and we'll connect you with an agent.",
+    "startLiveChat": "Start Live Chat",
+    "connecting": "Connecting...",
+    "loginRequired": "Login Required",
+    "loginRequiredDescription": "Please log in to start a live support session.",
+    "status": {
+      "waiting": "Waiting for agent",
+      "active": "Agent connected",
+      "ended": "Session ended"
+    },
+    "agentOnline": "Agent Online",
+    "waitingForAgent": "You're in the queue. An agent will join shortly...",
+    "sessionEnded": "This support session has ended. Start a new session if you need more help.",
+    "startNewSession": "Start New Session",
+    "typeMessage": "Type your message...",
+    "adminJoined": "Support agent has joined the conversation"
+  }
+}

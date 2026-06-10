@@ -1,0 +1,15 @@
+{
+  "title": "Tournaments",
+  "activeTournaments": "Active Tournaments",
+  "upcomingTournaments": "Upcoming Tournaments",
+  "completedTournaments": "Completed Tournaments",
+  "joinNow": "Join Now",
+  "prizePool": "Prize Pool",
+  "rank": "Rank",
+  "player": "Player",
+  "points": "Points",
+  "endsIn": "Ends In",
+  "rules": "Tournament Rules",
+  "myPosition": "My Position",
+  "noTournaments": "No active tournaments at the moment."
+}

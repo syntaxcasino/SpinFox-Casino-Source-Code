@@ -1,0 +1,1182 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "dragonball",
+    "game_name": "Saiyan Battle",
+    "banner": "https://cdn.slotgambit.com/001.SaiyanBattle.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "san",
+    "game_name": "Battle of Red Cliffs",
+    "banner": "https://cdn.slotgambit.com/005.BattleofRedCliffs.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "newonepiece",
+    "game_name": "KING OF PIRATE",
+    "banner": "https://cdn.slotgambit.com/009.KINGOFPIRATE.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "seiya",
+    "game_name": "Seiya",
+    "banner": "https://cdn.slotgambit.com/011.Seiya.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "tgow",
+    "game_name": "Wealthy God Arriving",
+    "banner": "https://cdn.slotgambit.com/012.WealthyGodArriving.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "newyear",
+    "game_name": "Happy New Year",
+    "banner": "https://cdn.slotgambit.com/013.HappyNewYear.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "watermargin",
+    "game_name": "Tales Of Wusong",
+    "banner": "https://cdn.slotgambit.com/014.TalesOfWusong.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "tlod",
+    "game_name": "Investiture of Gods",
+    "banner": "https://cdn.slotgambit.com/018.InvestitureofGods.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "jtw",
+    "game_name": "Demon Hunt to West",
+    "banner": "https://cdn.slotgambit.com/019.DemonHunttoWest.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "whitesnake",
+    "game_name": "Tales of White Snake",
+    "banner": "https://cdn.slotgambit.com/020.TalesofWhiteSnake.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "btball5x20",
+    "game_name": "Crazy Basketball",
+    "banner": "https://cdn.slotgambit.com/021.CrazyBasketball.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "dnp",
+    "game_name": "DragonPhoenix Prosper",
+    "banner": "https://cdn.slotgambit.com/022.DragonPhoenixProsper.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "crystal",
+    "game_name": "Glory of Heroes",
+    "banner": "https://cdn.slotgambit.com/023.GloryofHeroes.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "xjqy5x9",
+    "game_name": "Chinese Paladin",
+    "banner": "https://cdn.slotgambit.com/024.ChinesePaladin.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "fls",
+    "game_name": "FULUSHOU",
+    "banner": "https://cdn.slotgambit.com/025.FULUSHOU.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "fourss",
+    "game_name": "Four Holy Beasts",
+    "banner": "https://cdn.slotgambit.com/026.FourHolyBeasts.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "nightclub5x20",
+    "game_name": "Nightclub",
+    "banner": "https://cdn.slotgambit.com/027.Nightclub.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "casino",
+    "game_name": "3D Slot",
+    "banner": "https://cdn.slotgambit.com/028.3DSlot.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "crazy5x243",
+    "game_name": "Crazy GO GO GO",
+    "banner": "https://cdn.slotgambit.com/029.CrazyGOGOGO.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "rocknight",
+    "game_name": "RocknRoll Night",
+    "banner": "https://cdn.slotgambit.com/031.RocknRollNight.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bluesea",
+    "game_name": "Blue Sea",
+    "banner": "https://cdn.slotgambit.com/032.BlueSea.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "klnz5x20",
+    "game_name": "Happy Farm",
+    "banner": "https://cdn.slotgambit.com/033.HappyFarm.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "circus",
+    "game_name": "Crazy Circus",
+    "banner": "https://cdn.slotgambit.com/034.CrazyCircus.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "dash",
+    "game_name": "Four Wheels & Bro",
+    "banner": "https://cdn.slotgambit.com/035.FourWheels&Bro.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "sq5x243",
+    "game_name": "4X4 BATTLE",
+    "banner": "https://cdn.slotgambit.com/036.4X4BATTLE.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bikini",
+    "game_name": "Bikini Party",
+    "banner": "https://cdn.slotgambit.com/037.BikiniParty.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "estate5x25",
+    "game_name": "Monopoly",
+    "banner": "https://cdn.slotgambit.com/039.Monopoly.png",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "piratetreasure",
+    "game_name": "Pirate_Treasure",
+    "banner": "https://cdn.slotgambit.com/042.PirateTreasure.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "merryxmas",
+    "game_name": "Merry Xmas",
+    "banner": "https://cdn.slotgambit.com/044.MerryXmas.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "foryouth5x25",
+    "game_name": "SO YOUNG",
+    "banner": "https://cdn.slotgambit.com/045.SOYOUNG.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "fourbeauty",
+    "game_name": "Four Beauties",
+    "banner": "https://cdn.slotgambit.com/046.FourBeauties.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "sweethouse",
+    "game_name": "Candy House",
+    "banner": "https://cdn.slotgambit.com/047.CandyHouse.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "legend5x25",
+    "game_name": "Legend of the King",
+    "banner": "https://cdn.slotgambit.com/048.LegendoftheKing.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "rocket6x25",
+    "game_name": "Happiness Overflow",
+    "banner": "https://cdn.slotgambit.com/049.HappinessOverflow.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "hotpot5x25",
+    "game_name": "Spicy Hotpot",
+    "banner": "https://cdn.slotgambit.com/050.SpicyHotpot.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "opera",
+    "game_name": "Beijing opera",
+    "banner": "https://cdn.slotgambit.com/051.Beijingopera.jpeg",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bigred",
+    "game_name": "Big Red",
+    "banner": "https://cdn.slotgambit.com/055.BigRed.jpeg",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "wrathofthor",
+    "game_name": "Wrath of Thor",
+    "banner": "https://cdn.slotgambit.com/056.WrathofThor.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "guhuozai",
+    "game_name": "Blood Street",
+    "banner": "https://cdn.slotgambit.com/058.BloodStreet.jpeg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "boxingarena",
+    "game_name": "Boxing Arena",
+    "banner": "https://cdn.slotgambit.com/059.BoxingArena.jpeg",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bxgh5x25",
+    "game_name": "Eight Immortals",
+    "banner": "https://cdn.slotgambit.com/060.EightImmortals.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "fantasyforest",
+    "game_name": "Elf Kingdom",
+    "banner": "https://cdn.slotgambit.com/061.ElfKingdom.png",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "camgirl5x25",
+    "game_name": "Sexy Camgirl",
+    "banner": "https://cdn.slotgambit.com/062.SexyCamgirl.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "egyptian",
+    "game_name": "Egyptian Empire",
+    "banner": "https://cdn.slotgambit.com/063.EgyptianEmpire.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "hotpotfeast",
+    "game_name": "Hotpot Feast",
+    "banner": "https://cdn.slotgambit.com/064.HotpotFeast.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "magician",
+    "game_name": "Magician",
+    "banner": "https://cdn.slotgambit.com/065.Magician.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "greatgatsby",
+    "game_name": "Great Gatsby",
+    "banner": "https://cdn.slotgambit.com/066.GreatGatsby.jpeg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "armorCrisis5x25",
+    "game_name": "Armor Crisis",
+    "banner": "https://cdn.slotgambit.com/067.ArmorCrisis.jpeg",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "galaxywars",
+    "game_name": "Galaxy Wars",
+    "banner": "https://cdn.slotgambit.com/068.GalaxyWars.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "easyrider",
+    "game_name": "Easy Rider",
+    "banner": "https://cdn.slotgambit.com/069.EasyRider.png",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bwzq5x25",
+    "game_name": "Joust for a spouse",
+    "banner": "https://cdn.slotgambit.com/070.Joustforaspouse.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "worldCup5x25",
+    "game_name": "FIFA World Cup",
+    "banner": "https://cdn.slotgambit.com/071.FIFAWorldCup.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "goldjade5x50",
+    "game_name": "Jin Yu Man Tang",
+    "banner": "https://cdn.slotgambit.com/072.JinYuManTang.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "shokudo",
+    "game_name": "shokudo",
+    "banner": "https://cdn.slotgambit.com/073.shokudo.jpeg",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "train",
+    "game_name": "Treasure Hunt Trip",
+    "banner": "https://cdn.slotgambit.com/074.TreasureHuntTrip.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "oceanpark5x50",
+    "game_name": "Ocean Park",
+    "banner": "https://cdn.slotgambit.com/075.OceanPark.jpeg",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "lovefighters",
+    "game_name": "Love Fighters",
+    "banner": "https://cdn.slotgambit.com/077.LoveFighters.png",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "genie",
+    "game_name": "Aladdin's Wish",
+    "banner": "https://cdn.slotgambit.com/078.Aladdin'sWish.png",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "garden",
+    "game_name": "Little Big Garden",
+    "banner": "https://cdn.slotgambit.com/079.LittleBigGarden.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "legendary",
+    "game_name": "Legendary Tales",
+    "banner": "https://cdn.slotgambit.com/081.LegendaryTales.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "superstar5x50",
+    "game_name": "Star Generation",
+    "banner": "https://cdn.slotgambit.com/083.StarGeneration.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "alchemist",
+    "game_name": "Crazy Alchemist",
+    "banner": "https://cdn.slotgambit.com/084.CrazyAlchemist.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "dinosaur5x25",
+    "game_name": "Dinosaur World",
+    "banner": "https://cdn.slotgambit.com/089.DinosaurWorld.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "hiphop5x25",
+    "game_name": "Street Dance of China",
+    "banner": "https://cdn.slotgambit.com/086.TombShadow.png",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "shopping5x243",
+    "game_name": "National Carnival",
+    "banner": "https://cdn.slotgambit.com/090.NationalCarnival.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "tombshadow",
+    "game_name": "Tomb Shadow",
+    "banner": "https://cdn.slotgambit.com/086.TombShadow.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "clash",
+    "game_name": "Clash of Three kingdoms",
+    "banner": "https://cdn.slotgambit.com/088.ClashofThreekingdoms.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "cheekyemojis",
+    "game_name": "Cheeky Emojis",
+    "banner": "https://cdn.slotgambit.com/091.CheekyEmojis.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "icefire",
+    "game_name": "Ice And Fire",
+    "banner": "https://cdn.slotgambit.com/093.IceAndFire.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "legendMir5x25",
+    "game_name": "Legendary Hegemony",
+    "banner": "https://cdn.slotgambit.com/095.LegendaryHegemony.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "whackamole",
+    "game_name": "Whack-A-Mole",
+    "banner": "https://cdn.slotgambit.com/094.Whack-A-Mole.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "onenight5x243",
+    "game_name": "Truffle Butter",
+    "banner": "https://cdn.slotgambit.com/096.TruffleButter.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "magicbean",
+    "game_name": "Magic Bean Legend",
+    "banner": "https://cdn.slotgambit.com/097.MagicBeanLegend.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "xiaoxiaole7x50",
+    "game_name": "Monster Pop",
+    "banner": "https://cdn.slotgambit.com/103.MonsterPop.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "newyear5x25",
+    "game_name": "Happy Piggy New Year",
+    "banner": "https://cdn.slotgambit.com/101.HappyPiggyNewYear.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "secretdate",
+    "game_name": "Secret Date",
+    "banner": "https://cdn.slotgambit.com/104.SecretDate.png",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "king5x25",
+    "game_name": "Im King",
+    "banner": "https://cdn.slotgambit.com/105.ImKing.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bacteria",
+    "game_name": "Germ Lab",
+    "banner": "https://cdn.slotgambit.com/106.GermLab.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "cute5x50",
+    "game_name": "Castle Guardian",
+    "banner": "https://cdn.slotgambit.com/107.CastleGurdian.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "baseball",
+    "game_name": "Baseball Frenzy",
+    "banner": "https://cdn.slotgambit.com/108.BaseballFrenzy.png",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "streetdance5x25",
+    "game_name": "Street Dance Show",
+    "banner": "https://cdn.slotgambit.com/109.StreetDanceShow.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "museum",
+    "game_name": "Wondrous Museum",
+    "banner": "https://cdn.slotgambit.com/110.WondrousMuseum.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "mysticalstones",
+    "game_name": "Mystical Stones",
+    "banner": "https://cdn.slotgambit.com/111.MysticalStones.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "sincity",
+    "game_name": "Sin City",
+    "banner": "https://cdn.slotgambit.com/113.SinCity.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "wheel",
+    "game_name": "Secrets of The Pentagram",
+    "banner": "https://cdn.slotgambit.com/114.Secretsofthepentagram.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "westwild",
+    "game_name": "West Wild",
+    "banner": "https://cdn.slotgambit.com/116.WestWild.png",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "halloween",
+    "game_name": "Witch Winnings",
+    "banner": "https://cdn.slotgambit.com/115.WitchWinnings.png",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bloodmoon",
+    "game_name": "Blood Wolf legend",
+    "banner": "https://cdn.slotgambit.com/118.BloodWolf.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "wildchaser5x20",
+    "game_name": "Battle Field",
+    "banner": "https://cdn.slotgambit.com/120.BattleField.png",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "dragonball2",
+    "game_name": "Heroes of the East",
+    "banner": "https://cdn.slotgambit.com/121.HeroesofTheEast.png",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "sgkill5x20",
+    "game_name": "Three Kingdoms",
+    "banner": "https://cdn.slotgambit.com/122.ThreeKingdoms.png",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "candycrush",
+    "game_name": "Candy Kingdom",
+    "banner": "https://cdn.slotgambit.com/118.CandyKingdom.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "pirate5x25",
+    "game_name": "Captain's Treasure",
+    "banner": "https://cdn.slotgambit.com/_9658.png",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "muaythai",
+    "game_name": "Muaythai",
+    "banner": "https://cdn.slotgambit.com/_9659.png",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "sailor",
+    "game_name": "Sailor Princess",
+    "banner": "https://cdn.slotgambit.com/_9660.png",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "nightclub",
+    "game_name": "Infinity Club",
+    "banner": "https://cdn.slotgambit.com/_9661.png",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "nezha",
+    "game_name": "Nezha Legend",
+    "banner": "https://cdn.slotgambit.com/_9662.png",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "bird",
+    "game_name": "Bird Island",
+    "banner": "https://cdn.slotgambit.com/10900.png",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "chess",
+    "game_name": "Dragon Auto Chess",
+    "banner": "https://cdn.slotgambit.com/10901.png",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "honor",
+    "game_name": "Field Of Honor",
+    "banner": "https://cdn.slotgambit.com/10902.png",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "rocknight2",
+    "game_name": "Rock  Night2",
+    "banner": "https://cdn.slotgambit.com/10903.png",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "train2",
+    "game_name": "Treasure Hunt Trip 2",
+    "banner": "https://cdn.slotgambit.com/10904.png",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "goldrat5x243",
+    "game_name": "Golden Rat",
+    "banner": "https://cdn.slotgambit.com/10905.png",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "girlgroup5x25",
+    "game_name": "Sexy Girls",
+    "banner": "https://cdn.slotgambit.com/10906.png",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "boss5x20",
+    "game_name": "Rich Asians",
+    "banner": "https://cdn.slotgambit.com/10907.png",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "vikings",
+    "game_name": "Nordic Saga",
+    "banner": "https://cdn.slotgambit.com/10908.png",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "treasures",
+    "game_name": "Secret Treasures",
+    "banner": "https://cdn.slotgambit.com/10909.png",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "shiningstars",
+    "game_name": "ShiningStars",
+    "banner": "https://cdn.slotgambit.com/11268.png",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "tgow2",
+    "game_name": "Cai Shen Dao",
+    "banner": "https://cdn.slotgambit.com/11554.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "tgow2plus",
+    "game_name": "Cai Shen Dao Plus",
+    "banner": "https://cdn.slotgambit.com/11555.png",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "peeping",
+    "game_name": "Peeping",
+    "banner": "https://cdn.slotgambit.com/11556.png",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "ds5x25",
+    "game_name": "Drawing Sword",
+    "banner": "https://cdn.slotgambit.com/12032.png",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "empire5x40",
+    "game_name": "The Magic Blade",
+    "banner": "https://cdn.slotgambit.com/12033.png",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "luckyfortune5x50",
+    "game_name": "Lucky Fortune",
+    "banner": "https://cdn.slotgambit.com/12034.png",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "maidhotel5x25",
+    "game_name": "Maid Hotel",
+    "banner": "https://cdn.slotgambit.com/12035.png",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "secretary3x9",
+    "game_name": "Sexy Secretary",
+    "banner": "https://cdn.slotgambit.com/12036.png",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "hawaii5x20",
+    "game_name": "Hawaii Vacation",
+    "banner": "https://cdn.slotgambit.com/12037.png",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "DREAMTECH",
+    "game_code": "billiards5x243",
+    "game_name": "POOL EIGHT BALL",
+    "banner": "https://cdn.slotgambit.com/12362.png",
+    "status": 1
+  }
+]

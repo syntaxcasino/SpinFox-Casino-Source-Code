@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "FrozenJoker",
+    "game_name": "Frozen Joker",
+    "banner": "https://cdn.slotgambit.com/FrozenJoker.jpg",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_Tesla",
+    "game_name": "Tesla",
+    "banner": "https://cdn.slotgambit.com/Tesla.jpg",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_AtlantisWorld",
+    "game_name": "Atlantis World",
+    "banner": "https://cdn.slotgambit.com/AtlantisWorld.jpg",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_MoneyFarm",
+    "game_name": "Money Farm",
+    "banner": "https://cdn.slotgambit.com/MoneyFarm.jpg",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_Caligula",
+    "game_name": "Caligula",
+    "banner": "https://cdn.slotgambit.com/Caligula.jpg",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_GoldenDragon",
+    "game_name": "Golden Dragon",
+    "banner": "https://cdn.slotgambit.com/GoldenDragon.jpg",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_ThreeKings",
+    "game_name": "Three Kings",
+    "banner": "https://cdn.slotgambit.com/ThreeKings.jpg",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_TexasRangersReward",
+    "game_name": "Texas Rangers Reward",
+    "banner": "https://cdn.slotgambit.com/TexasRangersReward.jpg",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_CastleBlood",
+    "game_name": "Castle Blood",
+    "banner": "https://cdn.slotgambit.com/CastleBlood.jpg",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_SpartansLegacy",
+    "game_name": "Spartans Legacy",
+    "banner": "https://cdn.slotgambit.com/SpartansLegacy.jpg",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_SlotOfMoney",
+    "game_name": "Slot Of Money",
+    "banner": "https://cdn.slotgambit.com/SlotOfMoney.jpg",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_KingOfMonkeys2",
+    "game_name": "King Of Monkeys 2",
+    "banner": "https://cdn.slotgambit.com/KingOfMonkeys2.jpg",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_RoyalGems",
+    "game_name": "Royal Gems",
+    "banner": "https://cdn.slotgambit.com/10LuckySevens.jpg",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_DragonLady",
+    "game_name": "Dragon Lady",
+    "banner": "https://cdn.slotgambit.com/DragonLady.jpg",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GAMEART",
+    "game_code": "SG_KingOfMonkeys",
+    "game_name": "King Of Monkeys",
+    "banner": "https://cdn.slotgambit.com/KingOfMonkeys2.jpg",
+    "status": 1
+  }
+]

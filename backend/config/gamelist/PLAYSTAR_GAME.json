@@ -1,0 +1,402 @@
+[
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00028",
+    "game_name": "ATHENA",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00028.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00070",
+    "game_name": "ALCHEMY",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00070.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00025",
+    "game_name": "777",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00025.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00094",
+    "game_name": "PS CLUB",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00094.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00102",
+    "game_name": "GOLDEN WEEK",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00102.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00129",
+    "game_name": "GOLDEN JADE",
+    "banner": "https://cdn.slotgambit.com/11877.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00123",
+    "game_name": "GOLDEN ZONGZI",
+    "banner": "https://cdn.slotgambit.com/10944.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00029",
+    "game_name": "GLORIOUS KINGDOM",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00029.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00124",
+    "game_name": "DIAO CHAN FA DA CAI",
+    "banner": "https://cdn.slotgambit.com/12176.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00019",
+    "game_name": "THE EMPIRE",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00019.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00026",
+    "game_name": "DOUBLE HAPPINESS",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00026.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00007",
+    "game_name": "DOLPHIN",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00007.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00067",
+    "game_name": "DRAGON BOAT FESTIVAL",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00067.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00108",
+    "game_name": "RAT OF WEALTH",
+    "banner": "https://cdn.slotgambit.com/10009.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00093",
+    "game_name": "LOVE",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00093.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00014",
+    "game_name": "LUCKY PANDA",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00014.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00009",
+    "game_name": "MADAME CAROLINE",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00009.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00083",
+    "game_name": "MY LORD",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00083.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00073",
+    "game_name": "MOON FESTIVAL",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00073.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00059",
+    "game_name": "VAMPIRE",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00059.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00047",
+    "game_name": "ELEPHANT",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00047.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00115",
+    "game_name": "WHAT THE FA",
+    "banner": "https://cdn.slotgambit.com/10943.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00106",
+    "game_name": "WU XIA",
+    "banner": "https://cdn.slotgambit.com/10941.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00035",
+    "game_name": "WEREWOLF",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00035.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00005",
+    "game_name": "INDIA TREASURE",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00005.png",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00100",
+    "game_name": "ZUMA",
+    "banner": "https://cdn.slotgambit.com/11486.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00001",
+    "game_name": "CHINA EMPRESS",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00001.png",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00016",
+    "game_name": "KUNG HEI",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00016.png",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00104",
+    "game_name": "KUNGFU",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00104.png",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00092",
+    "game_name": "TOMB TREASURE",
+    "banner": "https://cdn.slotgambit.com/9096.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00024",
+    "game_name": "FA FA MONKEY",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00024.png",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00131",
+    "game_name": "FANTASY SOUTHEAST ASIA",
+    "banner": "https://cdn.slotgambit.com/11847.png",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00038",
+    "game_name": "FACE OFF",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00038.png",
+    "status": 1
+  },
+  {
+    "id": 121,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00033",
+    "game_name": "FORTUNE GOD",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00033.png",
+    "status": 1
+  },
+  {
+    "id": 122,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00096",
+    "game_name": "FORTUNE BULL",
+    "banner": "https://cdn.slotgambit.com/10008.png",
+    "status": 1
+  },
+  {
+    "id": 123,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00044",
+    "game_name": "FORTUNE TELLER",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00044.png",
+    "status": 1
+  },
+  {
+    "id": 125,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00114",
+    "game_name": "FISH PRAWN CRAB",
+    "banner": "https://cdn.slotgambit.com/10942.png",
+    "status": 1
+  },
+  {
+    "id": 129,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00051",
+    "game_name": "HALLOWEEN",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00051.png",
+    "status": 1
+  },
+  {
+    "id": 130,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00095",
+    "game_name": "HAND OF GOD",
+    "banner": "https://cdn.slotgambit.com/HandOfGod.png",
+    "status": 1
+  },
+  {
+    "id": 131,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSTAR",
+    "game_code": "PSS-ON-00015",
+    "game_name": "WHO'S THE BOSS",
+    "banner": "https://cdn.slotgambit.com/PSS-ON-00015.png",
+    "status": 1
+  }
+]

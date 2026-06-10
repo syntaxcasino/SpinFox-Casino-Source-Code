@@ -1,0 +1,19 @@
+{
+  "deposit": "Deposit",
+  "withdraw": "Withdraw",
+  "balance": "Balance",
+  "history": "Wallet History",
+  "selectCurrency": "Select Currency",
+  "address": "Wallet Address",
+  "copyAddress": "Copy Address",
+  "copied": "Copied!",
+  "enterAmount": "Enter amount",
+  "confirmDeposit": "Confirm Deposit",
+  "pending": "Pending",
+  "completed": "Completed",
+  "failed": "Failed",
+  "network": "Choose CoinNetwork",
+  "connectWallet": "Connect Wallet",
+  "disconnect": "Disconnect",
+  "walletConnected": "Wallet Connected"
+}

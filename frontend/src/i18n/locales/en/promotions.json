@@ -1,0 +1,15 @@
+{
+  "title": "Promotions",
+  "activePromotions": "Active Promotions",
+  "expiredPromotions": "Expired Promotions",
+  "bonus": "Bonus",
+  "freeSpins": "Free Spins",
+  "cashback": "Cashback",
+  "depositBonus": "Deposit Bonus",
+  "welcomeBonus": "Welcome Bonus",
+  "reloadBonus": "Reload Bonus",
+  "claimNow": "Claim Now",
+  "details": "View Details",
+  "terms": "Bonus Terms & Conditions",
+  "noPromotions": "No promotions are currently active."
+}

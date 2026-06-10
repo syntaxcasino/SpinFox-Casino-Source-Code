@@ -1,0 +1,442 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "queen-of-aztec",
+    "game_name": "Queen Of Aztec",
+    "banner": "https://cdn.slotgambit.com/632d2adc-1fa0-48f5-9a5e-e52176f920e9.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "mahjong-fortune",
+    "game_name": "Mahjong Fortune",
+    "banner": "https://cdn.slotgambit.com/362e3863-f5fd-4c53-a268-7cb0bf001219.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "fulong",
+    "game_name": "Fulong",
+    "banner": "https://cdn.slotgambit.com/18f0f29e-f4c7-41d9-a05c-3c4a05219ace.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "temple-of-gods",
+    "game_name": "Temple of Gods",
+    "banner": "https://cdn.slotgambit.com/2f43beec-74ef-46b6-9e03-504840a5f5a2.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "persian-gems",
+    "game_name": "Persian Gems",
+    "banner": "https://cdn.slotgambit.com/75491fa8-e91e-4295-a848-2bb5a065d3ee.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "wild-west-saloon",
+    "game_name": "Wild West Saloon",
+    "banner": "https://cdn.slotgambit.com/7313fea5-50b5-4e3b-8877-6ac7068c1eb2.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "god-of-fortune",
+    "game_name": "God Of Fortune",
+    "banner": "https://cdn.slotgambit.com/d5da90c3-4466-4578-812c-2fc4d80bda94.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "sugary-bonanza",
+    "game_name": "Sugary Bonanza",
+    "banner": "https://cdn.slotgambit.com/f7fb13b7-287b-43f0-b0cf-f736308025b5.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "stallion-princess",
+    "game_name": "Stallion Princess",
+    "banner": "https://cdn.slotgambit.com/f648f272-5a39-40c9-930e-d59d28f473ef.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "bikini-babes",
+    "game_name": "Bikini Babes",
+    "banner": "https://cdn.slotgambit.com/9fae0e54-1bee-43f0-9b02-c1daad9880d5.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "mermaids-treasure",
+    "game_name": "Mermaids Treasure",
+    "banner": "https://cdn.slotgambit.com/e2bd9649-1af0-4e9c-8f53-98820b569fac.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "mysteries-of-pandora",
+    "game_name": "Mysteries of Pandora",
+    "banner": "https://cdn.slotgambit.com/naga-games-mysteries-of-pandora.PNG",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "mochi-mochi",
+    "game_name": "Mochi Mochi",
+    "banner": "https://cdn.slotgambit.com/5e5271be-aeda-435f-9fab-53b6630a705d.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "sanguo",
+    "game_name": "Sanguo",
+    "banner": "https://cdn.slotgambit.com/edec73dd-a3fe-4d0b-89a5-9c207070d586.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "samba-fiesta",
+    "game_name": "Samba Fiesta",
+    "banner": "https://cdn.slotgambit.com/2cbbad00-e155-4a2a-a626-6fd641d7beb6.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "sexy-christmas-sirens",
+    "game_name": "Sexy Christmas Sirens",
+    "banner": "https://cdn.slotgambit.com/60eba452-6ab4-45ca-b7fc-2309a678e957.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "empress-of-the-black-seas",
+    "game_name": "Empress of the Black Seas",
+    "banner": "https://cdn.slotgambit.com/f73b9f75-908d-4028-bc83-4511b8a073a9.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "rave-on",
+    "game_name": "Rave On",
+    "banner": "https://cdn.slotgambit.com/4e601aa9-0171-4182-a954-6322b9f6e138.jpg",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "run-pug-run",
+    "game_name": "Run Pug Run",
+    "banner": "https://cdn.slotgambit.com/aa0cc76a-dfbc-47b6-a800-351e42be6ad0.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "mega-wild-safari",
+    "game_name": "Mega Wild Safari",
+    "banner": "https://cdn.slotgambit.com/76e3328f-62f0-4778-be6d-6f975d7a4f91.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "muay-thai-arena",
+    "game_name": "Muay Thai Arena",
+    "banner": "https://cdn.slotgambit.com/612c266e-f820-4a2c-bca1-f7cb68a38215.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "adventures-of-caramelo",
+    "game_name": "Adventures Of Caramelo",
+    "banner": "https://cdn.slotgambit.com/7b6f8133-67d6-4b24-8d5e-c51237c0e2e6.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "wrath-of-zeus",
+    "game_name": "Wrath of Zeus",
+    "banner": "https://cdn.slotgambit.com/8974130a-8c29-4847-b34a-4bb6ebca547c.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "gladiators",
+    "game_name": "Gladiators",
+    "banner": "https://cdn.slotgambit.com/e920f753-5070-42d1-ba43-f65de0f03064.jpg",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "pawsome-xmas",
+    "game_name": "Pawsome Xmas",
+    "banner": "https://cdn.slotgambit.com/677c9160-38be-4b5a-82a5-638c25d9ce5b.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "dragon-wonder",
+    "game_name": "Dragon Wonder",
+    "banner": "https://cdn.slotgambit.com/d2e1648c-10c5-4f9b-98ab-fc7aac7eb3e3.jpg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "viking-valor",
+    "game_name": "Viking Valor",
+    "banner": "https://cdn.slotgambit.com/3ec6afb6-459c-4ef1-a028-80271fa8d03a.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "wishes-of-the-genie",
+    "game_name": "Wishes of the Genie",
+    "banner": "https://cdn.slotgambit.com/0518270f-4fba-4398-be98-3df319596609.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "amazing-circus",
+    "game_name": "Amazing Circus",
+    "banner": "https://cdn.slotgambit.com/AmazingCircus.jpg",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "forbidden-island",
+    "game_name": "Forbidden Island",
+    "banner": "https://cdn.slotgambit.com/forbidden-island.webp",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "bierfest-delight",
+    "game_name": "Bierfest Delight",
+    "banner": "https://cdn.slotgambit.com/bierfest-delight.webp",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "pumpkin-night",
+    "game_name": "Pumpkin Night",
+    "banner": "https://cdn.slotgambit.com/pumpkin-night.webp",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "surf-monkey",
+    "game_name": "Surf Monkey",
+    "banner": "https://cdn.slotgambit.com/surf-monkey.webp",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "mayan-gold-hunt",
+    "game_name": "Mayan Gold Hunt",
+    "banner": "https://cdn.slotgambit.com/mayan-gold-hunt.webp",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "las-vegas-party",
+    "game_name": "Las Vegas Party",
+    "banner": "https://cdn.slotgambit.com/las-vegas-party.webp",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "kungfu-warrior",
+    "game_name": "Kungfu Warrior",
+    "banner": "https://cdn.slotgambit.com/kungfu-warrior.webp",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "countdown-to-fortune",
+    "game_name": "Countdown to Fortune",
+    "banner": "https://cdn.slotgambit.com/countdown-to-fortune.webp",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "lion-dance-fortune",
+    "game_name": "Lion Dance Fortune",
+    "banner": "https://cdn.slotgambit.com/lion-dance-fortune.webp",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "legend-of-the-white-and-green-snake",
+    "game_name": "Legend of the white and green snake",
+    "banner": "https://cdn.slotgambit.com/legend-of-the-white-and-green-snake.webp",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "tnt-fiesta",
+    "game_name": "TNT Fiesta",
+    "banner": "https://cdn.slotgambit.com/tnt-fiesta.webp",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "gangster-paradise",
+    "game_name": "Gangster Paradise",
+    "banner": "https://cdn.slotgambit.com/gangster-paradise.webp",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "golden-hatch",
+    "game_name": "Golden Hatch",
+    "banner": "https://cdn.slotgambit.com/golden-hatch.webp",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "vault-of-riches",
+    "game_name": "Vault of Riches",
+    "banner": "https://cdn.slotgambit.com/vault-of-riches.webp",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "NAGA",
+    "game_code": "taco-truck-delight",
+    "game_name": "Taco Truck Delight",
+    "banner": "https://cdn.slotgambit.com/taco-truck-delight.webp",
+    "status": 1
+  }
+]

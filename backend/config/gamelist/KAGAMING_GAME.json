@@ -1,0 +1,7062 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BonusMania",
+    "game_name": "Bonus Mania",
+    "banner": "https://cdn.slotgambit.com/BonusMania.png",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Treasurebowl",
+    "game_name": "Treasure Bowl",
+    "banner": "https://cdn.slotgambit.com/Treasurebowl.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Luck88",
+    "game_name": "Luck88",
+    "banner": "https://cdn.slotgambit.com/Luck88.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenBull",
+    "game_name": "Golden Bull",
+    "banner": "https://cdn.slotgambit.com/GoldenBull.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Cocorico",
+    "game_name": "Cocorico",
+    "banner": "https://cdn.slotgambit.com/Cocorico.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TreasureTiger",
+    "game_name": "Treasure Tiger",
+    "banner": "https://cdn.slotgambit.com/TreasureTiger.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KingOfDragon",
+    "game_name": "King of Dragon",
+    "banner": "https://cdn.slotgambit.com/KingOfDragon.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneGanesha",
+    "game_name": "Fortune Ganesha",
+    "banner": "https://cdn.slotgambit.com/FortuneGanesha.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SlavicFantasy",
+    "game_name": "Slavic Fantasy",
+    "banner": "https://cdn.slotgambit.com/SlavicFantasy.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ElfCastle",
+    "game_name": "Elf Castle",
+    "banner": "https://cdn.slotgambit.com/ElfCastle.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "InterstellarHome",
+    "game_name": "Interstellar Home",
+    "banner": "https://cdn.slotgambit.com/InterstellarHome.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LongmenExpress",
+    "game_name": "Longmen Express",
+    "banner": "https://cdn.slotgambit.com/LongmenExpress.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TerrorTrail",
+    "game_name": "Terror Trail",
+    "banner": "https://cdn.slotgambit.com/TerrorTrail.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MegaWildWest",
+    "game_name": "Mega Wild West",
+    "banner": "https://cdn.slotgambit.com/MegaWildWest.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuccubusSecret",
+    "game_name": "Succubus Secret",
+    "banner": "https://cdn.slotgambit.com/SuccubusSecret.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChainOfWild",
+    "game_name": "Chain of Wild",
+    "banner": "https://cdn.slotgambit.com/ChainOfWild.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Seagull",
+    "game_name": "Seagull",
+    "banner": "https://cdn.slotgambit.com/Seagull.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HongKong60s",
+    "game_name": "Hong Kong 60s",
+    "banner": "https://cdn.slotgambit.com/HongKong60s.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RedCliff",
+    "game_name": "Red Cliff",
+    "banner": "https://cdn.slotgambit.com/RedCliff.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Masquerade",
+    "game_name": "Masquerade",
+    "banner": "https://cdn.slotgambit.com/Masquerade.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "777Vegas",
+    "game_name": "777 Vegas",
+    "banner": "https://cdn.slotgambit.com/777Vegas.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "QuickPlayMahjong",
+    "game_name": "Quick Play Mahjong",
+    "banner": "https://cdn.slotgambit.com/QuickPlayMahjong.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "YuGong",
+    "game_name": "Yu Gong",
+    "banner": "https://cdn.slotgambit.com/YuGong.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheGingerbreadLand",
+    "game_name": "The Gingerbread Land",
+    "banner": "https://cdn.slotgambit.com/TheGingerbreadLand.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "XBomber",
+    "game_name": "X-Bomber",
+    "banner": "https://cdn.slotgambit.com/XBomber.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KungFu",
+    "game_name": "KungFu Kash",
+    "banner": "https://cdn.slotgambit.com/KungFu.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DonutCity",
+    "game_name": "Donut City",
+    "banner": "https://cdn.slotgambit.com/DonutCity.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "NobleCat",
+    "game_name": "Noble Cat",
+    "banner": "https://cdn.slotgambit.com/NobleCat.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MedievalWarfare",
+    "game_name": "Medieval Warfare",
+    "banner": "https://cdn.slotgambit.com/MedievalWarfare.png",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SexyLips",
+    "game_name": "Sexy Lips",
+    "banner": "https://cdn.slotgambit.com/SexyLips.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Stonehenge",
+    "game_name": "Stonehenge",
+    "banner": "https://cdn.slotgambit.com/Stonehenge.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoGoMonsters",
+    "game_name": "Go Go Monsters",
+    "banner": "https://cdn.slotgambit.com/GoGoMonsters.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BlazingBuffalo",
+    "game_name": "Blazing Buffalo",
+    "banner": "https://cdn.slotgambit.com/BlazingBuffalo.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Ares",
+    "game_name": "Ares God of War",
+    "banner": "https://cdn.slotgambit.com/Ares.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "QuickPlayCandy",
+    "game_name": "Quick Play Candy",
+    "banner": "https://cdn.slotgambit.com/QuickPlayCandy.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoEscape",
+    "game_name": "Go Escape",
+    "banner": "https://cdn.slotgambit.com/GoEscape.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Yamato",
+    "game_name": "Yamato",
+    "banner": "https://cdn.slotgambit.com/Yamato.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheDoorGods",
+    "game_name": "The Door Gods",
+    "banner": "https://cdn.slotgambit.com/TheDoorGods.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ButterflyLovers",
+    "game_name": "Butterfly Lovers",
+    "banner": "https://cdn.slotgambit.com/ButterflyLovers.png",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneGod",
+    "game_name": "Fortune God",
+    "banner": "https://cdn.slotgambit.com/FortuneGod.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SkyJourney",
+    "game_name": "Sky Journey",
+    "banner": "https://cdn.slotgambit.com/SkyJourney.png",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuxuryGarage",
+    "game_name": "Luxury Garage",
+    "banner": "https://cdn.slotgambit.com/LuxuryGarage.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "YearOfTheTiger",
+    "game_name": "Year of the Tiger",
+    "banner": "https://cdn.slotgambit.com/YearOfTheTiger.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HolyBeast",
+    "game_name": "Holy Beast",
+    "banner": "https://cdn.slotgambit.com/HolyBeast.png",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Japanese7Heroes",
+    "game_name": "Japanese 7 Heroes",
+    "banner": "https://cdn.slotgambit.com/Japanese7Heroes.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SecretAgent",
+    "game_name": "Secret Agent",
+    "banner": "https://cdn.slotgambit.com/SecretAgent.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheMasterCat",
+    "game_name": "The Master Cat",
+    "banner": "https://cdn.slotgambit.com/TheMasterCat.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FightingGirls",
+    "game_name": "Fighting Girls",
+    "banner": "https://cdn.slotgambit.com/FightingGirls.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThreeLittlePigs",
+    "game_name": "Three Little Pigs",
+    "banner": "https://cdn.slotgambit.com/ThreeLittlePigs.png",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DeepSea",
+    "game_name": "Deep Sea Adventure",
+    "banner": "https://cdn.slotgambit.com/DeepSea.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KingsSword",
+    "game_name": "King's Sword",
+    "banner": "https://cdn.slotgambit.com/KingsSword.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Pinocchio",
+    "game_name": "Pinocchio",
+    "banner": "https://cdn.slotgambit.com/Pinocchio.png",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SpringBlossom",
+    "game_name": "Spring Blossom",
+    "banner": "https://cdn.slotgambit.com/SpringBlossom.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FireHit",
+    "game_name": "Fire Hit",
+    "banner": "https://cdn.slotgambit.com/FireHit.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Soldiers",
+    "game_name": "Soldiers",
+    "banner": "https://cdn.slotgambit.com/Soldiers.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BaWangBieJi",
+    "game_name": "Ba Wang Bie Ji",
+    "banner": "https://cdn.slotgambit.com/BaWangBieJi.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ZashikiGod",
+    "game_name": "Zashiki God",
+    "banner": "https://cdn.slotgambit.com/ZashikiGod.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyPenguins",
+    "game_name": "Lucky Penguins",
+    "banner": "https://cdn.slotgambit.com/LuckyPenguins.png",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SafariDiscovery",
+    "game_name": "Safari Discovery",
+    "banner": "https://cdn.slotgambit.com/SafariDiscovery.png",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "IdunsGarden",
+    "game_name": "Idun’s Garden Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/IdunsGarden.png",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FatGuy",
+    "game_name": "Fat Guy",
+    "banner": "https://cdn.slotgambit.com/FatGuy.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Jingwei",
+    "game_name": "Jingwei",
+    "banner": "https://cdn.slotgambit.com/Jingwei.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyInn",
+    "game_name": "Lucky Inn",
+    "banner": "https://cdn.slotgambit.com/LuckyInn.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MuayThai",
+    "game_name": "Muay Thai",
+    "banner": "https://cdn.slotgambit.com/MuayThai.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FourScholars",
+    "game_name": "The Four Scholars",
+    "banner": "https://cdn.slotgambit.com/FourScholars.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PirateKing",
+    "game_name": "Pirate King",
+    "banner": "https://cdn.slotgambit.com/PirateKing.png",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RedSorghum",
+    "game_name": "Red Sorghum",
+    "banner": "https://cdn.slotgambit.com/RedSorghum.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheCountOfMonteCristo",
+    "game_name": "The Count of Monte Cristo",
+    "banner": "https://cdn.slotgambit.com/TheCountOfMonteCristo.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PartyGirlDeluxe",
+    "game_name": "Party Girl Deluxe Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/PartyGirlDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfLegends",
+    "game_name": "Legend of Legends",
+    "banner": "https://cdn.slotgambit.com/LegendOfLegends.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Dreamcatcher",
+    "game_name": "Dreamcatcher",
+    "banner": "https://cdn.slotgambit.com/Dreamcatcher.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonsWay",
+    "game_name": "Dragon's Way",
+    "banner": "https://cdn.slotgambit.com/DragonsWay.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BookOfMoon",
+    "game_name": "Book of Moon Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/BookOfMoon.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Geisha",
+    "game_name": "Geisha",
+    "banner": "https://cdn.slotgambit.com/Geisha.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GreatLuck",
+    "game_name": "Great Luck",
+    "banner": "https://cdn.slotgambit.com/GreatLuck.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ErlangShen",
+    "game_name": "Erlang Shen",
+    "banner": "https://cdn.slotgambit.com/ErlangShen.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LoveGame",
+    "game_name": "Love Game",
+    "banner": "https://cdn.slotgambit.com/LoveGame.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LostRealm",
+    "game_name": "Lost Realm",
+    "banner": "https://cdn.slotgambit.com/LostRealm.png",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ScaryClown",
+    "game_name": "Scary Clown",
+    "banner": "https://cdn.slotgambit.com/ScaryClown.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Nutcracker",
+    "game_name": "The Nut Cracker",
+    "banner": "https://cdn.slotgambit.com/Nutcracker.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfAthena",
+    "game_name": "Legend of Athena",
+    "banner": "https://cdn.slotgambit.com/LegendOfAthena.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PenguinFamily",
+    "game_name": "Penguin Family Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/PenguinFamily.png",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CharlottesWeb",
+    "game_name": "Charlotte's Web",
+    "banner": "https://cdn.slotgambit.com/CharlottesWeb.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ImperialGirls",
+    "game_name": "Imperial Girls",
+    "banner": "https://cdn.slotgambit.com/ImperialGirls.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JokerFruit",
+    "game_name": "Joker Fruit",
+    "banner": "https://cdn.slotgambit.com/JokerFruit.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EmperorQin",
+    "game_name": "Emperor Qin",
+    "banner": "https://cdn.slotgambit.com/EmperorQin.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChineseValentinesDay",
+    "game_name": "Chinese Valentines Day",
+    "banner": "https://cdn.slotgambit.com/ChineseValentinesDay.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonkeyKing",
+    "game_name": "Monkey King",
+    "banner": "https://cdn.slotgambit.com/MonkeyKing.png",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MoulinRouge",
+    "game_name": "Moulin Rouge",
+    "banner": "https://cdn.slotgambit.com/MoulinRouge.png",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Sinbad",
+    "game_name": "Sinbad",
+    "banner": "https://cdn.slotgambit.com/Sinbad.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TrickOrTreat",
+    "game_name": "Trick or Treat",
+    "banner": "https://cdn.slotgambit.com/TrickOrTreat.png",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BuzzkillBonanza",
+    "game_name": "Buzzkill Bonanza",
+    "banner": "https://cdn.slotgambit.com/BuzzkillBonanza.png",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FlamingMonkeyClassic",
+    "game_name": "Flaming Monkey Classic",
+    "banner": "https://cdn.slotgambit.com/FlamingMonkeyClassic.png",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuperSlime",
+    "game_name": "Super Slime",
+    "banner": "https://cdn.slotgambit.com/SuperSlime.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Gem",
+    "game_name": "A Girl's Best Friend",
+    "banner": "https://cdn.slotgambit.com/Gem.png",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LeagueOfGods",
+    "game_name": "Daji",
+    "banner": "https://cdn.slotgambit.com/LeagueOfGods.png",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PricelessMuseum",
+    "game_name": "Priceless Museum Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/PricelessMuseum.png",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyCircus",
+    "game_name": "Crazy Circus",
+    "banner": "https://cdn.slotgambit.com/CrazyCircus.png",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JungleAdventure",
+    "game_name": "Jungle Adventure",
+    "banner": "https://cdn.slotgambit.com/JungleAdventure.png",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HipHop",
+    "game_name": "Hip Hop",
+    "banner": "https://cdn.slotgambit.com/HipHop.png",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "InkPaintingMaster",
+    "game_name": "Ink Painting Master Buy Feature",
+    "banner": "https://cdn.slotgambit.com/InkPaintingMaster.png",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DesertIslandAdventure",
+    "game_name": "Desert Island Adventure Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/DesertIslandAdventure.png",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HappyIndianChef",
+    "game_name": "Happy Indian Chef",
+    "banner": "https://cdn.slotgambit.com/HappyIndianChef.png",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Hanabi",
+    "game_name": "Hanabi",
+    "banner": "https://cdn.slotgambit.com/Hanabi.png",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuperBonusMania",
+    "game_name": "Super Bonus Mania",
+    "banner": "https://cdn.slotgambit.com/SuperBonusMania.png",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "OriginOfFire",
+    "game_name": "Origin Of Fire",
+    "banner": "https://cdn.slotgambit.com/OriginOfFire.png",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PiedPiper",
+    "game_name": "Pied Piper",
+    "banner": "https://cdn.slotgambit.com/PiedPiper.png",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RainbowJellyfish",
+    "game_name": "Rainbow Jellyfish",
+    "banner": "https://cdn.slotgambit.com/RainbowJellyfish.png",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MayanGold",
+    "game_name": "Mayan Gold",
+    "banner": "https://cdn.slotgambit.com/MayanGold.png",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KungFuKaga",
+    "game_name": "KungFu Kaga",
+    "banner": "https://cdn.slotgambit.com/KungFuKaga.png",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WrestlingQueen",
+    "game_name": "Wrestling Queen",
+    "banner": "https://cdn.slotgambit.com/WrestlingQueen.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DimSum",
+    "game_name": "Dim Sum",
+    "banner": "https://cdn.slotgambit.com/DimSum.png",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PersiaBonanza",
+    "game_name": "Persia Bonanza Megaways",
+    "banner": "https://cdn.slotgambit.com/PersiaBonanza.png",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Mexicaliente",
+    "game_name": "Mexicaliente",
+    "banner": "https://cdn.slotgambit.com/Mexicaliente.png",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MissTiger",
+    "game_name": "Miss Tiger",
+    "banner": "https://cdn.slotgambit.com/MissTiger.png",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Luck88Quick",
+    "game_name": "Luck88 VIP",
+    "banner": "https://cdn.slotgambit.com/Luck88Quick.png",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GatesOfMidsummer",
+    "game_name": "Gates of Midsummer Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/GatesOfMidsummer.png",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HatSeller",
+    "game_name": "Hat Seller",
+    "banner": "https://cdn.slotgambit.com/HatSeller.png",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Ghostbuster",
+    "game_name": "Ghostbuster",
+    "banner": "https://cdn.slotgambit.com/Ghostbuster.png",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Yakyuken",
+    "game_name": "Yakyuken",
+    "banner": "https://cdn.slotgambit.com/Yakyuken.png",
+    "status": 1
+  },
+  {
+    "id": 121,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PiggyBankMachine",
+    "game_name": "Piggy Bank Machine",
+    "banner": "https://cdn.slotgambit.com/PiggyBankMachine.png",
+    "status": 1
+  },
+  {
+    "id": 122,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DonQuixote",
+    "game_name": "Don Quixote",
+    "banner": "https://cdn.slotgambit.com/DonQuixote.png",
+    "status": 1
+  },
+  {
+    "id": 123,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldRush",
+    "game_name": "California Gold Rush",
+    "banner": "https://cdn.slotgambit.com/GoldRush.png",
+    "status": 1
+  },
+  {
+    "id": 124,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BookOfSkull",
+    "game_name": "Book of Skull",
+    "banner": "https://cdn.slotgambit.com/BookOfSkull.png",
+    "status": 1
+  },
+  {
+    "id": 125,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DwarfMiner",
+    "game_name": "Dwarf Miner",
+    "banner": "https://cdn.slotgambit.com/DwarfMiner.png",
+    "status": 1
+  },
+  {
+    "id": 126,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ShaolinLegend",
+    "game_name": "Shaolin Legend",
+    "banner": "https://cdn.slotgambit.com/ShaolinLegend.png",
+    "status": 1
+  },
+  {
+    "id": 127,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BlockyBlocks2",
+    "game_name": "Blocky Block 2",
+    "banner": "https://cdn.slotgambit.com/BlockyBlocks2.png",
+    "status": 1
+  },
+  {
+    "id": 128,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RoyalDemeanor",
+    "game_name": "Royal Demeanor",
+    "banner": "https://cdn.slotgambit.com/RoyalDemeanor.png",
+    "status": 1
+  },
+  {
+    "id": 129,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyAilurus",
+    "game_name": "Lucky Ailurus",
+    "banner": "https://cdn.slotgambit.com/LuckyAilurus.png",
+    "status": 1
+  },
+  {
+    "id": 130,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FourBeauties",
+    "game_name": "Four Beauties",
+    "banner": "https://cdn.slotgambit.com/FourBeauties.png",
+    "status": 1
+  },
+  {
+    "id": 131,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ElectricEnergy",
+    "game_name": "Electric Energy",
+    "banner": "https://cdn.slotgambit.com/ElectricEnergy.png",
+    "status": 1
+  },
+  {
+    "id": 132,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MagicQueen",
+    "game_name": "Magic Queen",
+    "banner": "https://cdn.slotgambit.com/MagicQueen.png",
+    "status": 1
+  },
+  {
+    "id": 133,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ZombieLand",
+    "game_name": "Zombie Land",
+    "banner": "https://cdn.slotgambit.com/ZombieLand.png",
+    "status": 1
+  },
+  {
+    "id": 134,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ArcticStorm",
+    "game_name": "Arctic Storm",
+    "banner": "https://cdn.slotgambit.com/ArcticStorm.png",
+    "status": 1
+  },
+  {
+    "id": 135,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MidasTouch",
+    "game_name": "Midas Touch",
+    "banner": "https://cdn.slotgambit.com/MidasTouch.png",
+    "status": 1
+  },
+  {
+    "id": 136,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BearPawLegend",
+    "game_name": "Bear Paw Legend",
+    "banner": "https://cdn.slotgambit.com/BearPawLegend.png",
+    "status": 1
+  },
+  {
+    "id": 137,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Qomolangma",
+    "game_name": "Qomolangma",
+    "banner": "https://cdn.slotgambit.com/Qomolangma.png",
+    "status": 1
+  },
+  {
+    "id": 138,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildDetective",
+    "game_name": "Wild Detective",
+    "banner": "https://cdn.slotgambit.com/WildDetective.png",
+    "status": 1
+  },
+  {
+    "id": 139,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RichSquire",
+    "game_name": "Rich Squire",
+    "banner": "https://cdn.slotgambit.com/RichSquire.png",
+    "status": 1
+  },
+  {
+    "id": 140,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KickCashCroc",
+    "game_name": "Kick Cash Croc",
+    "banner": "https://cdn.slotgambit.com/KickCashCroc.png",
+    "status": 1
+  },
+  {
+    "id": 141,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "NineLucks",
+    "game_name": "Nine Lucks",
+    "banner": "https://cdn.slotgambit.com/NineLucks.png",
+    "status": 1
+  },
+  {
+    "id": 142,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Koningsdag",
+    "game_name": "Koningsdag",
+    "banner": "https://cdn.slotgambit.com/Koningsdag.png",
+    "status": 1
+  },
+  {
+    "id": 143,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FantasyPark",
+    "game_name": "Fantasy Park",
+    "banner": "https://cdn.slotgambit.com/FantasyPark.png",
+    "status": 1
+  },
+  {
+    "id": 144,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RichFarm",
+    "game_name": "Rich Farm",
+    "banner": "https://cdn.slotgambit.com/RichFarm.png",
+    "status": 1
+  },
+  {
+    "id": 145,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GreatVoyages",
+    "game_name": "The Great Voyages",
+    "banner": "https://cdn.slotgambit.com/GreatVoyages.png",
+    "status": 1
+  },
+  {
+    "id": 146,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Emoji",
+    "game_name": "Emoji",
+    "banner": "https://cdn.slotgambit.com/Emoji.png",
+    "status": 1
+  },
+  {
+    "id": 147,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheCrypto",
+    "game_name": "The Crypto",
+    "banner": "https://cdn.slotgambit.com/TheCrypto.png",
+    "status": 1
+  },
+  {
+    "id": 148,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Kitty",
+    "game_name": "Kitty Living",
+    "banner": "https://cdn.slotgambit.com/Kitty.png",
+    "status": 1
+  },
+  {
+    "id": 149,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BonusVending",
+    "game_name": "Bonus Vending",
+    "banner": "https://cdn.slotgambit.com/BonusVending.png",
+    "status": 1
+  },
+  {
+    "id": 150,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "VeggiesPlot",
+    "game_name": "Veggies Plot",
+    "banner": "https://cdn.slotgambit.com/VeggiesPlot.png",
+    "status": 1
+  },
+  {
+    "id": 151,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BigCatch",
+    "game_name": "Big Catch Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/BigCatch.png",
+    "status": 1
+  },
+  {
+    "id": 152,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SnowGoddess",
+    "game_name": "Snow Goddess",
+    "banner": "https://cdn.slotgambit.com/SnowGoddess.png",
+    "status": 1
+  },
+  {
+    "id": 153,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Golden777",
+    "game_name": "Golden 777",
+    "banner": "https://cdn.slotgambit.com/Golden777.png",
+    "status": 1
+  },
+  {
+    "id": 154,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MissJoker",
+    "game_name": "Miss Joker",
+    "banner": "https://cdn.slotgambit.com/MissJoker.png",
+    "status": 1
+  },
+  {
+    "id": 155,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Egypt",
+    "game_name": "Mysterious Pyramid",
+    "banner": "https://cdn.slotgambit.com/Egypt.png",
+    "status": 1
+  },
+  {
+    "id": 156,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "IslandParadise",
+    "game_name": "Island Paradise",
+    "banner": "https://cdn.slotgambit.com/IslandParadise.png",
+    "status": 1
+  },
+  {
+    "id": 157,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyCat",
+    "game_name": "Lucky Cat",
+    "banner": "https://cdn.slotgambit.com/LuckyCat.png",
+    "status": 1
+  },
+  {
+    "id": 158,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MagicianMerlin",
+    "game_name": "Magician Merlin",
+    "banner": "https://cdn.slotgambit.com/MagicianMerlin.png",
+    "status": 1
+  },
+  {
+    "id": 159,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildVick2",
+    "game_name": "Wild Vick 2 Adventure Journey",
+    "banner": "https://cdn.slotgambit.com/WildVick2.png",
+    "status": 1
+  },
+  {
+    "id": 160,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfSword",
+    "game_name": "Legend of Sword",
+    "banner": "https://cdn.slotgambit.com/LegendOfSword.png",
+    "status": 1
+  },
+  {
+    "id": 161,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FormosanBirds",
+    "game_name": "Formosan Birds",
+    "banner": "https://cdn.slotgambit.com/FormosanBirds.png",
+    "status": 1
+  },
+  {
+    "id": 162,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneFeast",
+    "game_name": "Fortune Feast Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/FortuneFeast.png",
+    "status": 1
+  },
+  {
+    "id": 163,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Rudolph",
+    "game_name": "Rudolph",
+    "banner": "https://cdn.slotgambit.com/Rudolph.png",
+    "status": 1
+  },
+  {
+    "id": 164,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GreenParty",
+    "game_name": "Green Party",
+    "banner": "https://cdn.slotgambit.com/GreenParty.png",
+    "status": 1
+  },
+  {
+    "id": 165,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "UnderworldEmpire",
+    "game_name": "Underworld Empire",
+    "banner": "https://cdn.slotgambit.com/UnderworldEmpire.png",
+    "status": 1
+  },
+  {
+    "id": 166,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildJungle",
+    "game_name": "Wild Jungle",
+    "banner": "https://cdn.slotgambit.com/WildJungle.png",
+    "status": 1
+  },
+  {
+    "id": 167,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Fastbreak",
+    "game_name": "Fastbreak",
+    "banner": "https://cdn.slotgambit.com/Fastbreak.png",
+    "status": 1
+  },
+  {
+    "id": 168,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MoleMoney",
+    "game_name": "Mole Money",
+    "banner": "https://cdn.slotgambit.com/MoleMoney.png",
+    "status": 1
+  },
+  {
+    "id": 169,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Modernizations",
+    "game_name": "Modernizations",
+    "banner": "https://cdn.slotgambit.com/Modernizations.png",
+    "status": 1
+  },
+  {
+    "id": 170,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CountySeat",
+    "game_name": "County Seat",
+    "banner": "https://cdn.slotgambit.com/CountySeat.png",
+    "status": 1
+  },
+  {
+    "id": 171,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SilkRoad",
+    "game_name": "Silk Road",
+    "banner": "https://cdn.slotgambit.com/SilkRoad.png",
+    "status": 1
+  },
+  {
+    "id": 172,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PeacockPrincess",
+    "game_name": "Peacock Princess Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/PeacockPrincess.png",
+    "status": 1
+  },
+  {
+    "id": 173,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MysteryDetective",
+    "game_name": "Mystery Detective Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/MysteryDetective.png",
+    "status": 1
+  },
+  {
+    "id": 174,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldMagic",
+    "game_name": "Gold Magic",
+    "banner": "https://cdn.slotgambit.com/GoldMagic.png",
+    "status": 1
+  },
+  {
+    "id": 175,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TenJinMatsuri",
+    "game_name": "Ten Jin Matsuri",
+    "banner": "https://cdn.slotgambit.com/TenJinMatsuri.png",
+    "status": 1
+  },
+  {
+    "id": 176,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThreeGods",
+    "game_name": "Three Gods",
+    "banner": "https://cdn.slotgambit.com/ThreeGods.png",
+    "status": 1
+  },
+  {
+    "id": 177,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "QuickPlayJewels",
+    "game_name": "Quick Play Jewels",
+    "banner": "https://cdn.slotgambit.com/QuickPlayJewels.png",
+    "status": 1
+  },
+  {
+    "id": 178,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KickCashPanda",
+    "game_name": "Kick Cash Panda",
+    "banner": "https://cdn.slotgambit.com/KickCashPanda.png",
+    "status": 1
+  },
+  {
+    "id": 179,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Enchanted",
+    "game_name": "Enchanted",
+    "banner": "https://cdn.slotgambit.com/Enchanted.png",
+    "status": 1
+  },
+  {
+    "id": 180,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheHauntedManor",
+    "game_name": "The Haunted Manor",
+    "banner": "https://cdn.slotgambit.com/TheHauntedManor.png",
+    "status": 1
+  },
+  {
+    "id": 181,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Neanderthals",
+    "game_name": "Neanderthals",
+    "banner": "https://cdn.slotgambit.com/Neanderthals.png",
+    "status": 1
+  },
+  {
+    "id": 182,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EarthGod",
+    "game_name": "Earth God",
+    "banner": "https://cdn.slotgambit.com/EarthGod.png",
+    "status": 1
+  },
+  {
+    "id": 183,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DetectiveDee",
+    "game_name": "Detective Dee",
+    "banner": "https://cdn.slotgambit.com/DetectiveDee.png",
+    "status": 1
+  },
+  {
+    "id": 184,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Cancan",
+    "game_name": "Can Can",
+    "banner": "https://cdn.slotgambit.com/Cancan.png",
+    "status": 1
+  },
+  {
+    "id": 185,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuperShot",
+    "game_name": "SuperShot",
+    "banner": "https://cdn.slotgambit.com/SuperShot.png",
+    "status": 1
+  },
+  {
+    "id": 186,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneFu",
+    "game_name": "Fortune Fu",
+    "banner": "https://cdn.slotgambit.com/FortuneFu.png",
+    "status": 1
+  },
+  {
+    "id": 187,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThreeMonkeys",
+    "game_name": "3x Monkeys",
+    "banner": "https://cdn.slotgambit.com/ThreeMonkeys.png",
+    "status": 1
+  },
+  {
+    "id": 188,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BeautifulLady",
+    "game_name": "Beautiful Lady",
+    "banner": "https://cdn.slotgambit.com/BeautifulLady.png",
+    "status": 1
+  },
+  {
+    "id": 189,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GokudoBentou",
+    "game_name": "Gokudo Bentou",
+    "banner": "https://cdn.slotgambit.com/GokudoBentou.png",
+    "status": 1
+  },
+  {
+    "id": 190,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Polynesian",
+    "game_name": "Polynesian",
+    "banner": "https://cdn.slotgambit.com/Polynesian.png",
+    "status": 1
+  },
+  {
+    "id": 191,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneFunland",
+    "game_name": "Fortune Funland",
+    "banner": "https://cdn.slotgambit.com/FortuneFunland.png",
+    "status": 1
+  },
+  {
+    "id": 192,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Cinderella",
+    "game_name": "Glass Slipper",
+    "banner": "https://cdn.slotgambit.com/Cinderella.png",
+    "status": 1
+  },
+  {
+    "id": 193,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FantasyCircus",
+    "game_name": "Fantasy Circus",
+    "banner": "https://cdn.slotgambit.com/FantasyCircus.png",
+    "status": 1
+  },
+  {
+    "id": 194,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RouranKhaganate",
+    "game_name": "Rouran Khaganate",
+    "banner": "https://cdn.slotgambit.com/RouranKhaganate.png",
+    "status": 1
+  },
+  {
+    "id": 195,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortunePiggyBank",
+    "game_name": "Fortune Piggy Bank",
+    "banner": "https://cdn.slotgambit.com/FortunePiggyBank.png",
+    "status": 1
+  },
+  {
+    "id": 196,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyStar",
+    "game_name": "Lucky Star",
+    "banner": "https://cdn.slotgambit.com/LuckyStar.png",
+    "status": 1
+  },
+  {
+    "id": 197,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Aurora",
+    "game_name": "Aurora",
+    "banner": "https://cdn.slotgambit.com/Aurora.png",
+    "status": 1
+  },
+  {
+    "id": 198,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonkeyAndCrab",
+    "game_name": "Monkey and Crab",
+    "banner": "https://cdn.slotgambit.com/MonkeyAndCrab.png",
+    "status": 1
+  },
+  {
+    "id": 199,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WalkingOz",
+    "game_name": "Walking Oz",
+    "banner": "https://cdn.slotgambit.com/WalkingOz.png",
+    "status": 1
+  },
+  {
+    "id": 200,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChinesePastry",
+    "game_name": "Chinese Pastry",
+    "banner": "https://cdn.slotgambit.com/ChinesePastry.png",
+    "status": 1
+  },
+  {
+    "id": 201,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GreatCourtyard",
+    "game_name": "Great Courtyard",
+    "banner": "https://cdn.slotgambit.com/GreatCourtyard.png",
+    "status": 1
+  },
+  {
+    "id": 202,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LandOfGold",
+    "game_name": "Lands of Gold",
+    "banner": "https://cdn.slotgambit.com/LandOfGold.png",
+    "status": 1
+  },
+  {
+    "id": 203,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MirrorHouse",
+    "game_name": "Mirror House",
+    "banner": "https://cdn.slotgambit.com/MirrorHouse.png",
+    "status": 1
+  },
+  {
+    "id": 204,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CharmingSorceress",
+    "game_name": "Charming Sorceress",
+    "banner": "https://cdn.slotgambit.com/CharmingSorceress.png",
+    "status": 1
+  },
+  {
+    "id": 205,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Submariner",
+    "game_name": "Submariner",
+    "banner": "https://cdn.slotgambit.com/Submariner.png",
+    "status": 1
+  },
+  {
+    "id": 206,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CarnivalOfVenice",
+    "game_name": "Carnival of Venice",
+    "banner": "https://cdn.slotgambit.com/CarnivalOfVenice.png",
+    "status": 1
+  },
+  {
+    "id": 207,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BlockyBlocks",
+    "game_name": "Blocky Block",
+    "banner": "https://cdn.slotgambit.com/BlockyBlocks.png",
+    "status": 1
+  },
+  {
+    "id": 208,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChristmasCandy",
+    "game_name": "Christmas Candy",
+    "banner": "https://cdn.slotgambit.com/ChristmasCandy.png",
+    "status": 1
+  },
+  {
+    "id": 209,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KickCashMonkey",
+    "game_name": "Kick Cash Monkey",
+    "banner": "https://cdn.slotgambit.com/KickCashMonkey.png",
+    "status": 1
+  },
+  {
+    "id": 210,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Dracula",
+    "game_name": "Dracula",
+    "banner": "https://cdn.slotgambit.com/Dracula.png",
+    "status": 1
+  },
+  {
+    "id": 211,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "YearOfTheRabbit",
+    "game_name": "Year of the Rabbit",
+    "banner": "https://cdn.slotgambit.com/YearOfTheRabbit.png",
+    "status": 1
+  },
+  {
+    "id": 212,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AlexanderTheGreat",
+    "game_name": "Alexander the Great",
+    "banner": "https://cdn.slotgambit.com/AlexanderTheGreat.png",
+    "status": 1
+  },
+  {
+    "id": 213,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HoleInOne",
+    "game_name": "Hole In One",
+    "banner": "https://cdn.slotgambit.com/HoleInOne.png",
+    "status": 1
+  },
+  {
+    "id": 214,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ShoppingMallTycoon",
+    "game_name": "Shopping Mall Tycoon",
+    "banner": "https://cdn.slotgambit.com/ShoppingMallTycoon.png",
+    "status": 1
+  },
+  {
+    "id": 215,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Gangster",
+    "game_name": "Gangster",
+    "banner": "https://cdn.slotgambit.com/Gangster.png",
+    "status": 1
+  },
+  {
+    "id": 216,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Mazu",
+    "game_name": "Mazu",
+    "banner": "https://cdn.slotgambit.com/Mazu.png",
+    "status": 1
+  },
+  {
+    "id": 217,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BigfootYeti",
+    "game_name": "Bigfoot Yeti",
+    "banner": "https://cdn.slotgambit.com/BigfootYeti.png",
+    "status": 1
+  },
+  {
+    "id": 218,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FootballBaby",
+    "game_name": "Football Baby",
+    "banner": "https://cdn.slotgambit.com/FootballBaby.png",
+    "status": 1
+  },
+  {
+    "id": 219,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MayanCivilization",
+    "game_name": "Mayan Civilization",
+    "banner": "https://cdn.slotgambit.com/MayanCivilization.png",
+    "status": 1
+  },
+  {
+    "id": 220,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FruitParty",
+    "game_name": "Fruit Party",
+    "banner": "https://cdn.slotgambit.com/FruitParty.png",
+    "status": 1
+  },
+  {
+    "id": 221,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DayOfDead",
+    "game_name": "Dia De Muertos",
+    "banner": "https://cdn.slotgambit.com/DayOfDead.png",
+    "status": 1
+  },
+  {
+    "id": 222,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "YunCaiTongZi",
+    "game_name": "Yun Cai Tong Zi",
+    "banner": "https://cdn.slotgambit.com/YunCaiTongZi.png",
+    "status": 1
+  },
+  {
+    "id": 223,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CandyMania",
+    "game_name": "Candy Mania",
+    "banner": "https://cdn.slotgambit.com/CandyMania.png",
+    "status": 1
+  },
+  {
+    "id": 224,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DaVinci",
+    "game_name": "da Vinci",
+    "banner": "https://cdn.slotgambit.com/DaVinci.png",
+    "status": 1
+  },
+  {
+    "id": 225,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenAndSilverHorn",
+    "game_name": "Golden and Silver Horn",
+    "banner": "https://cdn.slotgambit.com/GoldenAndSilverHorn.png",
+    "status": 1
+  },
+  {
+    "id": 226,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Werewolf",
+    "game_name": "Werewolf",
+    "banner": "https://cdn.slotgambit.com/Werewolf.png",
+    "status": 1
+  },
+  {
+    "id": 227,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "UFOHunt",
+    "game_name": "UFO Hunt",
+    "banner": "https://cdn.slotgambit.com/UFOHunt.png",
+    "status": 1
+  },
+  {
+    "id": 228,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyGoldenDragon",
+    "game_name": "Lucky Golden Dragon Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/LuckyGoldenDragon.png",
+    "status": 1
+  },
+  {
+    "id": 229,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WongTaiSin",
+    "game_name": "Wong TaiSin",
+    "banner": "https://cdn.slotgambit.com/WongTaiSin.png",
+    "status": 1
+  },
+  {
+    "id": 230,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyWomensJail",
+    "game_name": "Crazy Women's Jail",
+    "banner": "https://cdn.slotgambit.com/CrazyWomensJail.png",
+    "status": 1
+  },
+  {
+    "id": 231,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChivalrousGirl",
+    "game_name": "Chivalrous Girl",
+    "banner": "https://cdn.slotgambit.com/ChivalrousGirl.png",
+    "status": 1
+  },
+  {
+    "id": 232,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BoyToys",
+    "game_name": "Boy Toys",
+    "banner": "https://cdn.slotgambit.com/BoyToys.png",
+    "status": 1
+  },
+  {
+    "id": 233,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HappyThanksgiving",
+    "game_name": "Happy Thanksgiving",
+    "banner": "https://cdn.slotgambit.com/HappyThanksgiving.png",
+    "status": 1
+  },
+  {
+    "id": 234,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DarkFamily",
+    "game_name": "Dark Family",
+    "banner": "https://cdn.slotgambit.com/DarkFamily.png",
+    "status": 1
+  },
+  {
+    "id": 235,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WenDing",
+    "game_name": "Wen Ding",
+    "banner": "https://cdn.slotgambit.com/WenDing.png",
+    "status": 1
+  },
+  {
+    "id": 236,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheBoyWhoCriedWolf",
+    "game_name": "The Boy Who Cried Wolf",
+    "banner": "https://cdn.slotgambit.com/TheBoyWhoCriedWolf.png",
+    "status": 1
+  },
+  {
+    "id": 237,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "UnderwaterTreasure",
+    "game_name": "Underwater Treasure",
+    "banner": "https://cdn.slotgambit.com/UnderwaterTreasure.png",
+    "status": 1
+  },
+  {
+    "id": 238,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HappyMarriage",
+    "game_name": "Happy Marriage",
+    "banner": "https://cdn.slotgambit.com/HappyMarriage.png",
+    "status": 1
+  },
+  {
+    "id": 239,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Hamlet",
+    "game_name": "Hamlet",
+    "banner": "https://cdn.slotgambit.com/Hamlet.png",
+    "status": 1
+  },
+  {
+    "id": 240,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PiratesTreasureQuest",
+    "game_name": "Pirate's Treasure Quest",
+    "banner": "https://cdn.slotgambit.com/PiratesTreasureQuest.png",
+    "status": 1
+  },
+  {
+    "id": 241,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HanselAndGretel",
+    "game_name": "Hansel and Gretel",
+    "banner": "https://cdn.slotgambit.com/HanselAndGretel.png",
+    "status": 1
+  },
+  {
+    "id": 242,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonBoat",
+    "game_name": "Dragon Boat",
+    "banner": "https://cdn.slotgambit.com/DragonBoat.png",
+    "status": 1
+  },
+  {
+    "id": 243,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SoulGems",
+    "game_name": "Soul Gems Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/SoulGems.png",
+    "status": 1
+  },
+  {
+    "id": 244,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThePeonyPavilion",
+    "game_name": "The Peony Pavilion",
+    "banner": "https://cdn.slotgambit.com/ThePeonyPavilion.png",
+    "status": 1
+  },
+  {
+    "id": 245,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MouseOnThePrairie",
+    "game_name": "Mouse on the Prairie",
+    "banner": "https://cdn.slotgambit.com/MouseOnThePrairie.png",
+    "status": 1
+  },
+  {
+    "id": 246,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChinesePhoenix",
+    "game_name": "Chinese Phoenix",
+    "banner": "https://cdn.slotgambit.com/ChinesePhoenix.png",
+    "status": 1
+  },
+  {
+    "id": 247,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CouchPotato",
+    "game_name": "Couch Potato",
+    "banner": "https://cdn.slotgambit.com/CouchPotato.png",
+    "status": 1
+  },
+  {
+    "id": 248,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Seediq",
+    "game_name": "Seediq",
+    "banner": "https://cdn.slotgambit.com/Seediq.png",
+    "status": 1
+  },
+  {
+    "id": 249,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuperEnergy",
+    "game_name": "Super Energy",
+    "banner": "https://cdn.slotgambit.com/SuperEnergy.png",
+    "status": 1
+  },
+  {
+    "id": 250,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TanukiTavern",
+    "game_name": "Tanuki Tavern",
+    "banner": "https://cdn.slotgambit.com/TanukiTavern.png",
+    "status": 1
+  },
+  {
+    "id": 251,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenBall",
+    "game_name": "Golden Ball",
+    "banner": "https://cdn.slotgambit.com/GoldenBall.png",
+    "status": 1
+  },
+  {
+    "id": 252,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildChristmas",
+    "game_name": "Wild Christmas Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/WildChristmas.png",
+    "status": 1
+  },
+  {
+    "id": 253,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GreedyNight",
+    "game_name": "Greedy Night",
+    "banner": "https://cdn.slotgambit.com/GreedyNight.png",
+    "status": 1
+  },
+  {
+    "id": 254,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LastFantasy",
+    "game_name": "Last Fantasy",
+    "banner": "https://cdn.slotgambit.com/LastFantasy.png",
+    "status": 1
+  },
+  {
+    "id": 255,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "StockedBar",
+    "game_name": "Stocked Bar",
+    "banner": "https://cdn.slotgambit.com/StockedBar.png",
+    "status": 1
+  },
+  {
+    "id": 256,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenFish",
+    "game_name": "Golden Fish",
+    "banner": "https://cdn.slotgambit.com/GoldenFish.png",
+    "status": 1
+  },
+  {
+    "id": 257,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EliteGames",
+    "game_name": "Elite Games",
+    "banner": "https://cdn.slotgambit.com/EliteGames.png",
+    "status": 1
+  },
+  {
+    "id": 258,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "XmasWishes",
+    "game_name": "Xmas Wishes",
+    "banner": "https://cdn.slotgambit.com/XmasWishes.png",
+    "status": 1
+  },
+  {
+    "id": 259,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DoubleHappiness",
+    "game_name": "Double Happiness",
+    "banner": "https://cdn.slotgambit.com/DoubleHappiness.png",
+    "status": 1
+  },
+  {
+    "id": 260,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AI",
+    "game_name": "Artificial Intelligence",
+    "banner": "https://cdn.slotgambit.com/AI.png",
+    "status": 1
+  },
+  {
+    "id": 261,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "UpHellyAa",
+    "game_name": "Up Helly Aa",
+    "banner": "https://cdn.slotgambit.com/UpHellyAa.png",
+    "status": 1
+  },
+  {
+    "id": 262,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HailTheJudge",
+    "game_name": "Hail the Judge",
+    "banner": "https://cdn.slotgambit.com/HailTheJudge.png",
+    "status": 1
+  },
+  {
+    "id": 263,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenEgg",
+    "game_name": "Golden Egg",
+    "banner": "https://cdn.slotgambit.com/GoldenEgg.png",
+    "status": 1
+  },
+  {
+    "id": 264,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GhostFestival",
+    "game_name": "Ghost Festival",
+    "banner": "https://cdn.slotgambit.com/GhostFestival.png",
+    "status": 1
+  },
+  {
+    "id": 265,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SurpriseBox",
+    "game_name": "Surprise Box",
+    "banner": "https://cdn.slotgambit.com/SurpriseBox.png",
+    "status": 1
+  },
+  {
+    "id": 266,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MedalWinner",
+    "game_name": "Medal Winner Megaways",
+    "banner": "https://cdn.slotgambit.com/MedalWinner.png",
+    "status": 1
+  },
+  {
+    "id": 267,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Oktoberfest",
+    "game_name": "Oktoberfest",
+    "banner": "https://cdn.slotgambit.com/Oktoberfest.png",
+    "status": 1
+  },
+  {
+    "id": 268,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FrogsBall",
+    "game_name": "Frog's Ball Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/FrogsBall.png",
+    "status": 1
+  },
+  {
+    "id": 269,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Viking",
+    "game_name": "Age of Vikings",
+    "banner": "https://cdn.slotgambit.com/Viking.png",
+    "status": 1
+  },
+  {
+    "id": 270,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "QuickGarden",
+    "game_name": "Quick Garden",
+    "banner": "https://cdn.slotgambit.com/QuickGarden.png",
+    "status": 1
+  },
+  {
+    "id": 271,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RedBoy",
+    "game_name": "Red Boy",
+    "banner": "https://cdn.slotgambit.com/RedBoy.png",
+    "status": 1
+  },
+  {
+    "id": 272,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SorcererAndDemon",
+    "game_name": "Sorcerer and Demon",
+    "banner": "https://cdn.slotgambit.com/SorcererAndDemon.png",
+    "status": 1
+  },
+  {
+    "id": 273,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MeerkatsFamily",
+    "game_name": "Meerkats' Family",
+    "banner": "https://cdn.slotgambit.com/MeerkatsFamily.png",
+    "status": 1
+  },
+  {
+    "id": 274,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WanFuJinAn",
+    "game_name": "WanFu JinAn",
+    "banner": "https://cdn.slotgambit.com/WanFuJinAn.png",
+    "status": 1
+  },
+  {
+    "id": 275,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyBlackbeard",
+    "game_name": "Crazy Blackbeard",
+    "banner": "https://cdn.slotgambit.com/CrazyBlackbeard.png",
+    "status": 1
+  },
+  {
+    "id": 276,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CoffeeWild",
+    "game_name": "Coffee Wild",
+    "banner": "https://cdn.slotgambit.com/CoffeeWild.png",
+    "status": 1
+  },
+  {
+    "id": 277,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Knights",
+    "game_name": "Medieval Knights",
+    "banner": "https://cdn.slotgambit.com/Knights.png",
+    "status": 1
+  },
+  {
+    "id": 278,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CarnivalBeauty",
+    "game_name": "Carnival Beauty",
+    "banner": "https://cdn.slotgambit.com/CarnivalBeauty.png",
+    "status": 1
+  },
+  {
+    "id": 279,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Sante",
+    "game_name": "Sante",
+    "banner": "https://cdn.slotgambit.com/Sante.png",
+    "status": 1
+  },
+  {
+    "id": 280,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Sharpshooter",
+    "game_name": "Sharpshooter",
+    "banner": "https://cdn.slotgambit.com/Sharpshooter.png",
+    "status": 1
+  },
+  {
+    "id": 281,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Spartan",
+    "game_name": "Spartan",
+    "banner": "https://cdn.slotgambit.com/Spartan.png",
+    "status": 1
+  },
+  {
+    "id": 282,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonsterParade",
+    "game_name": "Monster Parade",
+    "banner": "https://cdn.slotgambit.com/MonsterParade.png",
+    "status": 1
+  },
+  {
+    "id": 283,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DemonFox",
+    "game_name": "Demon Fox",
+    "banner": "https://cdn.slotgambit.com/DemonFox.png",
+    "status": 1
+  },
+  {
+    "id": 284,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildKong",
+    "game_name": "Wild Kong Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/WildKong.png",
+    "status": 1
+  },
+  {
+    "id": 285,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LionDance",
+    "game_name": "Lion Dance",
+    "banner": "https://cdn.slotgambit.com/LionDance.png",
+    "status": 1
+  },
+  {
+    "id": 286,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AliceInMegaLand",
+    "game_name": "Alice in MegaLand",
+    "banner": "https://cdn.slotgambit.com/AliceInMegaLand.png",
+    "status": 1
+  },
+  {
+    "id": 287,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ComeOnRhythm",
+    "game_name": "Come On Rhythm",
+    "banner": "https://cdn.slotgambit.com/ComeOnRhythm.png",
+    "status": 1
+  },
+  {
+    "id": 288,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TaketoriMonogatari",
+    "game_name": "Taketori Monogatari",
+    "banner": "https://cdn.slotgambit.com/TaketoriMonogatari.png",
+    "status": 1
+  },
+  {
+    "id": 289,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BaseballFever",
+    "game_name": "Baseball Fever",
+    "banner": "https://cdn.slotgambit.com/BaseballFever.png",
+    "status": 1
+  },
+  {
+    "id": 290,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheGrandmaster",
+    "game_name": "The Grandmaster",
+    "banner": "https://cdn.slotgambit.com/TheGrandmaster.png",
+    "status": 1
+  },
+  {
+    "id": 291,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BookOfMummy",
+    "game_name": "Book of Mummy",
+    "banner": "https://cdn.slotgambit.com/BookOfMummy.png",
+    "status": 1
+  },
+  {
+    "id": 292,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FairyForestTale",
+    "game_name": "Fairy Forest Tale",
+    "banner": "https://cdn.slotgambit.com/FairyForestTale.png",
+    "status": 1
+  },
+  {
+    "id": 293,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HengandHa",
+    "game_name": "Heng and Ha",
+    "banner": "https://cdn.slotgambit.com/HengandHa.png",
+    "status": 1
+  },
+  {
+    "id": 294,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildVick",
+    "game_name": "Wild Vick",
+    "banner": "https://cdn.slotgambit.com/WildVick.png",
+    "status": 1
+  },
+  {
+    "id": 295,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AgentAngels",
+    "game_name": "Agent Angels",
+    "banner": "https://cdn.slotgambit.com/AgentAngels.png",
+    "status": 1
+  },
+  {
+    "id": 296,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Ninja",
+    "game_name": "Ninja",
+    "banner": "https://cdn.slotgambit.com/Ninja.png",
+    "status": 1
+  },
+  {
+    "id": 297,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MermaidPrincess",
+    "game_name": "Mermaid Princess",
+    "banner": "https://cdn.slotgambit.com/MermaidPrincess.png",
+    "status": 1
+  },
+  {
+    "id": 298,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GodofLove",
+    "game_name": "God of Love",
+    "banner": "https://cdn.slotgambit.com/GodofLove.png",
+    "status": 1
+  },
+  {
+    "id": 299,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "NieXiaoqian",
+    "game_name": "Nie Xiaoqian",
+    "banner": "https://cdn.slotgambit.com/NieXiaoqian.png",
+    "status": 1
+  },
+  {
+    "id": 300,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PotFeast",
+    "game_name": "Pot Feast",
+    "banner": "https://cdn.slotgambit.com/PotFeast.png",
+    "status": 1
+  },
+  {
+    "id": 301,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheWildFour",
+    "game_name": "The Wild Four",
+    "banner": "https://cdn.slotgambit.com/TheWildFour.png",
+    "status": 1
+  },
+  {
+    "id": 302,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CannibalGarden",
+    "game_name": "Cannibal Garden",
+    "banner": "https://cdn.slotgambit.com/CannibalGarden.png",
+    "status": 1
+  },
+  {
+    "id": 303,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Zorro",
+    "game_name": "The Mask of Zorro",
+    "banner": "https://cdn.slotgambit.com/Zorro.png",
+    "status": 1
+  },
+  {
+    "id": 304,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LoungeClub",
+    "game_name": "Lounge Club",
+    "banner": "https://cdn.slotgambit.com/LoungeClub.png",
+    "status": 1
+  },
+  {
+    "id": 305,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RhinoCoin",
+    "game_name": "Rhino Coin",
+    "banner": "https://cdn.slotgambit.com/RhinoCoin.png",
+    "status": 1
+  },
+  {
+    "id": 306,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GodOfGamblers",
+    "game_name": "God of Gamblers",
+    "banner": "https://cdn.slotgambit.com/GodOfGamblers.png",
+    "status": 1
+  },
+  {
+    "id": 307,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Borderland",
+    "game_name": "Borderland",
+    "banner": "https://cdn.slotgambit.com/Borderland.png",
+    "status": 1
+  },
+  {
+    "id": 308,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Millionaires",
+    "game_name": "Millionaires",
+    "banner": "https://cdn.slotgambit.com/Millionaires.png",
+    "status": 1
+  },
+  {
+    "id": 309,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BoxingRoo",
+    "game_name": "Boxing Roo",
+    "banner": "https://cdn.slotgambit.com/BoxingRoo.png",
+    "status": 1
+  },
+  {
+    "id": 310,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WhiteDeer",
+    "game_name": "White Deer",
+    "banner": "https://cdn.slotgambit.com/WhiteDeer.png",
+    "status": 1
+  },
+  {
+    "id": 311,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfAkihiro",
+    "game_name": "Legend of Akihiro",
+    "banner": "https://cdn.slotgambit.com/LegendOfAkihiro.png",
+    "status": 1
+  },
+  {
+    "id": 312,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HareVSTortoise",
+    "game_name": "Hare vs. Tortoise",
+    "banner": "https://cdn.slotgambit.com/HareVSTortoise.png",
+    "status": 1
+  },
+  {
+    "id": 313,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "IceCreamTruck",
+    "game_name": "Ice Cream Truck",
+    "banner": "https://cdn.slotgambit.com/IceCreamTruck.png",
+    "status": 1
+  },
+  {
+    "id": 314,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonTurtle",
+    "game_name": "Dragon Turtle",
+    "banner": "https://cdn.slotgambit.com/DragonTurtle.png",
+    "status": 1
+  },
+  {
+    "id": 315,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "OrientalBeast",
+    "game_name": "Oriental Beast",
+    "banner": "https://cdn.slotgambit.com/OrientalBeast.png",
+    "status": 1
+  },
+  {
+    "id": 316,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JadePower",
+    "game_name": "Jade Power",
+    "banner": "https://cdn.slotgambit.com/JadePower.png",
+    "status": 1
+  },
+  {
+    "id": 317,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CheerleadingTeam",
+    "game_name": "Cheerleading Team",
+    "banner": "https://cdn.slotgambit.com/CheerleadingTeam.png",
+    "status": 1
+  },
+  {
+    "id": 318,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MunichBeerBash",
+    "game_name": "Munich Beer Bash",
+    "banner": "https://cdn.slotgambit.com/MunichBeerBash.png",
+    "status": 1
+  },
+  {
+    "id": 319,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HotCoin",
+    "game_name": "Hot Coin",
+    "banner": "https://cdn.slotgambit.com/HotCoin.png",
+    "status": 1
+  },
+  {
+    "id": 320,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WitchAcademy",
+    "game_name": "Witch Academy",
+    "banner": "https://cdn.slotgambit.com/WitchAcademy.png",
+    "status": 1
+  },
+  {
+    "id": 321,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KickCashLlama",
+    "game_name": "Kick Cash Llama",
+    "banner": "https://cdn.slotgambit.com/KickCashLlama.png",
+    "status": 1
+  },
+  {
+    "id": 322,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuxuryVegas",
+    "game_name": "Luxury Vegas",
+    "banner": "https://cdn.slotgambit.com/LuxuryVegas.png",
+    "status": 1
+  },
+  {
+    "id": 323,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RomeoAndJuliet",
+    "game_name": "Romeo and Juliet",
+    "banner": "https://cdn.slotgambit.com/RomeoAndJuliet.png",
+    "status": 1
+  },
+  {
+    "id": 324,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LazyRich",
+    "game_name": "Lazy Rich",
+    "banner": "https://cdn.slotgambit.com/LazyRich.png",
+    "status": 1
+  },
+  {
+    "id": 325,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Tao",
+    "game_name": "Tao",
+    "banner": "https://cdn.slotgambit.com/Tao.png",
+    "status": 1
+  },
+  {
+    "id": 326,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DrGeek",
+    "game_name": "Dr. Geek",
+    "banner": "https://cdn.slotgambit.com/DrGeek.png",
+    "status": 1
+  },
+  {
+    "id": 327,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "IncaLostTreasure",
+    "game_name": "Inca Lost Treasure",
+    "banner": "https://cdn.slotgambit.com/IncaLostTreasure.png",
+    "status": 1
+  },
+  {
+    "id": 328,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Gypsy",
+    "game_name": "Gypsy Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/Gypsy.png",
+    "status": 1
+  },
+  {
+    "id": 329,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneBeauty",
+    "game_name": "Fortune Beauty Megaways",
+    "banner": "https://cdn.slotgambit.com/FortuneBeauty.png",
+    "status": 1
+  },
+  {
+    "id": 330,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Aladdin",
+    "game_name": "Aladdin",
+    "banner": "https://cdn.slotgambit.com/Aladdin.png",
+    "status": 1
+  },
+  {
+    "id": 331,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Neonmal",
+    "game_name": "Neonmal",
+    "banner": "https://cdn.slotgambit.com/Neonmal.png",
+    "status": 1
+  },
+  {
+    "id": 332,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HuHuFighting",
+    "game_name": "Hu Hu Fighting",
+    "banner": "https://cdn.slotgambit.com/HuHuFighting.png",
+    "status": 1
+  },
+  {
+    "id": 333,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "OwlInForest",
+    "game_name": "Owl In Forest",
+    "banner": "https://cdn.slotgambit.com/OwlInForest.png",
+    "status": 1
+  },
+  {
+    "id": 334,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuBan",
+    "game_name": "Lu Ban",
+    "banner": "https://cdn.slotgambit.com/LuBan.png",
+    "status": 1
+  },
+  {
+    "id": 335,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildernessCowboy",
+    "game_name": "Wilderness Cowboy",
+    "banner": "https://cdn.slotgambit.com/WildernessCowboy.png",
+    "status": 1
+  },
+  {
+    "id": 336,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KaiFengFu",
+    "game_name": "Kai Feng Fu",
+    "banner": "https://cdn.slotgambit.com/KaiFengFu.png",
+    "status": 1
+  },
+  {
+    "id": 337,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WhiteNoseCat",
+    "game_name": "White Nose Cat",
+    "banner": "https://cdn.slotgambit.com/WhiteNoseCat.png",
+    "status": 1
+  },
+  {
+    "id": 338,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfPaladin",
+    "game_name": "Legend of Paladin",
+    "banner": "https://cdn.slotgambit.com/LegendOfPaladin.png",
+    "status": 1
+  },
+  {
+    "id": 339,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MoneyGod",
+    "game_name": "Money God",
+    "banner": "https://cdn.slotgambit.com/MoneyGod.png",
+    "status": 1
+  },
+  {
+    "id": 340,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AngryPiggies",
+    "game_name": "Angry Piggies",
+    "banner": "https://cdn.slotgambit.com/AngryPiggies.png",
+    "status": 1
+  },
+  {
+    "id": 341,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GummyBearKingdom",
+    "game_name": "Gummy Bear Kingdom Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/GummyBearKingdom.png",
+    "status": 1
+  },
+  {
+    "id": 342,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyTaxi",
+    "game_name": "Crazy Taxi",
+    "banner": "https://cdn.slotgambit.com/CrazyTaxi.png",
+    "status": 1
+  },
+  {
+    "id": 343,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ImperialGuards",
+    "game_name": "Ming Imperial Guards",
+    "banner": "https://cdn.slotgambit.com/ImperialGuards.png",
+    "status": 1
+  },
+  {
+    "id": 344,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LaTomatina",
+    "game_name": "La Tomatina",
+    "banner": "https://cdn.slotgambit.com/LaTomatina.png",
+    "status": 1
+  },
+  {
+    "id": 345,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "UFO",
+    "game_name": "UFO",
+    "banner": "https://cdn.slotgambit.com/UFO.png",
+    "status": 1
+  },
+  {
+    "id": 346,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JumpingFrog",
+    "game_name": "Jumping Frog",
+    "banner": "https://cdn.slotgambit.com/JumpingFrog.png",
+    "status": 1
+  },
+  {
+    "id": 347,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CupidAndPsyche",
+    "game_name": "Cupid and Psyche",
+    "banner": "https://cdn.slotgambit.com/CupidAndPsyche.png",
+    "status": 1
+  },
+  {
+    "id": 348,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BonusManiaDeluxe",
+    "game_name": "Bonus Mania Deluxe",
+    "banner": "https://cdn.slotgambit.com/BonusManiaDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 349,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SpeedKing",
+    "game_name": "Speed King",
+    "banner": "https://cdn.slotgambit.com/SpeedKing.png",
+    "status": 1
+  },
+  {
+    "id": 350,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ManiaVegas",
+    "game_name": "Mania Vegas Flowin",
+    "banner": "https://cdn.slotgambit.com/ManiaVegas.png",
+    "status": 1
+  },
+  {
+    "id": 351,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CuJu",
+    "game_name": "Cu Ju",
+    "banner": "https://cdn.slotgambit.com/CuJu.png",
+    "status": 1
+  },
+  {
+    "id": 352,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonGate",
+    "game_name": "Dragon Gate",
+    "banner": "https://cdn.slotgambit.com/DragonGate.png",
+    "status": 1
+  },
+  {
+    "id": 353,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Pandora",
+    "game_name": "Pandora's Box",
+    "banner": "https://cdn.slotgambit.com/Pandora.png",
+    "status": 1
+  },
+  {
+    "id": 354,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SweetMaid",
+    "game_name": "Sweet Maid",
+    "banner": "https://cdn.slotgambit.com/SweetMaid.png",
+    "status": 1
+  },
+  {
+    "id": 355,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SnowWhite",
+    "game_name": "Snow White",
+    "banner": "https://cdn.slotgambit.com/SnowWhite.png",
+    "status": 1
+  },
+  {
+    "id": 356,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Firefighters",
+    "game_name": "Firefighters",
+    "banner": "https://cdn.slotgambit.com/Firefighters.png",
+    "status": 1
+  },
+  {
+    "id": 357,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RockParrot",
+    "game_name": "Rock Parrot",
+    "banner": "https://cdn.slotgambit.com/RockParrot.png",
+    "status": 1
+  },
+  {
+    "id": 358,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WuSong",
+    "game_name": "Wu Song",
+    "banner": "https://cdn.slotgambit.com/WuSong.png",
+    "status": 1
+  },
+  {
+    "id": 359,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HuYeh",
+    "game_name": "Hu Yeh",
+    "banner": "https://cdn.slotgambit.com/HuYeh.png",
+    "status": 1
+  },
+  {
+    "id": 360,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Mahjong",
+    "game_name": "Mahjong Master",
+    "banner": "https://cdn.slotgambit.com/Mahjong.png",
+    "status": 1
+  },
+  {
+    "id": 361,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WolfWarrior",
+    "game_name": "Wolf Warrior",
+    "banner": "https://cdn.slotgambit.com/WolfWarrior.png",
+    "status": 1
+  },
+  {
+    "id": 362,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SongkranWarfare",
+    "game_name": "Songkran Warfare",
+    "banner": "https://cdn.slotgambit.com/SongkranWarfare.png",
+    "status": 1
+  },
+  {
+    "id": 363,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TaikoMaster",
+    "game_name": "Taiko Master",
+    "banner": "https://cdn.slotgambit.com/TaikoMaster.png",
+    "status": 1
+  },
+  {
+    "id": 364,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LandOfDwarfs",
+    "game_name": "Land of Dwarfs",
+    "banner": "https://cdn.slotgambit.com/LandOfDwarfs.png",
+    "status": 1
+  },
+  {
+    "id": 365,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LadyKAKA",
+    "game_name": "Lady KAKA",
+    "banner": "https://cdn.slotgambit.com/LadyKAKA.png",
+    "status": 1
+  },
+  {
+    "id": 366,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Area51",
+    "game_name": "Area 51 Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/Area51.png",
+    "status": 1
+  },
+  {
+    "id": 367,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonPearl",
+    "game_name": "Dragon Pearl",
+    "banner": "https://cdn.slotgambit.com/DragonPearl.png",
+    "status": 1
+  },
+  {
+    "id": 368,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LionVSShark",
+    "game_name": "Lion vs. Shark",
+    "banner": "https://cdn.slotgambit.com/LionVSShark.png",
+    "status": 1
+  },
+  {
+    "id": 369,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MasterOfWulin",
+    "game_name": "Master of Wulin Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/MasterOfWulin.png",
+    "status": 1
+  },
+  {
+    "id": 370,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HappyFarm",
+    "game_name": "Farm Mania",
+    "banner": "https://cdn.slotgambit.com/HappyFarm.png",
+    "status": 1
+  },
+  {
+    "id": 371,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SummerFireworksFestival",
+    "game_name": "Summer Fireworks Festival",
+    "banner": "https://cdn.slotgambit.com/SummerFireworksFestival.png",
+    "status": 1
+  },
+  {
+    "id": 372,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Poseidon",
+    "game_name": "Poseidon's Treasure",
+    "banner": "https://cdn.slotgambit.com/Poseidon.png",
+    "status": 1
+  },
+  {
+    "id": 373,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ToroAmigo",
+    "game_name": "Toro Amigo",
+    "banner": "https://cdn.slotgambit.com/ToroAmigo.png",
+    "status": 1
+  },
+  {
+    "id": 374,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ElfTreasure",
+    "game_name": "Elf Treasure Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/ElfTreasure.png",
+    "status": 1
+  },
+  {
+    "id": 375,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Thumbelina",
+    "game_name": "Thumbelina",
+    "banner": "https://cdn.slotgambit.com/Thumbelina.png",
+    "status": 1
+  },
+  {
+    "id": 376,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "StoryOfJingJiang",
+    "game_name": "Story of Jing Jiang",
+    "banner": "https://cdn.slotgambit.com/StoryOfJingJiang.png",
+    "status": 1
+  },
+  {
+    "id": 377,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyGod",
+    "game_name": "Lucky God",
+    "banner": "https://cdn.slotgambit.com/LuckyGod.png",
+    "status": 1
+  },
+  {
+    "id": 378,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HappyGrange",
+    "game_name": "Happy Grange",
+    "banner": "https://cdn.slotgambit.com/HappyGrange.png",
+    "status": 1
+  },
+  {
+    "id": 379,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Samurai",
+    "game_name": "Samurai Way",
+    "banner": "https://cdn.slotgambit.com/Samurai.png",
+    "status": 1
+  },
+  {
+    "id": 380,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BloodyDeepSea",
+    "game_name": "Bloody Deep Sea",
+    "banner": "https://cdn.slotgambit.com/BloodyDeepSea.png",
+    "status": 1
+  },
+  {
+    "id": 381,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "QuadrupleDragons",
+    "game_name": "Quadruple Dragons",
+    "banner": "https://cdn.slotgambit.com/QuadrupleDragons.png",
+    "status": 1
+  },
+  {
+    "id": 382,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyCasino",
+    "game_name": "Lucky Casino",
+    "banner": "https://cdn.slotgambit.com/LuckyCasino.png",
+    "status": 1
+  },
+  {
+    "id": 383,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WestChamber",
+    "game_name": "The West Chamber",
+    "banner": "https://cdn.slotgambit.com/WestChamber.png",
+    "status": 1
+  },
+  {
+    "id": 384,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TripleDragons",
+    "game_name": "Triple Dragons",
+    "banner": "https://cdn.slotgambit.com/TripleDragons.png",
+    "status": 1
+  },
+  {
+    "id": 385,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JourneyToWest",
+    "game_name": "Journey to the West",
+    "banner": "https://cdn.slotgambit.com/JourneyToWest.png",
+    "status": 1
+  },
+  {
+    "id": 386,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WelcomeFortune",
+    "game_name": "Welcome Fortune",
+    "banner": "https://cdn.slotgambit.com/WelcomeFortune.png",
+    "status": 1
+  },
+  {
+    "id": 387,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SantaBumbleBee",
+    "game_name": "Santa Bumble Bee Hold and Win",
+    "banner": "https://cdn.slotgambit.com/SantaBumbleBee.png",
+    "status": 1
+  },
+  {
+    "id": 388,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SevenSinners",
+    "game_name": "7 Sinners",
+    "banner": "https://cdn.slotgambit.com/SevenSinners.png",
+    "status": 1
+  },
+  {
+    "id": 389,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MagicCarousel",
+    "game_name": "Magic Carousel",
+    "banner": "https://cdn.slotgambit.com/MagicCarousel.png",
+    "status": 1
+  },
+  {
+    "id": 390,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ArthurianLegend",
+    "game_name": "Arthurian Legend",
+    "banner": "https://cdn.slotgambit.com/ArthurianLegend.png",
+    "status": 1
+  },
+  {
+    "id": 391,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BumbleBee",
+    "game_name": "Bumble Bee",
+    "banner": "https://cdn.slotgambit.com/BumbleBee.png",
+    "status": 1
+  },
+  {
+    "id": 392,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Mermaid",
+    "game_name": "Mermaid Seas",
+    "banner": "https://cdn.slotgambit.com/Mermaid.png",
+    "status": 1
+  },
+  {
+    "id": 393,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SunnyFruits",
+    "game_name": "Sunny Fruits Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/SunnyFruits.png",
+    "status": 1
+  },
+  {
+    "id": 394,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Speakeasy2",
+    "game_name": "Speakeasy 2 Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/Speakeasy2.png",
+    "status": 1
+  },
+  {
+    "id": 395,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "OrientalMonster",
+    "game_name": "Oriental Monster",
+    "banner": "https://cdn.slotgambit.com/OrientalMonster.png",
+    "status": 1
+  },
+  {
+    "id": 396,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ApolloAndArtemis",
+    "game_name": "Apollo and Artemis",
+    "banner": "https://cdn.slotgambit.com/ApolloAndArtemis.png",
+    "status": 1
+  },
+  {
+    "id": 397,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FiveFortuneGods",
+    "game_name": "Five Fortune Gods",
+    "banner": "https://cdn.slotgambit.com/FiveFortuneGods.png",
+    "status": 1
+  },
+  {
+    "id": 398,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FastBlast",
+    "game_name": "Fast Blast",
+    "banner": "https://cdn.slotgambit.com/FastBlast.png",
+    "status": 1
+  },
+  {
+    "id": 399,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BubbleDouble",
+    "game_name": "Bubble Double",
+    "banner": "https://cdn.slotgambit.com/BubbleDouble.png",
+    "status": 1
+  },
+  {
+    "id": 400,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Cowboys",
+    "game_name": "Cowboys",
+    "banner": "https://cdn.slotgambit.com/Cowboys.png",
+    "status": 1
+  },
+  {
+    "id": 401,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LanternFestival",
+    "game_name": "Lantern Festival",
+    "banner": "https://cdn.slotgambit.com/LanternFestival.png",
+    "status": 1
+  },
+  {
+    "id": 402,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Leprechauns",
+    "game_name": "Leprechauns",
+    "banner": "https://cdn.slotgambit.com/Leprechauns.png",
+    "status": 1
+  },
+  {
+    "id": 403,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EvilPumpkin",
+    "game_name": "Evil Pumpkin",
+    "banner": "https://cdn.slotgambit.com/EvilPumpkin.png",
+    "status": 1
+  },
+  {
+    "id": 404,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BearPawLegendPlus",
+    "game_name": "Bear Paw Legend Plus",
+    "banner": "https://cdn.slotgambit.com/BearPawLegendPlus.png",
+    "status": 1
+  },
+  {
+    "id": 405,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheGoldenAx",
+    "game_name": "The Golden Ax",
+    "banner": "https://cdn.slotgambit.com/TheGoldenAx.png",
+    "status": 1
+  },
+  {
+    "id": 406,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HeroinesOfTheMarsh",
+    "game_name": "Heroines of the Marsh",
+    "banner": "https://cdn.slotgambit.com/HeroinesOfTheMarsh.png",
+    "status": 1
+  },
+  {
+    "id": 407,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonBoat2",
+    "game_name": "Dragon Boat 2 Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/DragonBoat2.png",
+    "status": 1
+  },
+  {
+    "id": 408,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FashionBones",
+    "game_name": "Fashion Bones",
+    "banner": "https://cdn.slotgambit.com/FashionBones.png",
+    "status": 1
+  },
+  {
+    "id": 409,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LoveExpress",
+    "game_name": "Love Express Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/LoveExpress.png",
+    "status": 1
+  },
+  {
+    "id": 410,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GlacialEpoch",
+    "game_name": "Glacial Epoch",
+    "banner": "https://cdn.slotgambit.com/GlacialEpoch.png",
+    "status": 1
+  },
+  {
+    "id": 411,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RetroElectronic",
+    "game_name": "Retro Electronic",
+    "banner": "https://cdn.slotgambit.com/RetroElectronic.png",
+    "status": 1
+  },
+  {
+    "id": 412,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MagicalStore",
+    "game_name": "Magical Store",
+    "banner": "https://cdn.slotgambit.com/MagicalStore.png",
+    "status": 1
+  },
+  {
+    "id": 413,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BombingFruit",
+    "game_name": "Bombing Fruit",
+    "banner": "https://cdn.slotgambit.com/BombingFruit.png",
+    "status": 1
+  },
+  {
+    "id": 414,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BigApple",
+    "game_name": "Big Apple",
+    "banner": "https://cdn.slotgambit.com/BigApple.png",
+    "status": 1
+  },
+  {
+    "id": 415,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RedRidingHood",
+    "game_name": "Red Riding Hood",
+    "banner": "https://cdn.slotgambit.com/RedRidingHood.png",
+    "status": 1
+  },
+  {
+    "id": 416,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GhostHunter",
+    "game_name": "Ghost Hunter",
+    "banner": "https://cdn.slotgambit.com/GhostHunter.png",
+    "status": 1
+  },
+  {
+    "id": 417,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LobsterCrazyShack",
+    "game_name": "Lobster Crazy Shack",
+    "banner": "https://cdn.slotgambit.com/LobsterCrazyShack.png",
+    "status": 1
+  },
+  {
+    "id": 418,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CatMuseum",
+    "game_name": "Cat Museum",
+    "banner": "https://cdn.slotgambit.com/CatMuseum.png",
+    "status": 1
+  },
+  {
+    "id": 419,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildAlaska",
+    "game_name": "Wild Alaska",
+    "banner": "https://cdn.slotgambit.com/WildAlaska.png",
+    "status": 1
+  },
+  {
+    "id": 420,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WhiteSnakeLegend",
+    "game_name": "Legend of the White Snake",
+    "banner": "https://cdn.slotgambit.com/WhiteSnakeLegend.png",
+    "status": 1
+  },
+  {
+    "id": 421,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SlamDunkContest",
+    "game_name": "Slam Dunk Contest Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/SlamDunkContest.png",
+    "status": 1
+  },
+  {
+    "id": 422,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "NineTailedFox",
+    "game_name": "Nine Tailed Fox",
+    "banner": "https://cdn.slotgambit.com/NineTailedFox.png",
+    "status": 1
+  },
+  {
+    "id": 423,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DiamondPower",
+    "game_name": "Diamond Power",
+    "banner": "https://cdn.slotgambit.com/DiamondPower.png",
+    "status": 1
+  },
+  {
+    "id": 424,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChineseOpera",
+    "game_name": "Chinese Opera",
+    "banner": "https://cdn.slotgambit.com/ChineseOpera.png",
+    "status": 1
+  },
+  {
+    "id": 425,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SnowLeopards",
+    "game_name": "Snow Leopards",
+    "banner": "https://cdn.slotgambit.com/SnowLeopards.png",
+    "status": 1
+  },
+  {
+    "id": 426,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DollTheater",
+    "game_name": "Doll Theater Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/DollTheater.png",
+    "status": 1
+  },
+  {
+    "id": 427,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WarOfThrones",
+    "game_name": "War of Thrones",
+    "banner": "https://cdn.slotgambit.com/WarOfThrones.png",
+    "status": 1
+  },
+  {
+    "id": 428,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CarpPrincess",
+    "game_name": "Carp Princess",
+    "banner": "https://cdn.slotgambit.com/CarpPrincess.png",
+    "status": 1
+  },
+  {
+    "id": 429,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TaiChi",
+    "game_name": "Tai Chi",
+    "banner": "https://cdn.slotgambit.com/TaiChi.png",
+    "status": 1
+  },
+  {
+    "id": 430,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GorillaStyle",
+    "game_name": "Gorilla Style",
+    "banner": "https://cdn.slotgambit.com/GorillaStyle.png",
+    "status": 1
+  },
+  {
+    "id": 431,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Thief",
+    "game_name": "Thief",
+    "banner": "https://cdn.slotgambit.com/Thief.png",
+    "status": 1
+  },
+  {
+    "id": 432,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThreeHeroes",
+    "game_name": "Three Heroes",
+    "banner": "https://cdn.slotgambit.com/ThreeHeroes.png",
+    "status": 1
+  },
+  {
+    "id": 433,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KingOfTheGodZeus",
+    "game_name": "King of the God Zeus Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/KingOfTheGodZeus.png",
+    "status": 1
+  },
+  {
+    "id": 434,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChineseFeast",
+    "game_name": "Chinese Feast",
+    "banner": "https://cdn.slotgambit.com/ChineseFeast.png",
+    "status": 1
+  },
+  {
+    "id": 435,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CashComing",
+    "game_name": "Cash Coming",
+    "banner": "https://cdn.slotgambit.com/CashComing.png",
+    "status": 1
+  },
+  {
+    "id": 436,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DinosaurPark",
+    "game_name": "Dinosaur Park",
+    "banner": "https://cdn.slotgambit.com/DinosaurPark.png",
+    "status": 1
+  },
+  {
+    "id": 437,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RomaniSecret",
+    "game_name": "Romani Secret",
+    "banner": "https://cdn.slotgambit.com/RomaniSecret.png",
+    "status": 1
+  },
+  {
+    "id": 438,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LoveInMemory",
+    "game_name": "Love in Memory",
+    "banner": "https://cdn.slotgambit.com/LoveInMemory.png",
+    "status": 1
+  },
+  {
+    "id": 439,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SpaceStorm",
+    "game_name": "Space Storm",
+    "banner": "https://cdn.slotgambit.com/SpaceStorm.png",
+    "status": 1
+  },
+  {
+    "id": 440,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FourSeasons",
+    "game_name": "Four Seasons",
+    "banner": "https://cdn.slotgambit.com/FourSeasons.png",
+    "status": 1
+  },
+  {
+    "id": 441,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BeachLife",
+    "game_name": "Beach Life",
+    "banner": "https://cdn.slotgambit.com/BeachLife.png",
+    "status": 1
+  },
+  {
+    "id": 442,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ShadowPlay",
+    "game_name": "Shadow Play",
+    "banner": "https://cdn.slotgambit.com/ShadowPlay.png",
+    "status": 1
+  },
+  {
+    "id": 443,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JellyMania",
+    "game_name": "Jellymania",
+    "banner": "https://cdn.slotgambit.com/JellyMania.png",
+    "status": 1
+  },
+  {
+    "id": 444,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FaCaiDestiny",
+    "game_name": "Fa Cai Destiny",
+    "banner": "https://cdn.slotgambit.com/FaCaiDestiny.png",
+    "status": 1
+  },
+  {
+    "id": 445,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Vampire",
+    "game_name": "Vampire's Tale",
+    "banner": "https://cdn.slotgambit.com/Vampire.png",
+    "status": 1
+  },
+  {
+    "id": 446,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MagicianHouse",
+    "game_name": "Magician House",
+    "banner": "https://cdn.slotgambit.com/MagicianHouse.png",
+    "status": 1
+  },
+  {
+    "id": 447,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Polaroid",
+    "game_name": "Polaroid",
+    "banner": "https://cdn.slotgambit.com/Polaroid.png",
+    "status": 1
+  },
+  {
+    "id": 448,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenShanghai",
+    "game_name": "Golden Shanghai",
+    "banner": "https://cdn.slotgambit.com/GoldenShanghai.png",
+    "status": 1
+  },
+  {
+    "id": 449,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonInn",
+    "game_name": "Dragon Inn",
+    "banner": "https://cdn.slotgambit.com/DragonInn.png",
+    "status": 1
+  },
+  {
+    "id": 450,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "VampiresNight",
+    "game_name": "Vampire's Night",
+    "banner": "https://cdn.slotgambit.com/VampiresNight.png",
+    "status": 1
+  },
+  {
+    "id": 451,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WhaleWild",
+    "game_name": "Whale Wild",
+    "banner": "https://cdn.slotgambit.com/WhaleWild.png",
+    "status": 1
+  },
+  {
+    "id": 452,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SunnyBikini",
+    "game_name": "Sunny Bikini",
+    "banner": "https://cdn.slotgambit.com/SunnyBikini.png",
+    "status": 1
+  },
+  {
+    "id": 453,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheFrogPrince",
+    "game_name": "The Frog Prince",
+    "banner": "https://cdn.slotgambit.com/TheFrogPrince.png",
+    "status": 1
+  },
+  {
+    "id": 454,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PeterPan",
+    "game_name": "Peter Pan",
+    "banner": "https://cdn.slotgambit.com/PeterPan.png",
+    "status": 1
+  },
+  {
+    "id": 455,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TreasureCarp",
+    "game_name": "Treasure Carp",
+    "banner": "https://cdn.slotgambit.com/TreasureCarp.png",
+    "status": 1
+  },
+  {
+    "id": 456,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HunterHelibu",
+    "game_name": "Hunter Helibu",
+    "banner": "https://cdn.slotgambit.com/HunterHelibu.png",
+    "status": 1
+  },
+  {
+    "id": 457,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "XElements",
+    "game_name": "X-Elements",
+    "banner": "https://cdn.slotgambit.com/XElements.png",
+    "status": 1
+  },
+  {
+    "id": 458,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AnimalDojo",
+    "game_name": "Animal Dojo",
+    "banner": "https://cdn.slotgambit.com/AnimalDojo.png",
+    "status": 1
+  },
+  {
+    "id": 459,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HipHopPigeon",
+    "game_name": "Hip Hop Pigeon",
+    "banner": "https://cdn.slotgambit.com/HipHopPigeon.png",
+    "status": 1
+  },
+  {
+    "id": 460,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JumpingFatGuy",
+    "game_name": "Jumping Mr. First",
+    "banner": "https://cdn.slotgambit.com/JumpingFatGuy.png",
+    "status": 1
+  },
+  {
+    "id": 461,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RepairRobot",
+    "game_name": "Repair Robot",
+    "banner": "https://cdn.slotgambit.com/RepairRobot.png",
+    "status": 1
+  },
+  {
+    "id": 462,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MysteryShoot",
+    "game_name": "Mystery Shoot",
+    "banner": "https://cdn.slotgambit.com/MysteryShoot.png",
+    "status": 1
+  },
+  {
+    "id": 463,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CantoneseFriedNoodles",
+    "game_name": "Cantonese Fried Noodles",
+    "banner": "https://cdn.slotgambit.com/CantoneseFriedNoodles.png",
+    "status": 1
+  },
+  {
+    "id": 464,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "YuFu",
+    "game_name": "Yu Fu",
+    "banner": "https://cdn.slotgambit.com/YuFu.png",
+    "status": 1
+  },
+  {
+    "id": 465,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DaGuanYuan",
+    "game_name": "Da Guan Yuan",
+    "banner": "https://cdn.slotgambit.com/DaGuanYuan.png",
+    "status": 1
+  },
+  {
+    "id": 466,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CalligraphyMaster",
+    "game_name": "Calligraphy Master",
+    "banner": "https://cdn.slotgambit.com/CalligraphyMaster.png",
+    "status": 1
+  },
+  {
+    "id": 467,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LadyRacer",
+    "game_name": "Lady Racer",
+    "banner": "https://cdn.slotgambit.com/LadyRacer.png",
+    "status": 1
+  },
+  {
+    "id": 468,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FuShenlong",
+    "game_name": "Fu Shenlong",
+    "banner": "https://cdn.slotgambit.com/FuShenlong.png",
+    "status": 1
+  },
+  {
+    "id": 469,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuperDragonTiger",
+    "game_name": "Super Dragon Tiger",
+    "banner": "https://cdn.slotgambit.com/SuperDragonTiger.png",
+    "status": 1
+  },
+  {
+    "id": 470,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BangBang",
+    "game_name": "Bang Bang",
+    "banner": "https://cdn.slotgambit.com/BangBang.png",
+    "status": 1
+  },
+  {
+    "id": 471,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SummerSamba",
+    "game_name": "Summer Samba",
+    "banner": "https://cdn.slotgambit.com/SummerSamba.png",
+    "status": 1
+  },
+  {
+    "id": 472,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FiveSoundFortune",
+    "game_name": "Five Sound Fortune",
+    "banner": "https://cdn.slotgambit.com/FiveSoundFortune.png",
+    "status": 1
+  },
+  {
+    "id": 473,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HuaMulan",
+    "game_name": "Hua Mulan",
+    "banner": "https://cdn.slotgambit.com/HuaMulan.png",
+    "status": 1
+  },
+  {
+    "id": 474,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GreatDoctor",
+    "game_name": "Great Doctor",
+    "banner": "https://cdn.slotgambit.com/GreatDoctor.png",
+    "status": 1
+  },
+  {
+    "id": 475,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Mythic",
+    "game_name": "Mythic",
+    "banner": "https://cdn.slotgambit.com/Mythic.png",
+    "status": 1
+  },
+  {
+    "id": 476,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Flaming7",
+    "game_name": "Flaming 7's",
+    "banner": "https://cdn.slotgambit.com/Flaming7.png",
+    "status": 1
+  },
+  {
+    "id": 477,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PartyGirlWays",
+    "game_name": "Party Girl Ways",
+    "banner": "https://cdn.slotgambit.com/PartyGirlWays.png",
+    "status": 1
+  },
+  {
+    "id": 478,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "StoryOfFarmer",
+    "game_name": "Story of Farmer",
+    "banner": "https://cdn.slotgambit.com/StoryOfFarmer.png",
+    "status": 1
+  },
+  {
+    "id": 479,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PoChiLam",
+    "game_name": "Po Chi Lam",
+    "banner": "https://cdn.slotgambit.com/PoChiLam.png",
+    "status": 1
+  },
+  {
+    "id": 480,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Sweetopia",
+    "game_name": "Sweetopia",
+    "banner": "https://cdn.slotgambit.com/Sweetopia.png",
+    "status": 1
+  },
+  {
+    "id": 481,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PumpkinWin",
+    "game_name": "Pumpkin Win",
+    "banner": "https://cdn.slotgambit.com/PumpkinWin.png",
+    "status": 1
+  },
+  {
+    "id": 482,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FireDragons",
+    "game_name": "Fire Dragons",
+    "banner": "https://cdn.slotgambit.com/FireDragons.png",
+    "status": 1
+  },
+  {
+    "id": 483,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CricketWinner",
+    "game_name": "Cricket Winner",
+    "banner": "https://cdn.slotgambit.com/CricketWinner.png",
+    "status": 1
+  },
+  {
+    "id": 484,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Route66",
+    "game_name": "Route 66",
+    "banner": "https://cdn.slotgambit.com/Route66.png",
+    "status": 1
+  },
+  {
+    "id": 485,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WonWonRich",
+    "game_name": "Won Won Rich",
+    "banner": "https://cdn.slotgambit.com/WonWonRich.png",
+    "status": 1
+  },
+  {
+    "id": 486,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SharkBite",
+    "game_name": "Shark Bite",
+    "banner": "https://cdn.slotgambit.com/SharkBite.png",
+    "status": 1
+  },
+  {
+    "id": 487,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LionOnRidge",
+    "game_name": "Lion On Ridge",
+    "banner": "https://cdn.slotgambit.com/LionOnRidge.png",
+    "status": 1
+  },
+  {
+    "id": 488,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GhostsNightWalk",
+    "game_name": "Ghosts Night Walk Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/GhostsNightWalk.png",
+    "status": 1
+  },
+  {
+    "id": 489,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GuanYunChang",
+    "game_name": "Guan Yun Chang",
+    "banner": "https://cdn.slotgambit.com/GuanYunChang.png",
+    "status": 1
+  },
+  {
+    "id": 490,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SevenHeroines",
+    "game_name": "7 Heroines",
+    "banner": "https://cdn.slotgambit.com/SevenHeroines.png",
+    "status": 1
+  },
+  {
+    "id": 491,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SolomonsTreasure",
+    "game_name": "Solomon's Treasure",
+    "banner": "https://cdn.slotgambit.com/SolomonsTreasure.png",
+    "status": 1
+  },
+  {
+    "id": 492,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneRabbit",
+    "game_name": "Fortune Rabbit Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/FortuneRabbit.png",
+    "status": 1
+  },
+  {
+    "id": 493,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonkeyManiac",
+    "game_name": "Monkey Maniac",
+    "banner": "https://cdn.slotgambit.com/MonkeyManiac.png",
+    "status": 1
+  },
+  {
+    "id": 494,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CalabashBoys",
+    "game_name": "Calabash Boys",
+    "banner": "https://cdn.slotgambit.com/CalabashBoys.png",
+    "status": 1
+  },
+  {
+    "id": 495,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PandaFamily",
+    "game_name": "Panda Family",
+    "banner": "https://cdn.slotgambit.com/PandaFamily.png",
+    "status": 1
+  },
+  {
+    "id": 496,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TombHeroes",
+    "game_name": "Tomb Heroes",
+    "banner": "https://cdn.slotgambit.com/TombHeroes.png",
+    "status": 1
+  },
+  {
+    "id": 497,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ArtistStudio",
+    "game_name": "Artist Studio",
+    "banner": "https://cdn.slotgambit.com/ArtistStudio.png",
+    "status": 1
+  },
+  {
+    "id": 498,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PlanetGuardian",
+    "game_name": "Planet Guardian",
+    "banner": "https://cdn.slotgambit.com/PlanetGuardian.png",
+    "status": 1
+  },
+  {
+    "id": 499,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyGem",
+    "game_name": "Lucky Gem Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/LuckyGem.png",
+    "status": 1
+  },
+  {
+    "id": 500,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LionKingAndEagleKing",
+    "game_name": "Lion King and Eagle King",
+    "banner": "https://cdn.slotgambit.com/LionKingAndEagleKing.png",
+    "status": 1
+  },
+  {
+    "id": 501,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KickCashMonkey2",
+    "game_name": "Kick Cash Monkey 2 Buy Feature",
+    "banner": "https://cdn.slotgambit.com/KickCashMonkey2.png",
+    "status": 1
+  },
+  {
+    "id": 502,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonIngot",
+    "game_name": "Dragon Ingot",
+    "banner": "https://cdn.slotgambit.com/DragonIngot.png",
+    "status": 1
+  },
+  {
+    "id": 503,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChihuahuaParty",
+    "game_name": "Chihuahua Party",
+    "banner": "https://cdn.slotgambit.com/ChihuahuaParty.png",
+    "status": 1
+  },
+  {
+    "id": 504,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FireCorrida",
+    "game_name": "Fire Corrida",
+    "banner": "https://cdn.slotgambit.com/FireCorrida.png",
+    "status": 1
+  },
+  {
+    "id": 505,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheGuardOfHades",
+    "game_name": "The Guard of Hades",
+    "banner": "https://cdn.slotgambit.com/TheGuardOfHades.png",
+    "status": 1
+  },
+  {
+    "id": 506,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyGym",
+    "game_name": "Crazy Gym",
+    "banner": "https://cdn.slotgambit.com/CrazyGym.png",
+    "status": 1
+  },
+  {
+    "id": 507,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrystalFruits",
+    "game_name": "Crystal Fruits",
+    "banner": "https://cdn.slotgambit.com/CrystalFruits.png",
+    "status": 1
+  },
+  {
+    "id": 508,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "VolcanoAdventure",
+    "game_name": "Volcano Adventure",
+    "banner": "https://cdn.slotgambit.com/VolcanoAdventure.png",
+    "status": 1
+  },
+  {
+    "id": 509,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "OlympusGods",
+    "game_name": "Olympus Gods",
+    "banner": "https://cdn.slotgambit.com/OlympusGods.png",
+    "status": 1
+  },
+  {
+    "id": 510,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "StellarFantasia",
+    "game_name": "Stellar Fantasia",
+    "banner": "https://cdn.slotgambit.com/StellarFantasia.png",
+    "status": 1
+  },
+  {
+    "id": 511,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Fantasy777",
+    "game_name": "Fantasy 777",
+    "banner": "https://cdn.slotgambit.com/Fantasy777.png",
+    "status": 1
+  },
+  {
+    "id": 512,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FantasyWar",
+    "game_name": "Fantasy War",
+    "banner": "https://cdn.slotgambit.com/FantasyWar.png",
+    "status": 1
+  },
+  {
+    "id": 513,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LoveAmongstWar",
+    "game_name": "Love Amongst War",
+    "banner": "https://cdn.slotgambit.com/LoveAmongstWar.png",
+    "status": 1
+  },
+  {
+    "id": 514,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PrettyPrincess",
+    "game_name": "Pretty Princess",
+    "banner": "https://cdn.slotgambit.com/PrettyPrincess.png",
+    "status": 1
+  },
+  {
+    "id": 515,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FuLuShou",
+    "game_name": "Fu Lu Shou",
+    "banner": "https://cdn.slotgambit.com/FuLuShou.png",
+    "status": 1
+  },
+  {
+    "id": 516,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TreasureRaider",
+    "game_name": "Treasure Raider",
+    "banner": "https://cdn.slotgambit.com/TreasureRaider.png",
+    "status": 1
+  },
+  {
+    "id": 517,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WindLionGod",
+    "game_name": "Wind Lion God",
+    "banner": "https://cdn.slotgambit.com/WindLionGod.png",
+    "status": 1
+  },
+  {
+    "id": 518,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DinosaurCarnival",
+    "game_name": "Dinosaur Carnival",
+    "banner": "https://cdn.slotgambit.com/DinosaurCarnival.png",
+    "status": 1
+  },
+  {
+    "id": 519,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SevenWonders",
+    "game_name": "Modern 7 Wonders",
+    "banner": "https://cdn.slotgambit.com/SevenWonders.png",
+    "status": 1
+  },
+  {
+    "id": 520,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SecretOfOcean2",
+    "game_name": "Secret of Ocean 2",
+    "banner": "https://cdn.slotgambit.com/SecretOfOcean2.png",
+    "status": 1
+  },
+  {
+    "id": 521,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HoneyMoney",
+    "game_name": "Honey Money",
+    "banner": "https://cdn.slotgambit.com/HoneyMoney.png",
+    "status": 1
+  },
+  {
+    "id": 522,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ShaolinSoccer",
+    "game_name": "Shaolin Soccer",
+    "banner": "https://cdn.slotgambit.com/ShaolinSoccer.png",
+    "status": 1
+  },
+  {
+    "id": 523,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HouYi",
+    "game_name": "Hou Yi",
+    "banner": "https://cdn.slotgambit.com/HouYi.png",
+    "status": 1
+  },
+  {
+    "id": 524,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CheerUp",
+    "game_name": "Cheer Up",
+    "banner": "https://cdn.slotgambit.com/CheerUp.png",
+    "status": 1
+  },
+  {
+    "id": 525,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "UnicornParty",
+    "game_name": "Unicorn Party",
+    "banner": "https://cdn.slotgambit.com/UnicornParty.png",
+    "status": 1
+  },
+  {
+    "id": 526,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ArcherRobinHood",
+    "game_name": "Archer Robin Hood",
+    "banner": "https://cdn.slotgambit.com/ArcherRobinHood.png",
+    "status": 1
+  },
+  {
+    "id": 527,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfFoxSpirit",
+    "game_name": "Legend of Fox Spirit",
+    "banner": "https://cdn.slotgambit.com/LegendOfFoxSpirit.png",
+    "status": 1
+  },
+  {
+    "id": 528,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DoubleFortune",
+    "game_name": "Double Fortune",
+    "banner": "https://cdn.slotgambit.com/DoubleFortune.png",
+    "status": 1
+  },
+  {
+    "id": 529,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyLucky",
+    "game_name": "Lucky Lucky",
+    "banner": "https://cdn.slotgambit.com/LuckyLucky.png",
+    "status": 1
+  },
+  {
+    "id": 530,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FluffyBuddy",
+    "game_name": "Fluffy Buddy",
+    "banner": "https://cdn.slotgambit.com/FluffyBuddy.png",
+    "status": 1
+  },
+  {
+    "id": 531,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BurgerJenga",
+    "game_name": "Burger Jenga Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/BurgerJenga.png",
+    "status": 1
+  },
+  {
+    "id": 532,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThreeBandits",
+    "game_name": "Three Bandits",
+    "banner": "https://cdn.slotgambit.com/ThreeBandits.png",
+    "status": 1
+  },
+  {
+    "id": 533,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LotusLamp",
+    "game_name": "The Lotus Lamp",
+    "banner": "https://cdn.slotgambit.com/LotusLamp.png",
+    "status": 1
+  },
+  {
+    "id": 534,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LuckyTumbler",
+    "game_name": "Lucky Tumbler",
+    "banner": "https://cdn.slotgambit.com/LuckyTumbler.png",
+    "status": 1
+  },
+  {
+    "id": 535,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LiveStreamingStar",
+    "game_name": "Live Streaming Star",
+    "banner": "https://cdn.slotgambit.com/LiveStreamingStar.png",
+    "status": 1
+  },
+  {
+    "id": 536,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "IrishCoins",
+    "game_name": "Irish Coins Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/IrishCoins.png",
+    "status": 1
+  },
+  {
+    "id": 537,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SushiNinja",
+    "game_name": "Sushi Ninja",
+    "banner": "https://cdn.slotgambit.com/SushiNinja.png",
+    "status": 1
+  },
+  {
+    "id": 538,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WealthToad",
+    "game_name": "Wealth Toad",
+    "banner": "https://cdn.slotgambit.com/WealthToad.png",
+    "status": 1
+  },
+  {
+    "id": 539,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PriestVSVampire",
+    "game_name": "Priest VS. Vampire",
+    "banner": "https://cdn.slotgambit.com/PriestVSVampire.png",
+    "status": 1
+  },
+  {
+    "id": 540,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MagicCarpet",
+    "game_name": "Magic Carpet",
+    "banner": "https://cdn.slotgambit.com/MagicCarpet.png",
+    "status": 1
+  },
+  {
+    "id": 541,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "QueensCorgi",
+    "game_name": "Queen’s Corgi",
+    "banner": "https://cdn.slotgambit.com/QueensCorgi.png",
+    "status": 1
+  },
+  {
+    "id": 542,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SevenGems",
+    "game_name": "777 Gems Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/SevenGems.png",
+    "status": 1
+  },
+  {
+    "id": 543,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BeautyPageant",
+    "game_name": "Beauty Pageant",
+    "banner": "https://cdn.slotgambit.com/BeautyPageant.png",
+    "status": 1
+  },
+  {
+    "id": 544,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WildWildBell",
+    "game_name": "Wild Wild Bell",
+    "banner": "https://cdn.slotgambit.com/WildWildBell.png",
+    "status": 1
+  },
+  {
+    "id": 545,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SuperShot2",
+    "game_name": "SuperShot 2",
+    "banner": "https://cdn.slotgambit.com/SuperShot2.png",
+    "status": 1
+  },
+  {
+    "id": 546,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Pinata",
+    "game_name": "Pinata",
+    "banner": "https://cdn.slotgambit.com/Pinata.png",
+    "status": 1
+  },
+  {
+    "id": 547,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChaiGong",
+    "game_name": "Chai Gong",
+    "banner": "https://cdn.slotgambit.com/ChaiGong.png",
+    "status": 1
+  },
+  {
+    "id": 548,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TreasureBowlMegaways",
+    "game_name": "Treasure Bowl Megaways",
+    "banner": "https://cdn.slotgambit.com/TreasureBowlMegaways.png",
+    "status": 1
+  },
+  {
+    "id": 549,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LightningStorm",
+    "game_name": "Lightning Storm",
+    "banner": "https://cdn.slotgambit.com/LightningStorm.png",
+    "status": 1
+  },
+  {
+    "id": 550,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SleepwalkingSheep",
+    "game_name": "Sleepwalking Sheep",
+    "banner": "https://cdn.slotgambit.com/SleepwalkingSheep.png",
+    "status": 1
+  },
+  {
+    "id": 551,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AnimalLand",
+    "game_name": "Animal Land",
+    "banner": "https://cdn.slotgambit.com/AnimalLand.png",
+    "status": 1
+  },
+  {
+    "id": 552,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonLegend",
+    "game_name": "Dragon Legend Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/DragonLegend.png",
+    "status": 1
+  },
+  {
+    "id": 553,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Speakeasy",
+    "game_name": "Speakeasy",
+    "banner": "https://cdn.slotgambit.com/Speakeasy.png",
+    "status": 1
+  },
+  {
+    "id": 554,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Lilith",
+    "game_name": "Lilith",
+    "banner": "https://cdn.slotgambit.com/Lilith.png",
+    "status": 1
+  },
+  {
+    "id": 555,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AmericanBurger",
+    "game_name": "American Burger",
+    "banner": "https://cdn.slotgambit.com/AmericanBurger.png",
+    "status": 1
+  },
+  {
+    "id": 556,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "KAAllStarSportsDay",
+    "game_name": "KA All Star Sports Day",
+    "banner": "https://cdn.slotgambit.com/KAAllStarSportsDay.png",
+    "status": 1
+  },
+  {
+    "id": 557,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FlowerGoddessFestival",
+    "game_name": "Flower Goddess Festival",
+    "banner": "https://cdn.slotgambit.com/FlowerGoddessFestival.png",
+    "status": 1
+  },
+  {
+    "id": 558,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TugOfWar",
+    "game_name": "Tug of War",
+    "banner": "https://cdn.slotgambit.com/TugOfWar.png",
+    "status": 1
+  },
+  {
+    "id": 559,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GhostsFortune",
+    "game_name": "Ghosts Fortune",
+    "banner": "https://cdn.slotgambit.com/GhostsFortune.png",
+    "status": 1
+  },
+  {
+    "id": 560,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Pirate",
+    "game_name": "Captain Pirate",
+    "banner": "https://cdn.slotgambit.com/Pirate.png",
+    "status": 1
+  },
+  {
+    "id": 561,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BreakThrough",
+    "game_name": "Break Through Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/BreakThrough.png",
+    "status": 1
+  },
+  {
+    "id": 562,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MilkGirl",
+    "game_name": "Milk Girl",
+    "banner": "https://cdn.slotgambit.com/MilkGirl.png",
+    "status": 1
+  },
+  {
+    "id": 563,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ToyWorld",
+    "game_name": "Toy World",
+    "banner": "https://cdn.slotgambit.com/ToyWorld.png",
+    "status": 1
+  },
+  {
+    "id": 564,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ShoppingFiend",
+    "game_name": "Shopping Fiend",
+    "banner": "https://cdn.slotgambit.com/ShoppingFiend.png",
+    "status": 1
+  },
+  {
+    "id": 565,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BunnyGirl",
+    "game_name": "Bunny Girl",
+    "banner": "https://cdn.slotgambit.com/BunnyGirl.png",
+    "status": 1
+  },
+  {
+    "id": 566,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FantasyUniverse",
+    "game_name": "Fantasy Universe",
+    "banner": "https://cdn.slotgambit.com/FantasyUniverse.png",
+    "status": 1
+  },
+  {
+    "id": 567,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThirstyCrow",
+    "game_name": "A Thirsty Crow",
+    "banner": "https://cdn.slotgambit.com/ThirstyCrow.png",
+    "status": 1
+  },
+  {
+    "id": 568,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Speed",
+    "game_name": "Street Racing",
+    "banner": "https://cdn.slotgambit.com/Speed.png",
+    "status": 1
+  },
+  {
+    "id": 569,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EnchantressArea",
+    "game_name": "Enchantress Area",
+    "banner": "https://cdn.slotgambit.com/EnchantressArea.png",
+    "status": 1
+  },
+  {
+    "id": 570,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Sumo",
+    "game_name": "Sumo",
+    "banner": "https://cdn.slotgambit.com/Sumo.png",
+    "status": 1
+  },
+  {
+    "id": 571,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MysteryAlchemy",
+    "game_name": "Mystery Alchemy",
+    "banner": "https://cdn.slotgambit.com/MysteryAlchemy.png",
+    "status": 1
+  },
+  {
+    "id": 572,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ZhongYiAndDragon",
+    "game_name": "Zhong Yi and Dragon",
+    "banner": "https://cdn.slotgambit.com/ZhongYiAndDragon.png",
+    "status": 1
+  },
+  {
+    "id": 573,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DivineGarden",
+    "game_name": "Divine Garden Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/DivineGarden.png",
+    "status": 1
+  },
+  {
+    "id": 574,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PartyGirl",
+    "game_name": "Party Girl",
+    "banner": "https://cdn.slotgambit.com/PartyGirl.png",
+    "status": 1
+  },
+  {
+    "id": 575,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Mushrooms",
+    "game_name": "Trippy Mushrooms",
+    "banner": "https://cdn.slotgambit.com/Mushrooms.png",
+    "status": 1
+  },
+  {
+    "id": 576,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Fortuna",
+    "game_name": "Fortuna",
+    "banner": "https://cdn.slotgambit.com/Fortuna.png",
+    "status": 1
+  },
+  {
+    "id": 577,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Horoscope",
+    "game_name": "Horoscope",
+    "banner": "https://cdn.slotgambit.com/Horoscope.png",
+    "status": 1
+  },
+  {
+    "id": 578,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CandyStorm",
+    "game_name": "Candy Storm",
+    "banner": "https://cdn.slotgambit.com/CandyStorm.png",
+    "status": 1
+  },
+  {
+    "id": 579,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Musketeers",
+    "game_name": "Musketeers",
+    "banner": "https://cdn.slotgambit.com/Musketeers.png",
+    "status": 1
+  },
+  {
+    "id": 580,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EgyptianEmpress",
+    "game_name": "Egyptian Empress",
+    "banner": "https://cdn.slotgambit.com/EgyptianEmpress.png",
+    "status": 1
+  },
+  {
+    "id": 581,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChineseAncientTomb",
+    "game_name": "Chinese Ancient Tomb",
+    "banner": "https://cdn.slotgambit.com/ChineseAncientTomb.png",
+    "status": 1
+  },
+  {
+    "id": 582,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Space",
+    "game_name": "Spinning In Space",
+    "banner": "https://cdn.slotgambit.com/Space.png",
+    "status": 1
+  },
+  {
+    "id": 583,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TibetPlateau",
+    "game_name": "Tibet Plateau",
+    "banner": "https://cdn.slotgambit.com/TibetPlateau.png",
+    "status": 1
+  },
+  {
+    "id": 584,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TigerGirl",
+    "game_name": "Tiger Girl",
+    "banner": "https://cdn.slotgambit.com/TigerGirl.png",
+    "status": 1
+  },
+  {
+    "id": 585,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MysteryDoctor",
+    "game_name": "Mystery Doctor",
+    "banner": "https://cdn.slotgambit.com/MysteryDoctor.png",
+    "status": 1
+  },
+  {
+    "id": 586,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BionicHuman",
+    "game_name": "Bionic Human",
+    "banner": "https://cdn.slotgambit.com/BionicHuman.png",
+    "status": 1
+  },
+  {
+    "id": 587,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ThunderGod",
+    "game_name": "Thunder God",
+    "banner": "https://cdn.slotgambit.com/ThunderGod.png",
+    "status": 1
+  },
+  {
+    "id": 588,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EgyptianMythology",
+    "game_name": "Egyptian Mythology",
+    "banner": "https://cdn.slotgambit.com/EgyptianMythology.png",
+    "status": 1
+  },
+  {
+    "id": 589,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Rebirth",
+    "game_name": "Rebirth",
+    "banner": "https://cdn.slotgambit.com/Rebirth.png",
+    "status": 1
+  },
+  {
+    "id": 590,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MillenniumLove",
+    "game_name": "Millennium Love",
+    "banner": "https://cdn.slotgambit.com/MillenniumLove.png",
+    "status": 1
+  },
+  {
+    "id": 591,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WuGang",
+    "game_name": "Wu Gang",
+    "banner": "https://cdn.slotgambit.com/WuGang.png",
+    "status": 1
+  },
+  {
+    "id": 592,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Wizardry",
+    "game_name": "Wizardry",
+    "banner": "https://cdn.slotgambit.com/Wizardry.png",
+    "status": 1
+  },
+  {
+    "id": 593,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EgyptianDeity",
+    "game_name": "Egyptian Deity",
+    "banner": "https://cdn.slotgambit.com/EgyptianDeity.png",
+    "status": 1
+  },
+  {
+    "id": 594,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheKingProducer",
+    "game_name": "The King Producer",
+    "banner": "https://cdn.slotgambit.com/TheKingProducer.png",
+    "status": 1
+  },
+  {
+    "id": 595,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Safari",
+    "game_name": "Safari Slots",
+    "banner": "https://cdn.slotgambit.com/Safari.png",
+    "status": 1
+  },
+  {
+    "id": 596,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CatchTheThief",
+    "game_name": "Catch The Thief",
+    "banner": "https://cdn.slotgambit.com/CatchTheThief.png",
+    "status": 1
+  },
+  {
+    "id": 597,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ShroveTuesday",
+    "game_name": "Shrove Tuesday",
+    "banner": "https://cdn.slotgambit.com/ShroveTuesday.png",
+    "status": 1
+  },
+  {
+    "id": 598,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Nvwa",
+    "game_name": "Nvwa",
+    "banner": "https://cdn.slotgambit.com/Nvwa.png",
+    "status": 1
+  },
+  {
+    "id": 599,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WizardofOz",
+    "game_name": "The Wizard of Oz",
+    "banner": "https://cdn.slotgambit.com/WizardofOz.png",
+    "status": 1
+  },
+  {
+    "id": 600,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TaiwanBlackBear",
+    "game_name": "Taiwan Black Bear",
+    "banner": "https://cdn.slotgambit.com/TaiwanBlackBear.png",
+    "status": 1
+  },
+  {
+    "id": 601,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AfricaRun",
+    "game_name": "Africa Run",
+    "banner": "https://cdn.slotgambit.com/AfricaRun.png",
+    "status": 1
+  },
+  {
+    "id": 602,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Caesar",
+    "game_name": "Caesar",
+    "banner": "https://cdn.slotgambit.com/Caesar.png",
+    "status": 1
+  },
+  {
+    "id": 603,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheLittlePrince",
+    "game_name": "The Little Prince Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/TheLittlePrince.png",
+    "status": 1
+  },
+  {
+    "id": 604,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonkeyHeist",
+    "game_name": "Monkey Heist",
+    "banner": "https://cdn.slotgambit.com/MonkeyHeist.png",
+    "status": 1
+  },
+  {
+    "id": 605,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "NineMonkey",
+    "game_name": "9x Monkey Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/NineMonkey.png",
+    "status": 1
+  },
+  {
+    "id": 606,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneLions",
+    "game_name": "Fortune Lions",
+    "banner": "https://cdn.slotgambit.com/FortuneLions.png",
+    "status": 1
+  },
+  {
+    "id": 607,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EightTreasures",
+    "game_name": "Eight Treasures",
+    "banner": "https://cdn.slotgambit.com/EightTreasures.png",
+    "status": 1
+  },
+  {
+    "id": 608,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AssassinMission",
+    "game_name": "Assassin Mission",
+    "banner": "https://cdn.slotgambit.com/AssassinMission.png",
+    "status": 1
+  },
+  {
+    "id": 609,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EasterEggParty",
+    "game_name": "Easter Egg Party",
+    "banner": "https://cdn.slotgambit.com/EasterEggParty.png",
+    "status": 1
+  },
+  {
+    "id": 610,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AliceInWonderland",
+    "game_name": "Alice In Wonderland",
+    "banner": "https://cdn.slotgambit.com/AliceInWonderland.png",
+    "status": 1
+  },
+  {
+    "id": 611,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FairyDust",
+    "game_name": "Fairy Dust",
+    "banner": "https://cdn.slotgambit.com/FairyDust.png",
+    "status": 1
+  },
+  {
+    "id": 612,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SNS",
+    "game_name": "SNS Friends",
+    "banner": "https://cdn.slotgambit.com/SNS.png",
+    "status": 1
+  },
+  {
+    "id": 613,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonsterFile",
+    "game_name": "Monster File",
+    "banner": "https://cdn.slotgambit.com/MonsterFile.png",
+    "status": 1
+  },
+  {
+    "id": 614,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChineseQuyi",
+    "game_name": "Chinese Quyi",
+    "banner": "https://cdn.slotgambit.com/ChineseQuyi.png",
+    "status": 1
+  },
+  {
+    "id": 615,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AquaticAdventurer",
+    "game_name": "Aquatic Adventurer",
+    "banner": "https://cdn.slotgambit.com/AquaticAdventurer.png",
+    "status": 1
+  },
+  {
+    "id": 616,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonsLegend",
+    "game_name": "Legend of Dragons",
+    "banner": "https://cdn.slotgambit.com/DragonsLegend.png",
+    "status": 1
+  },
+  {
+    "id": 617,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MythologicalCreatures",
+    "game_name": "Mythological Creatures",
+    "banner": "https://cdn.slotgambit.com/MythologicalCreatures.png",
+    "status": 1
+  },
+  {
+    "id": 618,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Steampunk",
+    "game_name": "Steampunk Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/Steampunk.png",
+    "status": 1
+  },
+  {
+    "id": 619,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Wencheng",
+    "game_name": "Princess Wencheng",
+    "banner": "https://cdn.slotgambit.com/Wencheng.png",
+    "status": 1
+  },
+  {
+    "id": 620,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RadiantCity",
+    "game_name": "Radiant City",
+    "banner": "https://cdn.slotgambit.com/RadiantCity.png",
+    "status": 1
+  },
+  {
+    "id": 621,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MuseumOfFantasy",
+    "game_name": "Museum of Fantasy Fusion Reels",
+    "banner": "https://cdn.slotgambit.com/MuseumOfFantasy.png",
+    "status": 1
+  },
+  {
+    "id": 622,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LightningGoddess",
+    "game_name": "Lightning Goddess",
+    "banner": "https://cdn.slotgambit.com/LightningGoddess.png",
+    "status": 1
+  },
+  {
+    "id": 623,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LegendOfHeroes",
+    "game_name": "The Legend of Heroes",
+    "banner": "https://cdn.slotgambit.com/LegendOfHeroes.png",
+    "status": 1
+  },
+  {
+    "id": 624,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Shennong",
+    "game_name": "Shen Nong",
+    "banner": "https://cdn.slotgambit.com/Shennong.png",
+    "status": 1
+  },
+  {
+    "id": 625,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FantasyDragons",
+    "game_name": "Fantasy Dragons",
+    "banner": "https://cdn.slotgambit.com/FantasyDragons.png",
+    "status": 1
+  },
+  {
+    "id": 626,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FortuneStar",
+    "game_name": "Fortune Star Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/FortuneStar.png",
+    "status": 1
+  },
+  {
+    "id": 627,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PhoenixRising",
+    "game_name": "Phoenix Rising",
+    "banner": "https://cdn.slotgambit.com/PhoenixRising.png",
+    "status": 1
+  },
+  {
+    "id": 628,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GenghisKhan",
+    "game_name": "Genghis Khan",
+    "banner": "https://cdn.slotgambit.com/GenghisKhan.png",
+    "status": 1
+  },
+  {
+    "id": 629,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BonusManiaPlinko",
+    "game_name": "Bonus Mania Plinko",
+    "banner": "https://cdn.slotgambit.com/BonusManiaPlinko.png",
+    "status": 1
+  },
+  {
+    "id": 630,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Pets",
+    "game_name": "Pets",
+    "banner": "https://cdn.slotgambit.com/Pets.png",
+    "status": 1
+  },
+  {
+    "id": 631,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FashionLife",
+    "game_name": "Fashion Life",
+    "banner": "https://cdn.slotgambit.com/FashionLife.png",
+    "status": 1
+  },
+  {
+    "id": 632,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RoboRevolution",
+    "game_name": "Robo Revolution",
+    "banner": "https://cdn.slotgambit.com/RoboRevolution.png",
+    "status": 1
+  },
+  {
+    "id": 633,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChiYou",
+    "game_name": "Chi You",
+    "banner": "https://cdn.slotgambit.com/ChiYou.png",
+    "status": 1
+  },
+  {
+    "id": 634,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "NightOnTheNile",
+    "game_name": "Night on the Nile",
+    "banner": "https://cdn.slotgambit.com/NightOnTheNile.png",
+    "status": 1
+  },
+  {
+    "id": 635,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "JokerSlot",
+    "game_name": "Joker Slot",
+    "banner": "https://cdn.slotgambit.com/JokerSlot.png",
+    "status": 1
+  },
+  {
+    "id": 636,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SiberianWolves",
+    "game_name": "Siberian Wolves",
+    "banner": "https://cdn.slotgambit.com/SiberianWolves.png",
+    "status": 1
+  },
+  {
+    "id": 637,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "AlienTour",
+    "game_name": "Alien Tour",
+    "banner": "https://cdn.slotgambit.com/AlienTour.png",
+    "status": 1
+  },
+  {
+    "id": 638,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "IncaFantasy",
+    "game_name": "Inca Fantasy",
+    "banner": "https://cdn.slotgambit.com/IncaFantasy.png",
+    "status": 1
+  },
+  {
+    "id": 639,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PlagueDoctor",
+    "game_name": "Plague Doctor",
+    "banner": "https://cdn.slotgambit.com/PlagueDoctor.png",
+    "status": 1
+  },
+  {
+    "id": 640,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ChessKing",
+    "game_name": "Chess King",
+    "banner": "https://cdn.slotgambit.com/ChessKing.png",
+    "status": 1
+  },
+  {
+    "id": 641,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WerewolfIsComing",
+    "game_name": "Werewolf Is Coming",
+    "banner": "https://cdn.slotgambit.com/WerewolfIsComing.png",
+    "status": 1
+  },
+  {
+    "id": 642,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DevilsMessenger",
+    "game_name": "Devils Messenger",
+    "banner": "https://cdn.slotgambit.com/DevilsMessenger.png",
+    "status": 1
+  },
+  {
+    "id": 643,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TwentyThousandLeaguesUnderTheSea",
+    "game_name": "20000 Leagues Under The Sea",
+    "banner": "https://cdn.slotgambit.com/TwentyThousandLeaguesUnderTheSea.png",
+    "status": 1
+  },
+  {
+    "id": 644,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RichDiwali",
+    "game_name": "Rich Diwali",
+    "banner": "https://cdn.slotgambit.com/RichDiwali.png",
+    "status": 1
+  },
+  {
+    "id": 645,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonHunter",
+    "game_name": "Dragon Hunter",
+    "banner": "https://cdn.slotgambit.com/DragonHunter.png",
+    "status": 1
+  },
+  {
+    "id": 646,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "LittleMonk",
+    "game_name": "Little Monk",
+    "banner": "https://cdn.slotgambit.com/LittleMonk.png",
+    "status": 1
+  },
+  {
+    "id": 647,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TangoBonanza",
+    "game_name": "Tango Bonanza",
+    "banner": "https://cdn.slotgambit.com/TangoBonanza.png",
+    "status": 1
+  },
+  {
+    "id": 648,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DuelSkateboards",
+    "game_name": "Duel Skateboards",
+    "banner": "https://cdn.slotgambit.com/DuelSkateboards.png",
+    "status": 1
+  },
+  {
+    "id": 649,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyOktoberfest",
+    "game_name": "Crazy Oktoberfest",
+    "banner": "https://cdn.slotgambit.com/CrazyOktoberfest.png",
+    "status": 1
+  },
+  {
+    "id": 650,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RomanceInEngland",
+    "game_name": "Romance In England",
+    "banner": "https://cdn.slotgambit.com/RomanceInEngland.png",
+    "status": 1
+  },
+  {
+    "id": 651,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Medusa",
+    "game_name": "Medusa",
+    "banner": "https://cdn.slotgambit.com/Medusa.png",
+    "status": 1
+  },
+  {
+    "id": 652,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "RoaringEra",
+    "game_name": "Roaring Era",
+    "banner": "https://cdn.slotgambit.com/RoaringEra.png",
+    "status": 1
+  },
+  {
+    "id": 653,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Acrobats",
+    "game_name": "Acrobats",
+    "banner": "https://cdn.slotgambit.com/Acrobats.png",
+    "status": 1
+  },
+  {
+    "id": 654,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BizarreBarber",
+    "game_name": "Bizarre Barber",
+    "banner": "https://cdn.slotgambit.com/BizarreBarber.png",
+    "status": 1
+  },
+  {
+    "id": 655,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DeepSeaMonster",
+    "game_name": "Deep Sea Monster",
+    "banner": "https://cdn.slotgambit.com/DeepSeaMonster.png",
+    "status": 1
+  },
+  {
+    "id": 656,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GachaGacha",
+    "game_name": "Gacha Gacha",
+    "banner": "https://cdn.slotgambit.com/GachaGacha.png",
+    "status": 1
+  },
+  {
+    "id": 657,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MonsterBuster",
+    "game_name": "Monster Buster",
+    "banner": "https://cdn.slotgambit.com/MonsterBuster.png",
+    "status": 1
+  },
+  {
+    "id": 658,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Nian",
+    "game_name": "Nian",
+    "banner": "https://cdn.slotgambit.com/Nian.png",
+    "status": 1
+  },
+  {
+    "id": 659,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DragonsHoard",
+    "game_name": "Dragon's Hoard",
+    "banner": "https://cdn.slotgambit.com/DragonsHoard.png",
+    "status": 1
+  },
+  {
+    "id": 660,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyKiller",
+    "game_name": "Crazy Killer",
+    "banner": "https://cdn.slotgambit.com/CrazyKiller.png",
+    "status": 1
+  },
+  {
+    "id": 661,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WuZetian",
+    "game_name": "Wu Zetian",
+    "banner": "https://cdn.slotgambit.com/WuZetian.png",
+    "status": 1
+  },
+  {
+    "id": 662,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CrazyGuava",
+    "game_name": "Crazy Guava Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/CrazyGuava.png",
+    "status": 1
+  },
+  {
+    "id": 663,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "HolidayCarol",
+    "game_name": "Holiday Carol Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/HolidayCarol.png",
+    "status": 1
+  },
+  {
+    "id": 664,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheEmperorsNewClothes",
+    "game_name": "The Emperor's New Clothes",
+    "banner": "https://cdn.slotgambit.com/TheEmperorsNewClothes.png",
+    "status": 1
+  },
+  {
+    "id": 665,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FootballMania",
+    "game_name": "Football Mania",
+    "banner": "https://cdn.slotgambit.com/FootballMania.png",
+    "status": 1
+  },
+  {
+    "id": 666,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FoxyMama",
+    "game_name": "Foxy Mama",
+    "banner": "https://cdn.slotgambit.com/FoxyMama.png",
+    "status": 1
+  },
+  {
+    "id": 667,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Apes",
+    "game_name": "The Apes",
+    "banner": "https://cdn.slotgambit.com/Apes.png",
+    "status": 1
+  },
+  {
+    "id": 668,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Astrology",
+    "game_name": "Astrology",
+    "banner": "https://cdn.slotgambit.com/Astrology.png",
+    "status": 1
+  },
+  {
+    "id": 669,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Frankenstein",
+    "game_name": "Frankenstein",
+    "banner": "https://cdn.slotgambit.com/Frankenstein.png",
+    "status": 1
+  },
+  {
+    "id": 670,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BountyHunter",
+    "game_name": "Bounty Hunter",
+    "banner": "https://cdn.slotgambit.com/BountyHunter.png",
+    "status": 1
+  },
+  {
+    "id": 671,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "EmptyCity",
+    "game_name": "Empty City",
+    "banner": "https://cdn.slotgambit.com/EmptyCity.png",
+    "status": 1
+  },
+  {
+    "id": 672,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "DarkFortress",
+    "game_name": "Dark Fortress",
+    "banner": "https://cdn.slotgambit.com/DarkFortress.png",
+    "status": 1
+  },
+  {
+    "id": 673,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TheHappyPrince",
+    "game_name": "The Happy Prince",
+    "banner": "https://cdn.slotgambit.com/TheHappyPrince.png",
+    "status": 1
+  },
+  {
+    "id": 674,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CaiYuanGuangJin",
+    "game_name": "Cai Yuan Guang Jin",
+    "banner": "https://cdn.slotgambit.com/CaiYuanGuangJin.png",
+    "status": 1
+  },
+  {
+    "id": 675,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TRex",
+    "game_name": "The King of Dinosaurs",
+    "banner": "https://cdn.slotgambit.com/TRex.png",
+    "status": 1
+  },
+  {
+    "id": 676,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MoonGoddess",
+    "game_name": "Moon Goddess",
+    "banner": "https://cdn.slotgambit.com/MoonGoddess.png",
+    "status": 1
+  },
+  {
+    "id": 677,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MexicanCactus",
+    "game_name": "Mexican Cactus",
+    "banner": "https://cdn.slotgambit.com/MexicanCactus.png",
+    "status": 1
+  },
+  {
+    "id": 678,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SkyForce",
+    "game_name": "Sky Force",
+    "banner": "https://cdn.slotgambit.com/SkyForce.png",
+    "status": 1
+  },
+  {
+    "id": 679,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Giants",
+    "game_name": "Giants",
+    "banner": "https://cdn.slotgambit.com/Giants.png",
+    "status": 1
+  },
+  {
+    "id": 680,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "WhoLetTheDogsOut",
+    "game_name": "Who Let the Dogs Out",
+    "banner": "https://cdn.slotgambit.com/WhoLetTheDogsOut.png",
+    "status": 1
+  },
+  {
+    "id": 681,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "FiveHeroes",
+    "game_name": "5 Heroes",
+    "banner": "https://cdn.slotgambit.com/FiveHeroes.png",
+    "status": 1
+  },
+  {
+    "id": 682,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Bakery",
+    "game_name": "Bakery Sweetness",
+    "banner": "https://cdn.slotgambit.com/Bakery.png",
+    "status": 1
+  },
+  {
+    "id": 683,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "MuscleCars",
+    "game_name": "Muscle Cars",
+    "banner": "https://cdn.slotgambit.com/MuscleCars.png",
+    "status": 1
+  },
+  {
+    "id": 684,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TowerofBabel",
+    "game_name": "Tower of Babel",
+    "banner": "https://cdn.slotgambit.com/TowerofBabel.png",
+    "status": 1
+  },
+  {
+    "id": 685,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "TuanYuan",
+    "game_name": "Tuan Yuan",
+    "banner": "https://cdn.slotgambit.com/TuanYuan.png",
+    "status": 1
+  },
+  {
+    "id": 686,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Rarities",
+    "game_name": "Rarities",
+    "banner": "https://cdn.slotgambit.com/Rarities.png",
+    "status": 1
+  },
+  {
+    "id": 687,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ElementShaman",
+    "game_name": "Element Shaman",
+    "banner": "https://cdn.slotgambit.com/ElementShaman.png",
+    "status": 1
+  },
+  {
+    "id": 688,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SymphonyFantasia",
+    "game_name": "Symphony Fantasia Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/SymphonyFantasia.png",
+    "status": 1
+  },
+  {
+    "id": 689,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SpiderGoblin",
+    "game_name": "Spider Goblin",
+    "banner": "https://cdn.slotgambit.com/SpiderGoblin.png",
+    "status": 1
+  },
+  {
+    "id": 690,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BullStampede",
+    "game_name": "Bull Stampede",
+    "banner": "https://cdn.slotgambit.com/BullStampede.png",
+    "status": 1
+  },
+  {
+    "id": 691,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Robots",
+    "game_name": "Robots",
+    "banner": "https://cdn.slotgambit.com/Robots.png",
+    "status": 1
+  },
+  {
+    "id": 692,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CthulhuSecret",
+    "game_name": "Cthulhu Secret",
+    "banner": "https://cdn.slotgambit.com/CthulhuSecret.png",
+    "status": 1
+  },
+  {
+    "id": 693,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "OfrendaMagic",
+    "game_name": "Ofrenda Magic",
+    "banner": "https://cdn.slotgambit.com/OfrendaMagic.png",
+    "status": 1
+  },
+  {
+    "id": 694,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Meowfia",
+    "game_name": "Meowfia",
+    "banner": "https://cdn.slotgambit.com/Meowfia.png",
+    "status": 1
+  },
+  {
+    "id": 695,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Atlantide",
+    "game_name": "Atlantide",
+    "banner": "https://cdn.slotgambit.com/Atlantide.png",
+    "status": 1
+  },
+  {
+    "id": 696,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "PrimevalForest",
+    "game_name": "Primeval Rainforest",
+    "banner": "https://cdn.slotgambit.com/PrimevalForest.png",
+    "status": 1
+  },
+  {
+    "id": 697,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ScientistsLegends",
+    "game_name": "Scientists Legends Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/ScientistsLegends.png",
+    "status": 1
+  },
+  {
+    "id": 698,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "ZombieExpert",
+    "game_name": "Zombie Expert Lock 2 Spin",
+    "banner": "https://cdn.slotgambit.com/ZombieExpert.png",
+    "status": 1
+  },
+  {
+    "id": 699,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "GoldenMagicBeans",
+    "game_name": "Golden Magic Beans",
+    "banner": "https://cdn.slotgambit.com/GoldenMagicBeans.png",
+    "status": 1
+  },
+  {
+    "id": 700,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BollywoodRomance",
+    "game_name": "Bollywood Romance",
+    "banner": "https://cdn.slotgambit.com/BollywoodRomance.png",
+    "status": 1
+  },
+  {
+    "id": 701,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Jungle",
+    "game_name": "Jungle",
+    "banner": "https://cdn.slotgambit.com/Jungle.png",
+    "status": 1
+  },
+  {
+    "id": 702,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "Nezha",
+    "game_name": "Nezha",
+    "banner": "https://cdn.slotgambit.com/Nezha.png",
+    "status": 1
+  },
+  {
+    "id": 703,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "CreatorRa",
+    "game_name": "Creator Ra",
+    "banner": "https://cdn.slotgambit.com/CreatorRa.png",
+    "status": 1
+  },
+  {
+    "id": 704,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "SecretOfOcean",
+    "game_name": "Secret of Ocean",
+    "banner": "https://cdn.slotgambit.com/SecretOfOcean.png",
+    "status": 1
+  },
+  {
+    "id": 705,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "YueFei",
+    "game_name": "Yue Fei",
+    "banner": "https://cdn.slotgambit.com/YueFei.png",
+    "status": 1
+  },
+  {
+    "id": 706,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "KAGAMING",
+    "game_code": "BeautyTrap",
+    "game_name": "Beauty Trap",
+    "banner": "https://cdn.slotgambit.com/BeautyTrap.png",
+    "status": 1
+  }
+]

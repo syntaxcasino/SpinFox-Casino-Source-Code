@@ -1,0 +1,4512 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20doghouse2",
+    "game_name": "The Dog House - Dog or Alive",
+    "banner": "https://cdn.slotgambit.com/vs20doghouse2.png",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20fruitswx",
+    "game_name": "Sweet Bonanza 1000",
+    "banner": "https://cdn.slotgambit.com/Sweet-Bonanza-1000_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sugarrushx",
+    "game_name": "Sugar Rush 1000",
+    "banner": "https://cdn.slotgambit.com/vs20sugarrushx.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sugarrush",
+    "game_name": "Sugar Rush",
+    "banner": "https://cdn.slotgambit.com/vs20sugarrush.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayslions",
+    "game_name": "5 Lions Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayslions.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20olympgate",
+    "game_name": "Gates of Olympus",
+    "banner": "https://cdn.slotgambit.com/vs20olympgate.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20olympx",
+    "game_name": "Gates of Olympus 1000",
+    "banner": "https://cdn.slotgambit.com/Gates-Of-Olympus-X-mas-1000_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysdogs",
+    "game_name": "The Dog House Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysdogs.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayspowzeus",
+    "game_name": "Power of Merlin Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayspowzeus.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysrabbits",
+    "game_name": "5 Rabbits Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysrabbits.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs15godsofwar",
+    "game_name": "Zeus vs Hades - Gods of War",
+    "banner": "https://cdn.slotgambit.com/vs15godsofwar.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25pandagold",
+    "game_name": "Panda's Fortune",
+    "banner": "https://cdn.slotgambit.com/vs25pandagold.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20tweethouse",
+    "game_name": "The Tweety House",
+    "banner": "https://cdn.slotgambit.com/vs20tweethouse.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sugrux",
+    "game_name": "Sugar Rush Xmas",
+    "banner": "https://cdn.slotgambit.com/Sugar-Rush-Xmas_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40wildwest",
+    "game_name": "Wild West Gold",
+    "banner": "https://cdn.slotgambit.com/vs40wildwest.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysbufking",
+    "game_name": "Buffalo King Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysbufking.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20saiman",
+    "game_name": "Saiyan Mania",
+    "banner": "https://cdn.slotgambit.com/vs20saiman.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20doghouse",
+    "game_name": "The Dog House",
+    "banner": "https://cdn.slotgambit.com/vs20doghouse.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayshammthor",
+    "game_name": "Power of Thor Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayshammthor.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20amuleteg",
+    "game_name": "Fortune of Giza",
+    "banner": "https://cdn.slotgambit.com/vs20amuleteg.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysrhino",
+    "game_name": "Great Rhino Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysrhino.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25pandatemple",
+    "game_name": "Panda Fortune 2",
+    "banner": "https://cdn.slotgambit.com/vs25pandatemple.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20farmfest",
+    "game_name": "Barn Festival",
+    "banner": "https://cdn.slotgambit.com/vs20farmfest.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysrockblst",
+    "game_name": "Rocket Blast Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysrockblst.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20fruitsw",
+    "game_name": "Sweet Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs20fruitsw.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20starlightx",
+    "game_name": "Starlight Princess 1000",
+    "banner": "https://cdn.slotgambit.com/vs20starlightx.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20cleocatra",
+    "game_name": "Cleocatra",
+    "banner": "https://cdn.slotgambit.com/vs20cleocatra.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20starlight",
+    "game_name": "Starlight Princess",
+    "banner": "https://cdn.slotgambit.com/vs20starlight.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysmadame",
+    "game_name": "Madame Destiny Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysmadame.png",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs12tropicana",
+    "game_name": "Club Tropicana",
+    "banner": "https://cdn.slotgambit.com/vs12tropicana.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs4096bufking",
+    "game_name": "Buffalo King",
+    "banner": "https://cdn.slotgambit.com/vs4096bufking.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20pbonanza",
+    "game_name": "Pyramid Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs20pbonanza.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20procount",
+    "game_name": "Wisdom of Athena",
+    "banner": "https://cdn.slotgambit.com/vs20procount.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10returndead",
+    "game_name": "Return of the Dead",
+    "banner": "https://cdn.slotgambit.com/vs10returndead.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20muertos",
+    "game_name": "Muertos Multiplier Megaways",
+    "banner": "https://cdn.slotgambit.com/vs20muertos.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mammoth",
+    "game_name": "Mammoth Gold Megaways",
+    "banner": "https://cdn.slotgambit.com/vs20mammoth.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10fdrasbf",
+    "game_name": "Floating Dragon - Dragon Boat Festival",
+    "banner": "https://cdn.slotgambit.com/vs10fdrasbf.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysluckyfish",
+    "game_name": "Lucky Fishing",
+    "banner": "https://cdn.slotgambit.com/vswaysluckyfish.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10floatdrg",
+    "game_name": "Floating Dragon",
+    "banner": "https://cdn.slotgambit.com/vs10floatdrg.png",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20dhdice",
+    "game_name": "The Dog House Dice Show",
+    "banner": "https://cdn.slotgambit.com/vs20dhdice.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs12bbb",
+    "game_name": "Bigger Bass Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs12bbb.png",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysfrywld",
+    "game_name": "Spin & Score Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysfrywld.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25hotfiesta",
+    "game_name": "Hot Fiesta",
+    "banner": "https://cdn.slotgambit.com/vs25hotfiesta.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayspizza",
+    "game_name": "PIZZA PIZZA PIZZA",
+    "banner": "https://cdn.slotgambit.com/vswayspizza.png",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20doghousemh",
+    "game_name": "The Dog House Multihold",
+    "banner": "https://cdn.slotgambit.com/vs20doghousemh.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20xmascarol",
+    "game_name": "Christmas Carol Megaways",
+    "banner": "https://cdn.slotgambit.com/vs20xmascarol.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayswwriches",
+    "game_name": "Wild Wild Riches Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayswwriches.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bhallbnza",
+    "game_name": "Big Bass Halloween",
+    "banner": "https://cdn.slotgambit.com/Big_Bass_Halloween_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysaztecking",
+    "game_name": "Aztec King Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysaztecking.png",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbhas",
+    "game_name": "Big Bass - Hold & Spinner",
+    "banner": "https://cdn.slotgambit.com/vs10bbhas.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20rockvegas",
+    "game_name": "Rock Vegas",
+    "banner": "https://cdn.slotgambit.com/vs20rockvegas.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs15seoultrain",
+    "game_name": "zombie train",
+    "banner": "https://cdn.slotgambit.com/cf2a21ef-1893-4a10-96ea-98faab955537-2irDUsR3kiuMHOpU5B6JKmo2JwS.png",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10fisheye",
+    "game_name": "Fish Eye",
+    "banner": "https://cdn.slotgambit.com/vs10fisheye.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayslofhero",
+    "game_name": "Legend of Heroes",
+    "banner": "https://cdn.slotgambit.com/vswayslofhero.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20framazon",
+    "game_name": "Fruits of the Amazon",
+    "banner": "https://cdn.slotgambit.com/vs20framazon.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysmegareel",
+    "game_name": "Pompeii Megareels Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysmegareel.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysstampede",
+    "game_name": "Fire Stampede",
+    "banner": "https://cdn.slotgambit.com/vswaysstampede.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sugarnudge",
+    "game_name": "Sugar Supreme Powernudge",
+    "banner": "https://cdn.slotgambit.com/vs20sugarnudge.png",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20ninjapower",
+    "game_name": "Power of Ninja",
+    "banner": "https://cdn.slotgambit.com/power-of-ninja-by-pragmatic-play-slot-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mustanggld2",
+    "game_name": "Clover Gold",
+    "banner": "https://cdn.slotgambit.com/vs20mustanggld2.png",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysrsm",
+    "game_name": "Wild Celebrity Bus Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysrsm.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs12bbbxmas",
+    "game_name": "Bigger Bass Blizzard - Christmas Catch",
+    "banner": "https://cdn.slotgambit.com/vs12bbbxmas.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayssamurai",
+    "game_name": "Rise of Samurai Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayssamurai.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayscharms",
+    "game_name": "5 Frozen Charms Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayscharms.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bnnzdice",
+    "game_name": "Sweet Bonanza Dice",
+    "banner": "https://cdn.slotgambit.com/vs20bnnzdice.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbfloats",
+    "game_name": "Big Bass Floats my Boat",
+    "banner": "https://cdn.slotgambit.com/vs10bbfloats.png",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20dhcluster",
+    "game_name": "Twilight Princess",
+    "banner": "https://cdn.slotgambit.com/Twilight-Princess_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20cjcluster",
+    "game_name": "Candy Jar Clusters",
+    "banner": "https://cdn.slotgambit.com/Candy-Jar-Cluster_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20rujakbnz",
+    "game_name": "Rujak Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs20rujakbnz.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sbxmas",
+    "game_name": "Sweet Bonanza Xmas",
+    "banner": "https://cdn.slotgambit.com/vs20sbxmas.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mochimon",
+    "game_name": "Mochimon",
+    "banner": "https://cdn.slotgambit.com/vs20mochimon.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40samurai3",
+    "game_name": "Rise of Samurai 3",
+    "banner": "https://cdn.slotgambit.com/vs40samurai3.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sugarcoins",
+    "game_name": "Viking Forge",
+    "banner": "https://cdn.slotgambit.com/vs20sugarcoins.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25holiday",
+    "game_name": "Holiday Ride",
+    "banner": "https://cdn.slotgambit.com/vs25holiday.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bonzgold",
+    "game_name": "Bonanza Gold",
+    "banner": "https://cdn.slotgambit.com/vs20bonzgold.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243lionsgold",
+    "game_name": "5 Lions Gold",
+    "banner": "https://cdn.slotgambit.com/vs243lionsgold.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20fruitparty",
+    "game_name": "Fruit Party",
+    "banner": "https://cdn.slotgambit.com/vs20fruitparty.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20hburnhs",
+    "game_name": "Hot to Burn Hold and Spin",
+    "banner": "https://cdn.slotgambit.com/vs20hburnhs.png",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayswildgang",
+    "game_name": "The Wild Gang",
+    "banner": "https://cdn.slotgambit.com/The-Wild-Gang_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20gatotgates",
+    "game_name": "Gates of Gatot Kaca",
+    "banner": "https://cdn.slotgambit.com/vs20gatotgates.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20stickywild",
+    "game_name": "Wild Bison Charge",
+    "banner": "https://cdn.slotgambit.com/vs20stickywild.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20olympdice",
+    "game_name": "Gates of Olympus Dice",
+    "banner": "https://cdn.slotgambit.com/vs20olympdice.png",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysfuryodin",
+    "game_name": "Fury of Odin Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysfuryodin.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20goldclust",
+    "game_name": "Rabbit Garden",
+    "banner": "https://cdn.slotgambit.com/vs20goldclust.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10tictac",
+    "game_name": "Tic Tac Take",
+    "banner": "https://cdn.slotgambit.com/vs10tictac.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbsplxmas",
+    "game_name": "Big Bass Christmas Bash",
+    "banner": "https://cdn.slotgambit.com/vs10bbsplxmas.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10eyestorm",
+    "game_name": "Eye of the Storm",
+    "banner": "https://cdn.slotgambit.com/vs10eyestorm.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20clustwild",
+    "game_name": "Sticky Bees",
+    "banner": "https://cdn.slotgambit.com/vs20clustwild.png",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40cosmiccash",
+    "game_name": "Cosmic Cash",
+    "banner": "https://cdn.slotgambit.com/vs40cosmiccash.png",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10fruity2",
+    "game_name": "Extra Juicy",
+    "banner": "https://cdn.slotgambit.com/vs10fruity2.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayslight",
+    "game_name": "Lucky Lightning",
+    "banner": "https://cdn.slotgambit.com/vswayslight.png",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayswildwest",
+    "game_name": "Wild West Gold Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayswildwest.png",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysyumyum",
+    "game_name": "Yum Yum Powerways",
+    "banner": "https://cdn.slotgambit.com/vswaysyumyum.png",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5ultrab",
+    "game_name": "Ultra Burn",
+    "banner": "https://cdn.slotgambit.com/vs5ultrab.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40pirate",
+    "game_name": "Pirate Gold",
+    "banner": "https://cdn.slotgambit.com/vs40pirate.png",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10dgold88",
+    "game_name": "Dragon Gold 88",
+    "banner": "https://cdn.slotgambit.com/vs10dgold88.png",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10egyptcls",
+    "game_name": "Ancient Egypt Classic",
+    "banner": "https://cdn.slotgambit.com/vs10egyptcls.png",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs15fghtmultlv",
+    "game_name": "Angel vs Sinner",
+    "banner": "https://cdn.slotgambit.com/vs15fghtmultlv.png",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20elevclust",
+    "game_name": "Gem Elevator",
+    "banner": "https://cdn.slotgambit.com/vs20elevclust.png",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20terrorv",
+    "game_name": "Cash Elevator",
+    "banner": "https://cdn.slotgambit.com/vs20terrorv.png",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbbonanza",
+    "game_name": "Big Bass Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs10bbbonanza.png",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20wildparty",
+    "game_name": "3 Buzzing Wilds",
+    "banner": "https://cdn.slotgambit.com/vs20wildparty.png",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25wildies",
+    "game_name": "Wildies",
+    "banner": "https://cdn.slotgambit.com/vs25wildies.png",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayszombcarn",
+    "game_name": "Zombie Carnival",
+    "banner": "https://cdn.slotgambit.com/vswayszombcarn.png",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysfltdrgny",
+    "game_name": "Floating Dragon New Year Festival Ultra Megaways Hold & Spin",
+    "banner": "https://cdn.slotgambit.com/vswaysfltdrgny.png",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20dugems",
+    "game_name": "Hot Pepper",
+    "banner": "https://cdn.slotgambit.com/vs20dugems.png",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mtreasure",
+    "game_name": "Pirate Golden Age",
+    "banner": "https://cdn.slotgambit.com/vs20mtreasure.png",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25rlbank",
+    "game_name": "Reel Banks",
+    "banner": "https://cdn.slotgambit.com/vs25rlbank.png",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20lcount",
+    "game_name": "Gems of Serengeti",
+    "banner": "https://cdn.slotgambit.com/vs20lcount.png",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysfltdrg",
+    "game_name": "Floating Dragon Hold & Spin Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysfltdrg.png",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243lions",
+    "game_name": "5 Lions",
+    "banner": "https://cdn.slotgambit.com/vs243lions.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20drtgold",
+    "game_name": "Drill That Gold",
+    "banner": "https://cdn.slotgambit.com/vs20drtgold.png",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayscfglory",
+    "game_name": "Chase For Glory",
+    "banner": "https://cdn.slotgambit.com/vswayscfglory.png",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10luckfort",
+    "game_name": "Good Luck & Good Fortune",
+    "banner": "https://cdn.slotgambit.com/vs10luckfort.png",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243fdragon",
+    "game_name": "Fortune Dragon",
+    "banner": "https://cdn.slotgambit.com/vs243fdragon.png",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20aztecgates",
+    "game_name": "Gates of Aztec",
+    "banner": "https://cdn.slotgambit.com/vs20aztecgates.png",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20gravity",
+    "game_name": "Gravity Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs20gravity.png",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5joker",
+    "game_name": "Joker's Jewels",
+    "banner": "https://cdn.slotgambit.com/vs5joker.png",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mparty",
+    "game_name": "Wild Hop & Drop",
+    "banner": "https://cdn.slotgambit.com/vs20mparty.png",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1dragon8",
+    "game_name": "888 Dragons",
+    "banner": "https://cdn.slotgambit.com/vs1dragon8.png",
+    "status": 1
+  },
+  {
+    "id": 121,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20swordofares",
+    "game_name": "Sword of Ares",
+    "banner": "https://cdn.slotgambit.com/vs20swordofares.png",
+    "status": 1
+  },
+  {
+    "id": 122,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysjkrdrop",
+    "game_name": "Tropical Tiki",
+    "banner": "https://cdn.slotgambit.com/vswaysjkrdrop.png",
+    "status": 1
+  },
+  {
+    "id": 123,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5jokerdice",
+    "game_name": "Joker's Jewel Dice",
+    "banner": "https://cdn.slotgambit.com/vs5jokerdice.png",
+    "status": 1
+  },
+  {
+    "id": 124,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaystimber",
+    "game_name": "Timber Stacks",
+    "banner": "https://cdn.slotgambit.com/vswaystimber.png",
+    "status": 1
+  },
+  {
+    "id": 125,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40infwild",
+    "game_name": "Infective Wild",
+    "banner": "https://cdn.slotgambit.com/vs40infwild.png",
+    "status": 1
+  },
+  {
+    "id": 126,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10amm",
+    "game_name": "Amazing Money Machine",
+    "banner": "https://cdn.slotgambit.com/vs10amm.png",
+    "status": 1
+  },
+  {
+    "id": 127,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbkir",
+    "game_name": "Big Bass Bonanza - Keeping it Reel",
+    "banner": "https://cdn.slotgambit.com/vs10bbkir.png",
+    "status": 1
+  },
+  {
+    "id": 128,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20clspwrndg",
+    "game_name": "Sweet Powernudge",
+    "banner": "https://cdn.slotgambit.com/vs20clspwrndg.png",
+    "status": 1
+  },
+  {
+    "id": 129,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysconcoll",
+    "game_name": "Firebird Spirit - Connect & Collect",
+    "banner": "https://cdn.slotgambit.com/vswaysconcoll.png",
+    "status": 1
+  },
+  {
+    "id": 130,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20drgbless",
+    "game_name": "Dragon Hero",
+    "banner": "https://cdn.slotgambit.com/vs20drgbless.png",
+    "status": 1
+  },
+  {
+    "id": 131,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20pistols",
+    "game_name": "Wild West Duels",
+    "banner": "https://cdn.slotgambit.com/vs20pistols.png",
+    "status": 1
+  },
+  {
+    "id": 132,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysmorient",
+    "game_name": "Mystery of the Orient",
+    "banner": "https://cdn.slotgambit.com/vswaysmorient.png",
+    "status": 1
+  },
+  {
+    "id": 133,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bookazteck",
+    "game_name": "Book of Aztec King",
+    "banner": "https://cdn.slotgambit.com/vs10bookazteck.png",
+    "status": 1
+  },
+  {
+    "id": 134,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20ltng",
+    "game_name": "Pinup Girls",
+    "banner": "https://cdn.slotgambit.com/vs20ltng.png",
+    "status": 1
+  },
+  {
+    "id": 135,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20schristmas",
+    "game_name": "Starlight Christmas",
+    "banner": "https://cdn.slotgambit.com/vs20schristmas.png",
+    "status": 1
+  },
+  {
+    "id": 136,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayswwhex",
+    "game_name": "Wild Wild Bananas",
+    "banner": "https://cdn.slotgambit.com/vswayswwhex.png",
+    "status": 1
+  },
+  {
+    "id": 137,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25bullfiesta",
+    "game_name": "Bull Fiesta",
+    "banner": "https://cdn.slotgambit.com/vs25bullfiesta.png",
+    "status": 1
+  },
+  {
+    "id": 138,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25kfruit",
+    "game_name": "Aztec Blaze",
+    "banner": "https://cdn.slotgambit.com/vs25kfruit.png",
+    "status": 1
+  },
+  {
+    "id": 139,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25spgldways",
+    "game_name": "Secret City Gold",
+    "banner": "https://cdn.slotgambit.com/vs25spgldways.png",
+    "status": 1
+  },
+  {
+    "id": 140,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10powerlines",
+    "game_name": "Peak Power",
+    "banner": "https://cdn.slotgambit.com/vs10powerlines.png",
+    "status": 1
+  },
+  {
+    "id": 141,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20superlanche",
+    "game_name": "Monster Superlanche",
+    "banner": "https://cdn.slotgambit.com/vs20superlanche.png",
+    "status": 1
+  },
+  {
+    "id": 142,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sparta",
+    "game_name": "Shield Of Sparta",
+    "banner": "https://cdn.slotgambit.com/vs20sparta.png",
+    "status": 1
+  },
+  {
+    "id": 143,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25archer",
+    "game_name": "Fire Archer",
+    "banner": "https://cdn.slotgambit.com/vs25archer.png",
+    "status": 1
+  },
+  {
+    "id": 144,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20hstgldngt",
+    "game_name": "Heist for the Golden Nuggets",
+    "banner": "https://cdn.slotgambit.com/vs20hstgldngt.png",
+    "status": 1
+  },
+  {
+    "id": 145,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20gatotfury",
+    "game_name": "Gatot Kaca's Fury",
+    "banner": "https://cdn.slotgambit.com/vs20gatotfury.png",
+    "status": 1
+  },
+  {
+    "id": 146,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10tut",
+    "game_name": "Book Of Tut Respin",
+    "banner": "https://cdn.slotgambit.com/vs10tut.png",
+    "status": 1
+  },
+  {
+    "id": 147,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20theights",
+    "game_name": "Towering Fortunes",
+    "banner": "https://cdn.slotgambit.com/vs20theights.png",
+    "status": 1
+  },
+  {
+    "id": 148,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs7776aztec",
+    "game_name": "Aztec Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs7776aztec.png",
+    "status": 1
+  },
+  {
+    "id": 149,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10coffee",
+    "game_name": "Coffee Wild",
+    "banner": "https://cdn.slotgambit.com/vs10coffee.png",
+    "status": 1
+  },
+  {
+    "id": 150,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20asgard",
+    "game_name": "Kingdom of Asgard",
+    "banner": "https://cdn.slotgambit.com/vs20asgard.png",
+    "status": 1
+  },
+  {
+    "id": 151,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sknights",
+    "game_name": "The Knight King",
+    "banner": "https://cdn.slotgambit.com/vs20sknights.png",
+    "status": 1
+  },
+  {
+    "id": 152,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024moonsh",
+    "game_name": "Moonshot",
+    "banner": "https://cdn.slotgambit.com/vs1024moonsh.png",
+    "status": 1
+  },
+  {
+    "id": 153,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayselements",
+    "game_name": "Elemental Gems Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayselements.png",
+    "status": 1
+  },
+  {
+    "id": 154,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20kraken2",
+    "game_name": "Release the Kraken 2",
+    "banner": "https://cdn.slotgambit.com/vs20kraken2.png",
+    "status": 1
+  },
+  {
+    "id": 155,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20porbs",
+    "game_name": "Santa's Great Gifts",
+    "banner": "https://cdn.slotgambit.com/vs20porbs.png",
+    "status": 1
+  },
+  {
+    "id": 156,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysredqueen",
+    "game_name": "The Red Queen",
+    "banner": "https://cdn.slotgambit.com/vswaysredqueen.png",
+    "status": 1
+  },
+  {
+    "id": 157,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20superx",
+    "game_name": "Super X",
+    "banner": "https://cdn.slotgambit.com/vs20superx.png",
+    "status": 1
+  },
+  {
+    "id": 158,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20fparty2",
+    "game_name": "Fruit Party 2",
+    "banner": "https://cdn.slotgambit.com/vs20fparty2.png",
+    "status": 1
+  },
+  {
+    "id": 159,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10nudgeit",
+    "game_name": "Rise of Giza PowerNudge",
+    "banner": "https://cdn.slotgambit.com/vs10nudgeit.png",
+    "status": 1
+  },
+  {
+    "id": 160,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20santawonder",
+    "game_name": "Santa's Wonderland",
+    "banner": "https://cdn.slotgambit.com/vs20santawonder.png",
+    "status": 1
+  },
+  {
+    "id": 161,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20phoenixf",
+    "game_name": "Phoenix Forge",
+    "banner": "https://cdn.slotgambit.com/vs20phoenixf.png",
+    "status": 1
+  },
+  {
+    "id": 162,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayscryscav",
+    "game_name": "Crystal Caverns Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayscryscav.png",
+    "status": 1
+  },
+  {
+    "id": 163,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25copsrobbers",
+    "game_name": "Cash Patrol",
+    "banner": "https://cdn.slotgambit.com/vs25copsrobbers.png",
+    "status": 1
+  },
+  {
+    "id": 164,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243queenie",
+    "game_name": "Queenie",
+    "banner": "https://cdn.slotgambit.com/vs243queenie.png",
+    "status": 1
+  },
+  {
+    "id": 165,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10cowgold",
+    "game_name": "Cowboys Gold",
+    "banner": "https://cdn.slotgambit.com/vs10cowgold.png",
+    "status": 1
+  },
+  {
+    "id": 166,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysbbb",
+    "game_name": "Big Bass Bonanza Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysbbb.png",
+    "status": 1
+  },
+  {
+    "id": 167,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bchprty",
+    "game_name": "Wild Beach Party",
+    "banner": "https://cdn.slotgambit.com/vs20bchprty.png",
+    "status": 1
+  },
+  {
+    "id": 168,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5strh",
+    "game_name": "Striking Hot 5",
+    "banner": "https://cdn.slotgambit.com/vs5strh.png",
+    "status": 1
+  },
+  {
+    "id": 169,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs4096magician",
+    "game_name": "Magician's Secrets",
+    "banner": "https://cdn.slotgambit.com/vs4096magician.png",
+    "status": 1
+  },
+  {
+    "id": 170,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024temuj",
+    "game_name": "Temujin Treasures",
+    "banner": "https://cdn.slotgambit.com/vs1024temuj.png",
+    "status": 1
+  },
+  {
+    "id": 171,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20rhinoluxe",
+    "game_name": "Great Rhino Deluxe",
+    "banner": "https://cdn.slotgambit.com/vs20rhinoluxe.png",
+    "status": 1
+  },
+  {
+    "id": 172,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25btygold",
+    "game_name": "Bounty Gold",
+    "banner": "https://cdn.slotgambit.com/vs25btygold.png",
+    "status": 1
+  },
+  {
+    "id": 173,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50juicyfr",
+    "game_name": "Juicy Fruits",
+    "banner": "https://cdn.slotgambit.com/vs50juicyfr.png",
+    "status": 1
+  },
+  {
+    "id": 174,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50mightra",
+    "game_name": "Might of Ra",
+    "banner": "https://cdn.slotgambit.com/vs50mightra.png",
+    "status": 1
+  },
+  {
+    "id": 175,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20rhino",
+    "game_name": "Great Rhino",
+    "banner": "https://cdn.slotgambit.com/vs20rhino.png",
+    "status": 1
+  },
+  {
+    "id": 176,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10runes",
+    "game_name": "Gates of Valhalla",
+    "banner": "https://cdn.slotgambit.com/vs10runes.png",
+    "status": 1
+  },
+  {
+    "id": 177,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs7fire88",
+    "game_name": "Fire 88",
+    "banner": "https://cdn.slotgambit.com/vs7fire88.png",
+    "status": 1
+  },
+  {
+    "id": 178,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5ultra",
+    "game_name": "Ultra Hold and Spin",
+    "banner": "https://cdn.slotgambit.com/vs5ultra.png",
+    "status": 1
+  },
+  {
+    "id": 179,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20chickdrop",
+    "game_name": "Chicken Drop",
+    "banner": "https://cdn.slotgambit.com/vs20chickdrop.png",
+    "status": 1
+  },
+  {
+    "id": 180,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243fortseren",
+    "game_name": "Greek Gods",
+    "banner": "https://cdn.slotgambit.com/vs243fortseren.png",
+    "status": 1
+  },
+  {
+    "id": 181,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25tigeryear",
+    "game_name": "Lucky New Year - Tiger Treasures",
+    "banner": "https://cdn.slotgambit.com/vs25tigeryear.png",
+    "status": 1
+  },
+  {
+    "id": 182,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1masterjoker",
+    "game_name": "Master Joker",
+    "banner": "https://cdn.slotgambit.com/vs1masterjoker.png",
+    "status": 1
+  },
+  {
+    "id": 183,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bookfallen",
+    "game_name": "Book of Fallen",
+    "banner": "https://cdn.slotgambit.com/vs10bookfallen.png",
+    "status": 1
+  },
+  {
+    "id": 184,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25gldox",
+    "game_name": "Golden Ox",
+    "banner": "https://cdn.slotgambit.com/vs25gldox.png",
+    "status": 1
+  },
+  {
+    "id": 185,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs576treasures",
+    "game_name": "Wild Wild Riches",
+    "banner": "https://cdn.slotgambit.com/vs576treasures.png",
+    "status": 1
+  },
+  {
+    "id": 186,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5drhs",
+    "game_name": "Dragon Hot Hold & Spin",
+    "banner": "https://cdn.slotgambit.com/vs5drhs.png",
+    "status": 1
+  },
+  {
+    "id": 187,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25aztecking",
+    "game_name": "Aztec King",
+    "banner": "https://cdn.slotgambit.com/vs25aztecking.png",
+    "status": 1
+  },
+  {
+    "id": 188,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40spartaking",
+    "game_name": "Spartan King",
+    "banner": "https://cdn.slotgambit.com/vs40spartaking.png",
+    "status": 1
+  },
+  {
+    "id": 189,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10chkchase",
+    "game_name": "Chicken Chase",
+    "banner": "https://cdn.slotgambit.com/vs10chkchase.png",
+    "status": 1
+  },
+  {
+    "id": 190,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243discolady",
+    "game_name": "Disco Lady",
+    "banner": "https://cdn.slotgambit.com/vs243discolady.png",
+    "status": 1
+  },
+  {
+    "id": 191,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20rainbowg",
+    "game_name": "Rainbow Gold",
+    "banner": "https://cdn.slotgambit.com/vs20rainbowg.png",
+    "status": 1
+  },
+  {
+    "id": 192,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10snakeladd",
+    "game_name": "Snakes and Ladders Megadice",
+    "banner": "https://cdn.slotgambit.com/vs10snakeladd.png",
+    "status": 1
+  },
+  {
+    "id": 193,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243mwarrior",
+    "game_name": "Monkey Warrior",
+    "banner": "https://cdn.slotgambit.com/vs243mwarrior.png",
+    "status": 1
+  },
+  {
+    "id": 194,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25mustang",
+    "game_name": "Mustang Gold",
+    "banner": "https://cdn.slotgambit.com/vs25mustang.png",
+    "status": 1
+  },
+  {
+    "id": 195,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25chilli",
+    "game_name": "Chilli Heat",
+    "banner": "https://cdn.slotgambit.com/vs25chilli.png",
+    "status": 1
+  },
+  {
+    "id": 196,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243chargebull",
+    "game_name": "Raging Bull",
+    "banner": "https://cdn.slotgambit.com/vs243chargebull.png",
+    "status": 1
+  },
+  {
+    "id": 197,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20eightdragons",
+    "game_name": "8 Dragons",
+    "banner": "https://cdn.slotgambit.com/vs20eightdragons.png",
+    "status": 1
+  },
+  {
+    "id": 198,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1money",
+    "game_name": "Money Money Money",
+    "banner": "https://cdn.slotgambit.com/vs1money.png",
+    "status": 1
+  },
+  {
+    "id": 199,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25mmouse",
+    "game_name": "Money Mouse",
+    "banner": "https://cdn.slotgambit.com/vs25mmouse.png",
+    "status": 1
+  },
+  {
+    "id": 200,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25rio",
+    "game_name": "Heart of Rio",
+    "banner": "https://cdn.slotgambit.com/vs25rio.png",
+    "status": 1
+  },
+  {
+    "id": 201,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bermuda",
+    "game_name": "Bermuda Riches",
+    "banner": "https://cdn.slotgambit.com/vs20bermuda.png",
+    "status": 1
+  },
+  {
+    "id": 202,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40bigjuan",
+    "game_name": "Big Juan",
+    "banner": "https://cdn.slotgambit.com/vs40bigjuan.png",
+    "status": 1
+  },
+  {
+    "id": 203,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayschilheat",
+    "game_name": "Chilli Heat Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayschilheat.png",
+    "status": 1
+  },
+  {
+    "id": 204,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024lionsd",
+    "game_name": "5 Lions Dance",
+    "banner": "https://cdn.slotgambit.com/vs1024lionsd.png",
+    "status": 1
+  },
+  {
+    "id": 205,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs576hokkwolf",
+    "game_name": "Hokkaido Wolf",
+    "banner": "https://cdn.slotgambit.com/vs576hokkwolf.png",
+    "status": 1
+  },
+  {
+    "id": 206,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20maskgame",
+    "game_name": "Cash Chips",
+    "banner": "https://cdn.slotgambit.com/vs20maskgame.png",
+    "status": 1
+  },
+  {
+    "id": 207,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1600drago",
+    "game_name": "Drago - Jewels of Fortune",
+    "banner": "https://cdn.slotgambit.com/vs1600drago.png",
+    "status": 1
+  },
+  {
+    "id": 208,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1fortunetree",
+    "game_name": "Tree of Riches",
+    "banner": "https://cdn.slotgambit.com/vs1fortunetree.png",
+    "status": 1
+  },
+  {
+    "id": 209,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "cs5triple8gold",
+    "game_name": "888 Gold",
+    "banner": "https://cdn.slotgambit.com/cs5triple8gold.png",
+    "status": 1
+  },
+  {
+    "id": 210,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bblpop",
+    "game_name": "Bubble Pop",
+    "banner": "https://cdn.slotgambit.com/vs10bblpop.png",
+    "status": 1
+  },
+  {
+    "id": 211,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25pyramid",
+    "game_name": "Pyramid King",
+    "banner": "https://cdn.slotgambit.com/vs25pyramid.png",
+    "status": 1
+  },
+  {
+    "id": 212,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10luckcharm",
+    "game_name": "Lucky Grace & Charm",
+    "banner": "https://cdn.slotgambit.com/vs10luckcharm.png",
+    "status": 1
+  },
+  {
+    "id": 213,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20vegasmagic",
+    "game_name": "Vegas Magic",
+    "banner": "https://cdn.slotgambit.com/vs20vegasmagic.png",
+    "status": 1
+  },
+  {
+    "id": 214,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40pirgold",
+    "game_name": "Pirate Gold Deluxe",
+    "banner": "https://cdn.slotgambit.com/vs40pirgold.png",
+    "status": 1
+  },
+  {
+    "id": 215,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs432congocash",
+    "game_name": "Congo Cash",
+    "banner": "https://cdn.slotgambit.com/vs432congocash.png",
+    "status": 1
+  },
+  {
+    "id": 216,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1tigers",
+    "game_name": "Triple Tigers",
+    "banner": "https://cdn.slotgambit.com/vs1tigers.png",
+    "status": 1
+  },
+  {
+    "id": 217,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20colcashzone",
+    "game_name": "Colossal Cash Zone",
+    "banner": "https://cdn.slotgambit.com/vs20colcashzone.png",
+    "status": 1
+  },
+  {
+    "id": 218,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10wildtut",
+    "game_name": "Mysterious Egypt",
+    "banner": "https://cdn.slotgambit.com/vs10wildtut.png",
+    "status": 1
+  },
+  {
+    "id": 219,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243dancingpar",
+    "game_name": "Dance Party",
+    "banner": "https://cdn.slotgambit.com/vs243dancingpar.png",
+    "status": 1
+  },
+  {
+    "id": 220,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25newyear",
+    "game_name": "Lucky New Year",
+    "banner": "https://cdn.slotgambit.com/vs25newyear.png",
+    "status": 1
+  },
+  {
+    "id": 221,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25goldpig",
+    "game_name": "Golden Pig",
+    "banner": "https://cdn.slotgambit.com/vs25goldpig.png",
+    "status": 1
+  },
+  {
+    "id": 222,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayswest",
+    "game_name": "Mystic Chief",
+    "banner": "https://cdn.slotgambit.com/vswayswest.png",
+    "status": 1
+  },
+  {
+    "id": 223,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40wanderw",
+    "game_name": "Wild Depths",
+    "banner": "https://cdn.slotgambit.com/vs40wanderw.png",
+    "status": 1
+  },
+  {
+    "id": 224,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25tigerwar",
+    "game_name": "The Tiger Warrior",
+    "banner": "https://cdn.slotgambit.com/vs25tigerwar.png",
+    "status": 1
+  },
+  {
+    "id": 225,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243fortune",
+    "game_name": "Caishen's Gold",
+    "banner": "https://cdn.slotgambit.com/vs243fortune.png",
+    "status": 1
+  },
+  {
+    "id": 226,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25bkofkngdm",
+    "game_name": "Book Of Kingdoms",
+    "banner": "https://cdn.slotgambit.com/vs25bkofkngdm.png",
+    "status": 1
+  },
+  {
+    "id": 227,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs9piggybank",
+    "game_name": "Piggy Bank Bills",
+    "banner": "https://cdn.slotgambit.com/vs9piggybank.png",
+    "status": 1
+  },
+  {
+    "id": 228,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25peking",
+    "game_name": "Peking Luck",
+    "banner": "https://cdn.slotgambit.com/vs25peking.png",
+    "status": 1
+  },
+  {
+    "id": 229,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25wolfgold",
+    "game_name": "Wolf Gold",
+    "banner": "https://cdn.slotgambit.com/vs25wolfgold.png",
+    "status": 1
+  },
+  {
+    "id": 230,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024dtiger",
+    "game_name": "The Dragon Tiger",
+    "banner": "https://cdn.slotgambit.com/vs1024dtiger.png",
+    "status": 1
+  },
+  {
+    "id": 231,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20smugcove",
+    "game_name": "Smugglers Cove",
+    "banner": "https://cdn.slotgambit.com/vs20smugcove.png",
+    "status": 1
+  },
+  {
+    "id": 232,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20wildboost",
+    "game_name": "Wild Booster",
+    "banner": "https://cdn.slotgambit.com/vs20wildboost.png",
+    "status": 1
+  },
+  {
+    "id": 233,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25asgard",
+    "game_name": "Asgard",
+    "banner": "https://cdn.slotgambit.com/vs25asgard.png",
+    "status": 1
+  },
+  {
+    "id": 234,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayswerewolf",
+    "game_name": "Curse of the Werewolf Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayswerewolf.png",
+    "status": 1
+  },
+  {
+    "id": 235,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25goldrush",
+    "game_name": "Gold Rush",
+    "banner": "https://cdn.slotgambit.com/vs25goldrush.png",
+    "status": 1
+  },
+  {
+    "id": 236,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25wildspells",
+    "game_name": "Wild Spells",
+    "banner": "https://cdn.slotgambit.com/vs25wildspells.png",
+    "status": 1
+  },
+  {
+    "id": 237,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5spjoker",
+    "game_name": "Super Joker",
+    "banner": "https://cdn.slotgambit.com/vs5spjoker.png",
+    "status": 1
+  },
+  {
+    "id": 238,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5super7",
+    "game_name": "Super 7s ",
+    "banner": "https://cdn.slotgambit.com/vs5super7.png",
+    "status": 1
+  },
+  {
+    "id": 239,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024butterfly",
+    "game_name": "Jade Butterfly",
+    "banner": "https://cdn.slotgambit.com/vs1024butterfly.png",
+    "status": 1
+  },
+  {
+    "id": 240,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bookoftut",
+    "game_name": "Book of Tut",
+    "banner": "https://cdn.slotgambit.com/vs10bookoftut.png",
+    "status": 1
+  },
+  {
+    "id": 241,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5hotburn",
+    "game_name": "Hot to Burn",
+    "banner": "https://cdn.slotgambit.com/vs5hotburn.png",
+    "status": 1
+  },
+  {
+    "id": 242,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10mayangods",
+    "game_name": "John Hunter And The Mayan Gods",
+    "banner": "https://cdn.slotgambit.com/vs10mayangods.png",
+    "status": 1
+  },
+  {
+    "id": 243,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10madame",
+    "game_name": "Madame Destiny",
+    "banner": "https://cdn.slotgambit.com/vs10madame.png",
+    "status": 1
+  },
+  {
+    "id": 244,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20daydead",
+    "game_name": "Day of Dead",
+    "banner": "https://cdn.slotgambit.com/vs20daydead.png",
+    "status": 1
+  },
+  {
+    "id": 245,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25samurai",
+    "game_name": "Rise of Samurai",
+    "banner": "https://cdn.slotgambit.com/vs25samurai.png",
+    "status": 1
+  },
+  {
+    "id": 246,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25vegas",
+    "game_name": "Vegas Nights",
+    "banner": "https://cdn.slotgambit.com/vs25vegas.png",
+    "status": 1
+  },
+  {
+    "id": 247,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayshive",
+    "game_name": "Star Bounty",
+    "banner": "https://cdn.slotgambit.com/vswayshive.png",
+    "status": 1
+  },
+  {
+    "id": 248,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25jokerking",
+    "game_name": "Joker King",
+    "banner": "https://cdn.slotgambit.com/vs25jokerking.png",
+    "status": 1
+  },
+  {
+    "id": 249,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1fufufu",
+    "game_name": "Fu Fu Fu",
+    "banner": "https://cdn.slotgambit.com/vs1fufufu.png",
+    "status": 1
+  },
+  {
+    "id": 250,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10threestar",
+    "game_name": "Three Star Fortune",
+    "banner": "https://cdn.slotgambit.com/vs10threestar.png",
+    "status": 1
+  },
+  {
+    "id": 251,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40voodoo",
+    "game_name": "Voodoo Magic",
+    "banner": "https://cdn.slotgambit.com/vs40voodoo.png",
+    "status": 1
+  },
+  {
+    "id": 252,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25dragonkingdom",
+    "game_name": "Dragon Kingdom",
+    "banner": "https://cdn.slotgambit.com/vs25dragonkingdom.png",
+    "status": 1
+  },
+  {
+    "id": 253,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1ball",
+    "game_name": "Lucky Dragon Ball",
+    "banner": "https://cdn.slotgambit.com/vs1ball.png",
+    "status": 1
+  },
+  {
+    "id": 254,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25kingdoms",
+    "game_name": "3 Kingdoms - Battle of Red Cliffs",
+    "banner": "https://cdn.slotgambit.com/vs25kingdoms.png",
+    "status": 1
+  },
+  {
+    "id": 255,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10goldfish",
+    "game_name": "Fishin Reels",
+    "banner": "https://cdn.slotgambit.com/vs10goldfish.png",
+    "status": 1
+  },
+  {
+    "id": 256,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20hercpeg",
+    "game_name": "Hercules and Pegasus",
+    "banner": "https://cdn.slotgambit.com/vs20hercpeg.png",
+    "status": 1
+  },
+  {
+    "id": 257,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20egypttrs",
+    "game_name": "Egyptian Fortunes",
+    "banner": "https://cdn.slotgambit.com/vs20egypttrs.png",
+    "status": 1
+  },
+  {
+    "id": 258,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50safariking",
+    "game_name": "Safari King",
+    "banner": "https://cdn.slotgambit.com/vs50safariking.png",
+    "status": 1
+  },
+  {
+    "id": 259,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50pixie",
+    "game_name": "Pixie Wings",
+    "banner": "https://cdn.slotgambit.com/vs50pixie.png",
+    "status": 1
+  },
+  {
+    "id": 260,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20ekingrr",
+    "game_name": "Emerald King Rainbow Road",
+    "banner": "https://cdn.slotgambit.com/vs20ekingrr.png",
+    "status": 1
+  },
+  {
+    "id": 261,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs88hockattack",
+    "game_name": "Hockey Attack",
+    "banner": "https://cdn.slotgambit.com/vs88hockattack.png",
+    "status": 1
+  },
+  {
+    "id": 262,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysbankbonz",
+    "game_name": "Cash Bonanza",
+    "banner": "https://cdn.slotgambit.com/vswaysbankbonz.png",
+    "status": 1
+  },
+  {
+    "id": 263,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20honey",
+    "game_name": "Honey Honey Honey",
+    "banner": "https://cdn.slotgambit.com/vs20honey.png",
+    "status": 1
+  },
+  {
+    "id": 264,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs117649starz",
+    "game_name": "Starz Megaways",
+    "banner": "https://cdn.slotgambit.com/vs117649starz.png",
+    "status": 1
+  },
+  {
+    "id": 265,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20santa",
+    "game_name": "Santa",
+    "banner": "https://cdn.slotgambit.com/vs20santa.png",
+    "status": 1
+  },
+  {
+    "id": 266,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20wildpix",
+    "game_name": "Wild Pixies",
+    "banner": "https://cdn.slotgambit.com/vs20wildpix.png",
+    "status": 1
+  },
+  {
+    "id": 267,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs18mashang",
+    "game_name": "Treasure Horse",
+    "banner": "https://cdn.slotgambit.com/vs18mashang.png",
+    "status": 1
+  },
+  {
+    "id": 268,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs9madmonkey",
+    "game_name": "Monkey Madness",
+    "banner": "https://cdn.slotgambit.com/vs9madmonkey.png",
+    "status": 1
+  },
+  {
+    "id": 269,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40madwheel",
+    "game_name": "The Wild Machine",
+    "banner": "https://cdn.slotgambit.com/vs40madwheel.png",
+    "status": 1
+  },
+  {
+    "id": 270,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20leprexmas",
+    "game_name": "Leprechaun Carol",
+    "banner": "https://cdn.slotgambit.com/vs20leprexmas.png",
+    "status": 1
+  },
+  {
+    "id": 271,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs9hotroll",
+    "game_name": "Hot Chilli",
+    "banner": "https://cdn.slotgambit.com/vs9hotroll.png",
+    "status": 1
+  },
+  {
+    "id": 272,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20chicken",
+    "game_name": "The Great Chicken Escape",
+    "banner": "https://cdn.slotgambit.com/vs20chicken.png",
+    "status": 1
+  },
+  {
+    "id": 273,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10starpirate",
+    "game_name": "Star Pirates Code",
+    "banner": "https://cdn.slotgambit.com/vs10starpirate.png",
+    "status": 1
+  },
+  {
+    "id": 274,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20candvil",
+    "game_name": "Candy Village",
+    "banner": "https://cdn.slotgambit.com/vs20candvil.png",
+    "status": 1
+  },
+  {
+    "id": 275,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs9chen",
+    "game_name": "Master Chen's Fortune",
+    "banner": "https://cdn.slotgambit.com/vs9chen.png",
+    "status": 1
+  },
+  {
+    "id": 276,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20eking",
+    "game_name": "Emerald King",
+    "banner": "https://cdn.slotgambit.com/vs20eking.png",
+    "status": 1
+  },
+  {
+    "id": 277,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50hercules",
+    "game_name": "Hercules Son of Zeus",
+    "banner": "https://cdn.slotgambit.com/vs50hercules.png",
+    "status": 1
+  },
+  {
+    "id": 278,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25davinci",
+    "game_name": "Da Vinci's Treasure",
+    "banner": "https://cdn.slotgambit.com/vs25davinci.png",
+    "status": 1
+  },
+  {
+    "id": 279,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20magicpot",
+    "game_name": "The Magic Cauldron",
+    "banner": "https://cdn.slotgambit.com/vs20magicpot.png",
+    "status": 1
+  },
+  {
+    "id": 280,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs15fairytale",
+    "game_name": "Fairytale Fortune",
+    "banner": "https://cdn.slotgambit.com/vs15fairytale.png",
+    "status": 1
+  },
+  {
+    "id": 281,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25journey",
+    "game_name": "Journey to the West",
+    "banner": "https://cdn.slotgambit.com/vs25journey.png",
+    "status": 1
+  },
+  {
+    "id": 282,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20godiva",
+    "game_name": "Lady Godiva",
+    "banner": "https://cdn.slotgambit.com/vs20godiva.png",
+    "status": 1
+  },
+  {
+    "id": 283,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40frrainbow",
+    "game_name": "Fruit Rainbow",
+    "banner": "https://cdn.slotgambit.com/vs40frrainbow.png",
+    "status": 1
+  },
+  {
+    "id": 284,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5drmystery",
+    "game_name": "Dragon Kingdom - Eyes of Fire",
+    "banner": "https://cdn.slotgambit.com/vs5drmystery.png",
+    "status": 1
+  },
+  {
+    "id": 285,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50chinesecharms",
+    "game_name": "Lucky Dragons",
+    "banner": "https://cdn.slotgambit.com/vs50chinesecharms.png",
+    "status": 1
+  },
+  {
+    "id": 286,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25jokrace",
+    "game_name": "Joker Race",
+    "banner": "https://cdn.slotgambit.com/vs25jokrace.png",
+    "status": 1
+  },
+  {
+    "id": 287,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs3train",
+    "game_name": "Gold Train",
+    "banner": "https://cdn.slotgambit.com/vs3train.png",
+    "status": 1
+  },
+  {
+    "id": 288,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs4096mystery",
+    "game_name": "Mysterious",
+    "banner": "https://cdn.slotgambit.com/vs4096mystery.png",
+    "status": 1
+  },
+  {
+    "id": 289,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25safari",
+    "game_name": "Hot Safari",
+    "banner": "https://cdn.slotgambit.com/vs25safari.png",
+    "status": 1
+  },
+  {
+    "id": 290,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs7776secrets",
+    "game_name": "Aztec Treasure",
+    "banner": "https://cdn.slotgambit.com/vs7776secrets.png",
+    "status": 1
+  },
+  {
+    "id": 291,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5gemstone",
+    "game_name": "Gemstone",
+    "banner": "https://cdn.slotgambit.com/vs5gemstone.png",
+    "status": 1
+  },
+  {
+    "id": 292,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs7pigs",
+    "game_name": "7 Piggies",
+    "banner": "https://cdn.slotgambit.com/vs7pigs.png",
+    "status": 1
+  },
+  {
+    "id": 293,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25sea",
+    "game_name": "Great Reef",
+    "banner": "https://cdn.slotgambit.com/vs25sea.png",
+    "status": 1
+  },
+  {
+    "id": 294,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50aladdin",
+    "game_name": "3 Genie Wishes",
+    "banner": "https://cdn.slotgambit.com/vs50aladdin.png",
+    "status": 1
+  },
+  {
+    "id": 295,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs8magicjourn",
+    "game_name": "Magic Journey",
+    "banner": "https://cdn.slotgambit.com/vs8magicjourn.png",
+    "status": 1
+  },
+  {
+    "id": 296,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10vampwolf",
+    "game_name": "Vampires vs Wolves",
+    "banner": "https://cdn.slotgambit.com/vs10vampwolf.png",
+    "status": 1
+  },
+  {
+    "id": 297,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25walker",
+    "game_name": "Wild Walker",
+    "banner": "https://cdn.slotgambit.com/vs25walker.png",
+    "status": 1
+  },
+  {
+    "id": 298,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50kingkong",
+    "game_name": "Mighty Kong",
+    "banner": "https://cdn.slotgambit.com/vs50kingkong.png",
+    "status": 1
+  },
+  {
+    "id": 299,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40streetracer",
+    "game_name": "Street Racer",
+    "banner": "https://cdn.slotgambit.com/vs40streetracer.png",
+    "status": 1
+  },
+  {
+    "id": 300,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5trdragons",
+    "game_name": "Triple Dragons",
+    "banner": "https://cdn.slotgambit.com/vs5trdragons.png",
+    "status": 1
+  },
+  {
+    "id": 301,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20leprechaun",
+    "game_name": "Leprechaun Song",
+    "banner": "https://cdn.slotgambit.com/vs20leprechaun.png",
+    "status": 1
+  },
+  {
+    "id": 302,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20aladdinsorc",
+    "game_name": "Aladdin and the Sorcerer",
+    "banner": "https://cdn.slotgambit.com/vs20aladdinsorc.png",
+    "status": 1
+  },
+  {
+    "id": 303,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25gladiator",
+    "game_name": "Wild Gladiator",
+    "banner": "https://cdn.slotgambit.com/vs25gladiator.png",
+    "status": 1
+  },
+  {
+    "id": 304,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bl",
+    "game_name": "Busy Bees",
+    "banner": "https://cdn.slotgambit.com/vs20bl.png",
+    "status": 1
+  },
+  {
+    "id": 305,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10egypt",
+    "game_name": "Ancient Egypt",
+    "banner": "https://cdn.slotgambit.com/vs10egypt.png",
+    "status": 1
+  },
+  {
+    "id": 306,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20gorilla",
+    "game_name": "Jungle Gorilla",
+    "banner": "https://cdn.slotgambit.com/vs20gorilla.png",
+    "status": 1
+  },
+  {
+    "id": 307,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25dwarves_new",
+    "game_name": "Dwarven Gold Deluxe",
+    "banner": "https://cdn.slotgambit.com/vs25dwarves_new.png",
+    "status": 1
+  },
+  {
+    "id": 308,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs7monkeys",
+    "game_name": "7 Monkeys",
+    "banner": "https://cdn.slotgambit.com/vs7monkeys.png",
+    "status": 1
+  },
+  {
+    "id": 309,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs13g",
+    "game_name": "Devil's 13",
+    "banner": "https://cdn.slotgambit.com/vs13g.png",
+    "status": 1
+  },
+  {
+    "id": 310,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs4096robber",
+    "game_name": "Robber Strike",
+    "banner": "https://cdn.slotgambit.com/vs4096robber.png",
+    "status": 1
+  },
+  {
+    "id": 311,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysfrbugs",
+    "game_name": "Frogs & Bugs",
+    "banner": "https://cdn.slotgambit.com/vswaysfrbugs.png",
+    "status": 1
+  },
+  {
+    "id": 312,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20lampinf",
+    "game_name": "Lamp Of Infinity",
+    "banner": "https://cdn.slotgambit.com/vs20lampinf.png",
+    "status": 1
+  },
+  {
+    "id": 313,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20jewelparty",
+    "game_name": "Jewel Rush",
+    "banner": "https://cdn.slotgambit.com/vs20jewelparty.png",
+    "status": 1
+  },
+  {
+    "id": 314,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs9outlaw",
+    "game_name": "Pirates Pub",
+    "banner": "https://cdn.slotgambit.com/vs9outlaw.png",
+    "status": 1
+  },
+  {
+    "id": 315,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20beefed",
+    "game_name": "Fat Panda",
+    "banner": "https://cdn.slotgambit.com/vs20beefed.png",
+    "status": 1
+  },
+  {
+    "id": 316,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20kraken",
+    "game_name": "Release the Kraken",
+    "banner": "https://cdn.slotgambit.com/vs20kraken.png",
+    "status": 1
+  },
+  {
+    "id": 317,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20emptybank",
+    "game_name": "Empty the Bank",
+    "banner": "https://cdn.slotgambit.com/vs20emptybank.png",
+    "status": 1
+  },
+  {
+    "id": 318,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243nudge4gold",
+    "game_name": "Hellvis Wild",
+    "banner": "https://cdn.slotgambit.com/vs243nudge4gold.png",
+    "status": 1
+  },
+  {
+    "id": 319,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20hotzone",
+    "game_name": "African Elephant",
+    "banner": "https://cdn.slotgambit.com/vs20hotzone.png",
+    "status": 1
+  },
+  {
+    "id": 320,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysmonkey",
+    "game_name": "3 Dancing Monkeys",
+    "banner": "https://cdn.slotgambit.com/vswaysmonkey.png",
+    "status": 1
+  },
+  {
+    "id": 321,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10gizagods",
+    "game_name": "Gods of Giza",
+    "banner": "https://cdn.slotgambit.com/vs10gizagods.png",
+    "status": 1
+  },
+  {
+    "id": 322,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20splmystery",
+    "game_name": "Spellbinding Mystery",
+    "banner": "https://cdn.slotgambit.com/vs20splmystery.png",
+    "status": 1
+  },
+  {
+    "id": 323,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20ultim5",
+    "game_name": "The Ultimate 5",
+    "banner": "https://cdn.slotgambit.com/vs20ultim5.png",
+    "status": 1
+  },
+  {
+    "id": 324,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysultrcoin",
+    "game_name": "Cowboy Coins",
+    "banner": "https://cdn.slotgambit.com/vswaysultrcoin.png",
+    "status": 1
+  },
+  {
+    "id": 325,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10jnmntzma",
+    "game_name": "Jane Hunter and the Mask of Montezuma",
+    "banner": "https://cdn.slotgambit.com/vs10jnmntzma.png",
+    "status": 1
+  },
+  {
+    "id": 326,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mvwild",
+    "game_name": "Jasmine Dreams",
+    "banner": "https://cdn.slotgambit.com/vs20mvwild.png",
+    "status": 1
+  },
+  {
+    "id": 327,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10kingofdth",
+    "game_name": "Kingdom of the Dead",
+    "banner": "https://cdn.slotgambit.com/vs10kingofdth.png",
+    "status": 1
+  },
+  {
+    "id": 328,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayseternity",
+    "game_name": "Diamonds of Egypt",
+    "banner": "https://cdn.slotgambit.com/vswayseternity.png",
+    "status": 1
+  },
+  {
+    "id": 329,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20excalibur",
+    "game_name": "Excalibur Unleashed",
+    "banner": "https://cdn.slotgambit.com/vs20excalibur.png",
+    "status": 1
+  },
+  {
+    "id": 330,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25spotz",
+    "game_name": "Knight Hot Spotz",
+    "banner": "https://cdn.slotgambit.com/vs25spotz.png",
+    "status": 1
+  },
+  {
+    "id": 331,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50dmdcascade",
+    "game_name": "Diamond Cascade",
+    "banner": "https://cdn.slotgambit.com/vs50dmdcascade.png",
+    "status": 1
+  },
+  {
+    "id": 332,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20supermania",
+    "game_name": "Supermania",
+    "banner": "https://cdn.slotgambit.com/vs20supermania.png",
+    "status": 1
+  },
+  {
+    "id": 333,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20lobcrab",
+    "game_name": "Lobster Bob's Crazy Crab Shack",
+    "banner": "https://cdn.slotgambit.com/vs20lobcrab.png",
+    "status": 1
+  },
+  {
+    "id": 334,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10trail",
+    "game_name": "Mustang Trail",
+    "banner": "https://cdn.slotgambit.com/vs10trail.png",
+    "status": 1
+  },
+  {
+    "id": 335,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20piggybank",
+    "game_name": "Piggy Bankers",
+    "banner": "https://cdn.slotgambit.com/vs20piggybank.png",
+    "status": 1
+  },
+  {
+    "id": 336,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20lvlup",
+    "game_name": "Pub Kings",
+    "banner": "https://cdn.slotgambit.com/vs20lvlup.png",
+    "status": 1
+  },
+  {
+    "id": 337,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20earthquake",
+    "game_name": "Cyclops Smash",
+    "banner": "https://cdn.slotgambit.com/Cyclops-Smash_339x180.png",
+    "status": 1
+  },
+  {
+    "id": 338,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20forge",
+    "game_name": "Forge of Olympus",
+    "banner": "https://cdn.slotgambit.com/vs20forge.png",
+    "status": 1
+  },
+  {
+    "id": 339,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024mahjwins",
+    "game_name": "Mahjong Wins",
+    "banner": "https://cdn.slotgambit.com/e854e9d9af0c027062d9ae8160efa09c-700x400.jpg",
+    "status": 1
+  },
+  {
+    "id": 340,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysbbhas",
+    "game_name": "Big Bass Hold & Spinner Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysbbhas.png",
+    "status": 1
+  },
+  {
+    "id": 341,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysincwnd",
+    "game_name": "Gold Oasis",
+    "banner": "https://cdn.slotgambit.com/vswaysincwnd.png",
+    "status": 1
+  },
+  {
+    "id": 342,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysftropics",
+    "game_name": "Frozen Tropics",
+    "banner": "https://cdn.slotgambit.com/vswaysftropics.png",
+    "status": 1
+  },
+  {
+    "id": 343,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10gdchalleng",
+    "game_name": "8 Golden Dragon Challenge",
+    "banner": "https://cdn.slotgambit.com/vs10gdchalleng.png",
+    "status": 1
+  },
+  {
+    "id": 344,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaystut",
+    "game_name": "Book of Tut Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaystut.png",
+    "status": 1
+  },
+  {
+    "id": 345,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysstrlght",
+    "game_name": "Fortunes of Aztec",
+    "banner": "https://cdn.slotgambit.com/vswaysstrlght.png",
+    "status": 1
+  },
+  {
+    "id": 346,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysraghex",
+    "game_name": "Tundra's Fortune",
+    "banner": "https://cdn.slotgambit.com/vswaysraghex.png",
+    "status": 1
+  },
+  {
+    "id": 347,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40rainbowr",
+    "game_name": "Rainbow Reels",
+    "banner": "https://cdn.slotgambit.com/vs40rainbowr.png",
+    "status": 1
+  },
+  {
+    "id": 348,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40demonpots",
+    "game_name": "Demon Pots ",
+    "banner": "https://cdn.slotgambit.com/vs40demonpots.png",
+    "status": 1
+  },
+  {
+    "id": 349,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243goldfor",
+    "game_name": "888 Bonanza",
+    "banner": "https://cdn.slotgambit.com/888_bonanza.pragmaticplay.thumbnail.jpeg",
+    "status": 1
+  },
+  {
+    "id": 350,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysmoneyman",
+    "game_name": "The Money Men Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysmoneyman.png",
+    "status": 1
+  },
+  {
+    "id": 351,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20olympgrace",
+    "game_name": "Grace of Ebisu",
+    "banner": "https://cdn.slotgambit.com/vs20olympgrace.png",
+    "status": 1
+  },
+  {
+    "id": 352,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mahjxbnz",
+    "game_name": "Mahjong X",
+    "banner": "https://cdn.slotgambit.com/vs20mahjxbnz.png",
+    "status": 1
+  },
+  {
+    "id": 353,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20nilefort",
+    "game_name": "Nile Fortune",
+    "banner": "https://cdn.slotgambit.com/vs20nilefort.png",
+    "status": 1
+  },
+  {
+    "id": 354,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10ddcbells",
+    "game_name": "Ding Dong Christmas Bells",
+    "banner": "https://cdn.slotgambit.com/vs10ddcbells.png",
+    "status": 1
+  },
+  {
+    "id": 355,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysseastory",
+    "game_name": "Sea Fantasy",
+    "banner": "https://cdn.slotgambit.com/sea_fantasy.pragmaticplay.thumbnail.jpeg",
+    "status": 1
+  },
+  {
+    "id": 356,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50jfmulthold",
+    "game_name": "Juicy Fruits Multihold",
+    "banner": "https://cdn.slotgambit.com/vs50jfmulthold.png",
+    "status": 1
+  },
+  {
+    "id": 357,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysexpandng",
+    "game_name": "Castle of Fire",
+    "banner": "https://cdn.slotgambit.com/vswaysexpandng.png",
+    "status": 1
+  },
+  {
+    "id": 358,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20yotdk",
+    "game_name": "Year Of The Dragon King",
+    "banner": "https://cdn.slotgambit.com/vs20yotdk.png",
+    "status": 1
+  },
+  {
+    "id": 359,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20laughluck",
+    "game_name": "Happy Fortune",
+    "banner": "https://cdn.slotgambit.com/vs20laughluck.png",
+    "status": 1
+  },
+  {
+    "id": 360,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mergedwndw",
+    "game_name": "Blade & Fangs",
+    "banner": "https://cdn.slotgambit.com/vs20mergedwndw.png",
+    "status": 1
+  },
+  {
+    "id": 361,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024mjwinbns",
+    "game_name": "Mahjong Wins Bonus",
+    "banner": "https://cdn.slotgambit.com/vs1024mjwinbns.png",
+    "status": 1
+  },
+  {
+    "id": 362,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20treesot",
+    "game_name": "Trees of Treasure",
+    "banner": "https://cdn.slotgambit.com/vs20treesot.png",
+    "status": 1
+  },
+  {
+    "id": 363,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysfirewmw",
+    "game_name": "Blazing Wilds Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysfirewmw.png",
+    "status": 1
+  },
+  {
+    "id": 364,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024fortune",
+    "game_name": "Fortune Ace",
+    "banner": "https://cdn.slotgambit.com/vs1024fortune.png",
+    "status": 1
+  },
+  {
+    "id": 365,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5balidragon",
+    "game_name": "Bali Dragon",
+    "banner": "https://cdn.slotgambit.com/vs5balidragon.png",
+    "status": 1
+  },
+  {
+    "id": 366,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25lagoon",
+    "game_name": "Great Lagoon",
+    "banner": "https://cdn.slotgambit.com/vs25lagoon.png",
+    "status": 1
+  },
+  {
+    "id": 367,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysalterego",
+    "game_name": "The Alter Ego",
+    "banner": "https://cdn.slotgambit.com/vswaysalterego.png",
+    "status": 1
+  },
+  {
+    "id": 368,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20multiup",
+    "game_name": "Wheel O'Gold",
+    "banner": "https://cdn.slotgambit.com/vs20multiup.png",
+    "status": 1
+  },
+  {
+    "id": 369,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20mmmelon",
+    "game_name": "Mighty Munching Melons",
+    "banner": "https://cdn.slotgambit.com/vs20mmmelon.png",
+    "status": 1
+  },
+  {
+    "id": 370,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10strawberry",
+    "game_name": "Strawberry Cocktail",
+    "banner": "https://cdn.slotgambit.com/vs10strawberry.png",
+    "status": 1
+  },
+  {
+    "id": 371,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20candyblitz",
+    "game_name": "Candy Blitz",
+    "banner": "https://cdn.slotgambit.com/Candy-Blitz_339x180-1.png",
+    "status": 1
+  },
+  {
+    "id": 372,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5aztecgems",
+    "game_name": "Aztec Gems",
+    "banner": "https://cdn.slotgambit.com/vs5aztecgems.png",
+    "status": 1
+  },
+  {
+    "id": 373,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20clustext",
+    "game_name": "Gears of Horus",
+    "banner": "https://cdn.slotgambit.com/vs20clustext.png",
+    "status": 1
+  },
+  {
+    "id": 374,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayscheist",
+    "game_name": "Casino Heist Megaways",
+    "banner": "https://cdn.slotgambit.com/vswayscheist.png",
+    "status": 1
+  },
+  {
+    "id": 375,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20gatotx",
+    "game_name": "Gates of Gatot Kaca 1000",
+    "banner": "https://cdn.slotgambit.com/vs20gatotx.png",
+    "status": 1
+  },
+  {
+    "id": 376,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysbewaretd",
+    "game_name": "Beware The Deep Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysbewaretd.png",
+    "status": 1
+  },
+  {
+    "id": 377,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbbnz",
+    "game_name": "Big Bass Day at the Races",
+    "banner": "https://cdn.slotgambit.com/vs10bbbnz.png",
+    "status": 1
+  },
+  {
+    "id": 378,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20stckwldsc",
+    "game_name": "Pot of Fortune",
+    "banner": "https://cdn.slotgambit.com/vs20stckwldsc.png",
+    "status": 1
+  },
+  {
+    "id": 379,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs15samurai4",
+    "game_name": "Rise of Samurai 4",
+    "banner": "https://cdn.slotgambit.com/vs15samurai4.png",
+    "status": 1
+  },
+  {
+    "id": 380,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20cbrhst",
+    "game_name": "Cyber Heist",
+    "banner": "https://cdn.slotgambit.com/vs20cbrhst.png",
+    "status": 1
+  },
+  {
+    "id": 381,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20portals",
+    "game_name": "Fire Portals",
+    "banner": "https://cdn.slotgambit.com/vs20portals.png",
+    "status": 1
+  },
+  {
+    "id": 382,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bburger",
+    "game_name": "Big Burger Load it up with Xtra Cheese",
+    "banner": "https://cdn.slotgambit.com/vs10bburger.png",
+    "status": 1
+  },
+  {
+    "id": 383,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10txbigbass",
+    "game_name": "Big Bass Splash",
+    "banner": "https://cdn.slotgambit.com/vs10txbigbass.png",
+    "status": 1
+  },
+  {
+    "id": 384,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysbook",
+    "game_name": "Book of Golden Sands",
+    "banner": "https://cdn.slotgambit.com/vswaysbook.png",
+    "status": 1
+  },
+  {
+    "id": 385,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10snakeeyes",
+    "game_name": "Snakes & Ladders - Snake Eyes",
+    "banner": "https://cdn.slotgambit.com/vs10snakeeyes.png",
+    "status": 1
+  },
+  {
+    "id": 386,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10crownfire",
+    "game_name": "Crown of Fire",
+    "banner": "https://cdn.slotgambit.com/vs10crownfire.png",
+    "status": 1
+  },
+  {
+    "id": 387,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20trswild2",
+    "game_name": "Black Bull",
+    "banner": "https://cdn.slotgambit.com/vs20trswild2.png",
+    "status": 1
+  },
+  {
+    "id": 388,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysstrwild",
+    "game_name": "Candy Stars",
+    "banner": "https://cdn.slotgambit.com/vswaysstrwild.png",
+    "status": 1
+  },
+  {
+    "id": 389,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10mmm",
+    "game_name": "Magic Money Maze",
+    "banner": "https://cdn.slotgambit.com/vs10mmm.png",
+    "status": 1
+  },
+  {
+    "id": 390,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20underground",
+    "game_name": "Down the Rails",
+    "banner": "https://cdn.slotgambit.com/vs20underground.png",
+    "status": 1
+  },
+  {
+    "id": 391,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20wolfie",
+    "game_name": "Greedy Wolf",
+    "banner": "https://cdn.slotgambit.com/vs20wolfie.png",
+    "status": 1
+  },
+  {
+    "id": 392,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024gmayhem",
+    "game_name": "Gorilla Mayhem",
+    "banner": "https://cdn.slotgambit.com/vs1024gmayhem.png",
+    "status": 1
+  },
+  {
+    "id": 393,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20octobeer",
+    "game_name": "Octobeer Fortunes",
+    "banner": "https://cdn.slotgambit.com/vs20octobeer.png",
+    "status": 1
+  },
+  {
+    "id": 394,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20midas",
+    "game_name": "The Hand of Midas",
+    "banner": "https://cdn.slotgambit.com/vs20midas.png",
+    "status": 1
+  },
+  {
+    "id": 395,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs9aztecgemsdx",
+    "game_name": "Aztec Gems Deluxe",
+    "banner": "https://cdn.slotgambit.com/vs9aztecgemsdx.png",
+    "status": 1
+  },
+  {
+    "id": 396,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs1024mahjpanda",
+    "game_name": "Mahjong Panda",
+    "banner": "https://cdn.slotgambit.com/vs1024mahjpanda.png",
+    "status": 1
+  },
+  {
+    "id": 397,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysxjuicy",
+    "game_name": "Extra Juicy Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysxjuicy.png",
+    "status": 1
+  },
+  {
+    "id": 398,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbextreme",
+    "game_name": "Big Bass Amazon Xtreme",
+    "banner": "https://cdn.slotgambit.com/vs10bbextreme.png",
+    "status": 1
+  },
+  {
+    "id": 399,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25bomb",
+    "game_name": "Bomb Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs25bomb.png",
+    "status": 1
+  },
+  {
+    "id": 400,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs15diamond",
+    "game_name": "Diamond Strike",
+    "banner": "https://cdn.slotgambit.com/vs15diamond.png",
+    "status": 1
+  },
+  {
+    "id": 401,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20goldfever",
+    "game_name": "Gems Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs20goldfever.png",
+    "status": 1
+  },
+  {
+    "id": 402,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bxmasbnza",
+    "game_name": "Christmas Big Bass Bonanza",
+    "banner": "https://cdn.slotgambit.com/vs10bxmasbnza.png",
+    "status": 1
+  },
+  {
+    "id": 403,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10firestrike",
+    "game_name": "Fire Strike",
+    "banner": "https://cdn.slotgambit.com/vs10firestrike.png",
+    "status": 1
+  },
+  {
+    "id": 404,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40hotburnx",
+    "game_name": "Hot To Burn Extreme",
+    "banner": "https://cdn.slotgambit.com/vs40hotburnx.png",
+    "status": 1
+  },
+  {
+    "id": 405,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243ckemp",
+    "game_name": "Cheeky Emperor",
+    "banner": "https://cdn.slotgambit.com/vs243ckemp.png",
+    "status": 1
+  },
+  {
+    "id": 406,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243caishien",
+    "game_name": "Caishen's Cash",
+    "banner": "https://cdn.slotgambit.com/vs243caishien.png",
+    "status": 1
+  },
+  {
+    "id": 407,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50northgard",
+    "game_name": "North Guardians",
+    "banner": "https://cdn.slotgambit.com/vs50northgard.png",
+    "status": 1
+  },
+  {
+    "id": 408,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243koipond",
+    "game_name": "Koi Pond",
+    "banner": "https://cdn.slotgambit.com/vs243koipond.png",
+    "status": 1
+  },
+  {
+    "id": 409,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5littlegem",
+    "game_name": "Little Gem Hold and Spin",
+    "banner": "https://cdn.slotgambit.com/vs5littlegem.png",
+    "status": 1
+  },
+  {
+    "id": 410,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10egrich",
+    "game_name": "Queen of Gods",
+    "banner": "https://cdn.slotgambit.com/vs10egrich.png",
+    "status": 1
+  },
+  {
+    "id": 411,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20gobnudge",
+    "game_name": "Goblin Heist Powernudge",
+    "banner": "https://cdn.slotgambit.com/vs20gobnudge.png",
+    "status": 1
+  },
+  {
+    "id": 412,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20stickysymbol",
+    "game_name": "The Great Stick-up",
+    "banner": "https://cdn.slotgambit.com/vs20stickysymbol.png",
+    "status": 1
+  },
+  {
+    "id": 413,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20loksriches",
+    "game_name": "Loki's Riches",
+    "banner": "https://cdn.slotgambit.com/vs20loksriches.png",
+    "status": 1
+  },
+  {
+    "id": 414,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40cleoeye",
+    "game_name": "Eye of Cleopatra",
+    "banner": "https://cdn.slotgambit.com/vs40cleoeye.png",
+    "status": 1
+  },
+  {
+    "id": 415,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10spiritadv",
+    "game_name": "Spirit of Adventure",
+    "banner": "https://cdn.slotgambit.com/vs10spiritadv.png",
+    "status": 1
+  },
+  {
+    "id": 416,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10firestrike2",
+    "game_name": "Fire Strike 2",
+    "banner": "https://cdn.slotgambit.com/vs10firestrike2.png",
+    "status": 1
+  },
+  {
+    "id": 417,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20trsbox",
+    "game_name": "Treasure Wild",
+    "banner": "https://cdn.slotgambit.com/vs20trsbox.png",
+    "status": 1
+  },
+  {
+    "id": 418,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25goldparty",
+    "game_name": "Gold Party",
+    "banner": "https://cdn.slotgambit.com/vs25goldparty.png",
+    "status": 1
+  },
+  {
+    "id": 419,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs243empcaishen",
+    "game_name": "Emperor Caishen",
+    "banner": "https://cdn.slotgambit.com/vs243empcaishen.png",
+    "status": 1
+  },
+  {
+    "id": 420,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs25scarabqueen",
+    "game_name": "John Hunter and the Tomb of the Scarab Queen",
+    "banner": "https://cdn.slotgambit.com/vs25scarabqueen.png",
+    "status": 1
+  },
+  {
+    "id": 421,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20cashmachine",
+    "game_name": "Cash Box",
+    "banner": "https://cdn.slotgambit.com/vs20cashmachine.png",
+    "status": 1
+  },
+  {
+    "id": 422,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bigdawgs",
+    "game_name": "The Big Dawgs",
+    "banner": "https://cdn.slotgambit.com/vs20bigdawgs.png",
+    "status": 1
+  },
+  {
+    "id": 423,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs50jucier",
+    "game_name": "Sky Bounty",
+    "banner": "https://cdn.slotgambit.com/vs50jucier.png",
+    "status": 1
+  },
+  {
+    "id": 424,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20bison",
+    "game_name": "Release the Bison",
+    "banner": "https://cdn.slotgambit.com/vs20bison.png",
+    "status": 1
+  },
+  {
+    "id": 425,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sbpnudge",
+    "game_name": "Aztec Powernudge",
+    "banner": "https://cdn.slotgambit.com/vs20sbpnudge.png",
+    "status": 1
+  },
+  {
+    "id": 426,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40stckwldlvl",
+    "game_name": "Ripe Rewards",
+    "banner": "https://cdn.slotgambit.com/vs40stckwldlvl.png",
+    "status": 1
+  },
+  {
+    "id": 427,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20stickypos",
+    "game_name": "Ice Lobster",
+    "banner": "https://cdn.slotgambit.com/vs20stickypos.png",
+    "status": 1
+  },
+  {
+    "id": 428,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysmegahays",
+    "game_name": "Barnyard Megahays Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysmegahays.png",
+    "status": 1
+  },
+  {
+    "id": 429,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20candybltz2",
+    "game_name": "Candy Blitz Bombs",
+    "banner": "https://cdn.slotgambit.com/vs20candybltz2.png",
+    "status": 1
+  },
+  {
+    "id": 430,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5jjwild",
+    "game_name": "Joker's Jewels Wild",
+    "banner": "https://cdn.slotgambit.com/vs5jjwild.png",
+    "status": 1
+  },
+  {
+    "id": 431,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20lobseafd",
+    "game_name": "Lobster Bob's Sea Food and Win It",
+    "banner": "https://cdn.slotgambit.com/vs20lobseafd.png",
+    "status": 1
+  },
+  {
+    "id": 432,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20shootstars",
+    "game_name": "Heroic Spins",
+    "banner": "https://cdn.slotgambit.com/vs20shootstars.png",
+    "status": 1
+  },
+  {
+    "id": 433,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20heartcleo",
+    "game_name": "Heart of Cleopatra",
+    "banner": "https://cdn.slotgambit.com/vs20heartcleo.png",
+    "status": 1
+  },
+  {
+    "id": 434,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10frontrun",
+    "game_name": "Front Runner Odds On",
+    "banner": "https://cdn.slotgambit.com/vs10frontrun.png",
+    "status": 1
+  },
+  {
+    "id": 435,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20fortbon",
+    "game_name": "Fruity Treats",
+    "banner": "https://cdn.slotgambit.com/vs20fortbon.png",
+    "status": 1
+  },
+  {
+    "id": 436,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswayshexhaus",
+    "game_name": "Rise of Pyramids",
+    "banner": "https://cdn.slotgambit.com/vswayshexhaus.png",
+    "status": 1
+  },
+  {
+    "id": 437,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysjapan",
+    "game_name": "Starlight Princess Pachi",
+    "banner": "https://cdn.slotgambit.com/vswaysjapan.png",
+    "status": 1
+  },
+  {
+    "id": 438,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysloki",
+    "game_name": "Revenge of Loki Megaways",
+    "banner": "https://cdn.slotgambit.com/vswaysloki.png",
+    "status": 1
+  },
+  {
+    "id": 439,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20devilic",
+    "game_name": "Devilicious",
+    "banner": "https://cdn.slotgambit.com/vs20devilic.png",
+    "status": 1
+  },
+  {
+    "id": 440,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bbbrlact",
+    "game_name": "Big Bass Bonanza - Reel Action",
+    "banner": "https://cdn.slotgambit.com/vs10bbbrlact.png",
+    "status": 1
+  },
+  {
+    "id": 441,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20medusast",
+    "game_name": "Medusa's Stone",
+    "banner": "https://cdn.slotgambit.com/vs20medusast.png",
+    "status": 1
+  },
+  {
+    "id": 447,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs10bblotgl",
+    "game_name": "Big Bass - Secrets of the Golden Lake",
+    "banner": "https://cdn.slotgambit.com/vs10bblotgl.png",
+    "status": 1
+  },
+  {
+    "id": 461,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vswaysspltsym",
+    "game_name": "Dwarf & Dragon",
+    "banner": "https://cdn.slotgambit.com/vswaysspltsym.png",
+    "status": 1
+  },
+  {
+    "id": 470,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs100firehot",
+    "game_name": "Fire Hot 100",
+    "banner": "https://cdn.slotgambit.com/vs100firehot.png",
+    "status": 1
+  },
+  {
+    "id": 471,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs100sh",
+    "game_name": "Shining Hot 100",
+    "banner": "https://cdn.slotgambit.com/vs100sh.png",
+    "status": 1
+  },
+  {
+    "id": 472,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20fh",
+    "game_name": "Fire Hot 20",
+    "banner": "https://cdn.slotgambit.com/vs20fh.png",
+    "status": 1
+  },
+  {
+    "id": 473,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs20sh",
+    "game_name": "Shining Hot 20",
+    "banner": "https://cdn.slotgambit.com/vs20sh.png",
+    "status": 1
+  },
+  {
+    "id": 474,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40firehot",
+    "game_name": "Fire Hot 40",
+    "banner": "https://cdn.slotgambit.com/vs40firehot.png",
+    "status": 1
+  },
+  {
+    "id": 475,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs40sh",
+    "game_name": "Shining Hot 40",
+    "banner": "https://cdn.slotgambit.com/vs40sh.png",
+    "status": 1
+  },
+  {
+    "id": 476,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5firehot",
+    "game_name": "Fire Hot 5",
+    "banner": "https://cdn.slotgambit.com/vs5firehot.png",
+    "status": 1
+  },
+  {
+    "id": 477,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PRAGMATIC",
+    "game_code": "vs5sh",
+    "game_name": "Shining Hot 5",
+    "banner": "https://cdn.slotgambit.com/vs5sh.png",
+    "status": 1
+  }
+]

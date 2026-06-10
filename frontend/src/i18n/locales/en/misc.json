@@ -1,0 +1,6 @@
+{
+  "loading": "Loading...",
+  "comingSoon": "Coming Soon",
+  "underMaintenance": "Under Maintenance",
+  "version": "Version {{version}}"
+}

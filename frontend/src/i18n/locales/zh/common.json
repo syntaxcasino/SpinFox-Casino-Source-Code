@@ -1,0 +1,16 @@
+{
+  "yes": "是",
+  "no": "否",
+  "ok": "好的",
+  "success": "成功",
+  "error": "错误",
+  "tryAgain": "重试",
+  "learnMore": "了解更多",
+  "somethingWentWrong": "出现问题，请重试。",
+  "404": {
+    "title": "页面未找到",
+    "subtitle": "您正在寻找的页面不存在。",
+    "casino": "前往赌场",
+    "origin": "前往Origin"
+  }
+}

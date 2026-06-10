@@ -1,0 +1,323 @@
+[
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_SportsAMMv2", "type": "address" },
+      {
+        "internalType": "address",
+        "name": "_LiveTradingProcessor",
+        "type": "address"
+      },
+      { "internalType": "address", "name": "_treasury", "type": "address" }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "constructor"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": false,
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "bytes32",
+        "name": "key",
+        "type": "bytes32"
+      },
+      {
+        "indexed": false,
+        "internalType": "address",
+        "name": "token",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "amount",
+        "type": "uint256"
+      }
+    ],
+    "name": "Claim",
+    "type": "event"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "previousOwner",
+        "type": "address"
+      },
+      {
+        "indexed": true,
+        "internalType": "address",
+        "name": "newOwner",
+        "type": "address"
+      }
+    ],
+    "name": "OwnershipTransferred",
+    "type": "event"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": false,
+        "internalType": "address",
+        "name": "account",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "string",
+        "name": "referral",
+        "type": "string"
+      },
+      {
+        "indexed": false,
+        "internalType": "bytes32",
+        "name": "key",
+        "type": "bytes32"
+      }
+    ],
+    "name": "PlaceBet",
+    "type": "event"
+  },
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": false,
+        "internalType": "address",
+        "name": "token",
+        "type": "address"
+      },
+      {
+        "indexed": false,
+        "internalType": "uint256",
+        "name": "fee",
+        "type": "uint256"
+      },
+      {
+        "indexed": false,
+        "internalType": "address",
+        "name": "treasury",
+        "type": "address"
+      }
+    ],
+    "name": "TreasuryFee",
+    "type": "event"
+  },
+  {
+    "inputs": [],
+    "name": "LiveTradingProcessor",
+    "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "SportsAMMv2",
+    "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "coreDecimal",
+    "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_ticket", "type": "address" }
+    ],
+    "name": "exerciseTicket",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "user", "type": "address" }
+    ],
+    "name": "getUserKeys",
+    "outputs": [
+      { "internalType": "bytes32[]", "name": "", "type": "bytes32[]" }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "owner",
+    "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "renounceOwnership",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "components": [
+          { "internalType": "string", "name": "_gameId", "type": "string" },
+          { "internalType": "uint16", "name": "_sportId", "type": "uint16" },
+          { "internalType": "uint16", "name": "_typeId", "type": "uint16" },
+          { "internalType": "int24", "name": "_line", "type": "int24" },
+          { "internalType": "uint8", "name": "_position", "type": "uint8" },
+          {
+            "internalType": "uint256",
+            "name": "_buyInAmount",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_expectedQuote",
+            "type": "uint256"
+          },
+          {
+            "internalType": "uint256",
+            "name": "_additionalSlippage",
+            "type": "uint256"
+          },
+          { "internalType": "address", "name": "_referrer", "type": "address" },
+          {
+            "internalType": "address",
+            "name": "_collateral",
+            "type": "address"
+          }
+        ],
+        "internalType": "struct ILiveTradingProcessor.LiveTradeData",
+        "name": "_liveTradeData",
+        "type": "tuple"
+      },
+      { "internalType": "string", "name": "referral_code", "type": "string" }
+    ],
+    "name": "requestLiveTrade",
+    "outputs": [
+      { "internalType": "bytes32", "name": "requestId", "type": "bytes32" }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "_treasury", "type": "address" }
+    ],
+    "name": "setTreasury",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "components": [
+          { "internalType": "bytes32", "name": "gameId", "type": "bytes32" },
+          { "internalType": "uint16", "name": "sportId", "type": "uint16" },
+          { "internalType": "uint16", "name": "typeId", "type": "uint16" },
+          { "internalType": "uint256", "name": "maturity", "type": "uint256" },
+          { "internalType": "uint8", "name": "status", "type": "uint8" },
+          { "internalType": "int24", "name": "line", "type": "int24" },
+          { "internalType": "uint24", "name": "playerId", "type": "uint24" },
+          { "internalType": "uint256[]", "name": "odds", "type": "uint256[]" },
+          {
+            "internalType": "bytes32[]",
+            "name": "merkleProof",
+            "type": "bytes32[]"
+          },
+          { "internalType": "uint8", "name": "position", "type": "uint8" },
+          {
+            "components": [
+              { "internalType": "uint16", "name": "typeId", "type": "uint16" },
+              { "internalType": "uint8", "name": "position", "type": "uint8" },
+              { "internalType": "int24", "name": "line", "type": "int24" }
+            ],
+            "internalType": "struct ISportsAMMV2.CombinedPosition[][]",
+            "name": "combinedPositions",
+            "type": "tuple[][]"
+          }
+        ],
+        "internalType": "struct ISportsAMMV2.TradeData[]",
+        "name": "_tradeData",
+        "type": "tuple[]"
+      },
+      { "internalType": "uint256", "name": "_buyInAmount", "type": "uint256" },
+      {
+        "internalType": "uint256",
+        "name": "_expectedQuote",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256",
+        "name": "_additionalSlippage",
+        "type": "uint256"
+      },
+      { "internalType": "address", "name": "_referrer", "type": "address" },
+      { "internalType": "address", "name": "_collateral", "type": "address" },
+      { "internalType": "bool", "name": "_isEth", "type": "bool" },
+      { "internalType": "string", "name": "referral_code", "type": "string" }
+    ],
+    "name": "trade",
+    "outputs": [
+      { "internalType": "address", "name": "_createdTicket", "type": "address" }
+    ],
+    "stateMutability": "payable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "newOwner", "type": "address" }
+    ],
+    "name": "transferOwnership",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "treasury",
+    "outputs": [{ "internalType": "address", "name": "", "type": "address" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "treasuryFee",
+    "outputs": [{ "internalType": "uint256", "name": "", "type": "uint256" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+    "name": "userInfo",
+    "outputs": [
+      { "internalType": "address", "name": "owner", "type": "address" },
+      { "internalType": "address", "name": "collateral", "type": "address" }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      { "internalType": "address", "name": "", "type": "address" },
+      { "internalType": "uint256", "name": "", "type": "uint256" }
+    ],
+    "name": "userKeys",
+    "outputs": [{ "internalType": "bytes32", "name": "", "type": "bytes32" }],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  { "stateMutability": "payable", "type": "receive" }
+]

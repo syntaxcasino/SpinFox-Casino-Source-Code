@@ -1,0 +1,642 @@
+[
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "hot_coins",
+    "game_name": "Hot Coins: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/hot_coins.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "legend_of_cleopatra",
+    "game_name": "Legend of Cleopatra",
+    "banner": "https://playson.betbio777.pro/games/icon/legend_of_cleopatra.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "rise_of_egypt",
+    "game_name": "Rise of Egypt",
+    "banner": "https://playson.betbio777.pro/games/icon/rise_of_egypt.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "burning_wins",
+    "game_name": "Burning Wins",
+    "banner": "https://playson.betbio777.pro/games/icon/burning_wins.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "sevens_n_fruits",
+    "game_name": "Sevens & Fruits",
+    "banner": "https://playson.betbio777.pro/games/icon/sevens_n_fruits.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "super_burning_wins",
+    "game_name": "Super Burning Wins",
+    "banner": "https://playson.betbio777.pro/games/icon/super_burning_wins.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "fruits_and_jokers_20",
+    "game_name": "Fruits & Jokers: 20 lines",
+    "banner": "https://playson.betbio777.pro/games/icon/fruits_and_jokers_20.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "book_of_gold",
+    "game_name": "Book of Gold: Double Chance",
+    "banner": "https://playson.betbio777.pro/games/icon/book_of_gold.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "fruits_and_jokers_40",
+    "game_name": "Fruits & Jokers: 40 Lines",
+    "banner": "https://playson.betbio777.pro/games/icon/fruits_and_jokers_40.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "100_joker_staxx",
+    "game_name": "100 Joker Staxx",
+    "banner": "https://playson.betbio777.pro/games/icon/100_joker_staxx.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "sevens_n_fruits_20",
+    "game_name": "SEVENS N FRUITS 20",
+    "banner": "https://playson.betbio777.pro/games/icon/sevens_n_fruits_20.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "imperial_fruits_5",
+    "game_name": "Imperial Fruits: 5 lines",
+    "banner": "https://playson.betbio777.pro/games/icon/imperial_fruits_5.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "fruits_and_jokers_100",
+    "game_name": "Fruits & Jokers: 100 lines",
+    "banner": "https://playson.betbio777.pro/games/icon/fruits_and_jokers_100.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "3_fruits_win_10",
+    "game_name": "3 Fruits Win: 10 lines",
+    "banner": "https://playson.betbio777.pro/games/icon/3_fruits_win_10.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "book_of_gold_classic",
+    "game_name": "Book of Gold: Classic",
+    "banner": "https://playson.betbio777.pro/games/icon/book_of_gold_classic.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "solar_queen",
+    "game_name": "Solar Queen",
+    "banner": "https://playson.betbio777.pro/games/icon/solar_queen.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "imperial_fruits_100",
+    "game_name": "Imperial Fruits: 100 lines",
+    "banner": "https://playson.betbio777.pro/games/icon/imperial_fruits_100.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "rome_caesars_glory",
+    "game_name": "Rome: Caesar   s Glory",
+    "banner": "https://playson.betbio777.pro/games/icon/rome_caesars_glory.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "sunny_fruits",
+    "game_name": "Sunny Fruits: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/sunny_fruits.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "solar_temple",
+    "game_name": "Solar Temple",
+    "banner": "https://playson.betbio777.pro/games/icon/solar_temple.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "buffalo_power",
+    "game_name": "Buffalo Power",
+    "banner": "https://playson.betbio777.pro/games/icon/buffalo_power.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "crystal_land",
+    "game_name": "Crystal Land",
+    "banner": "https://playson.betbio777.pro/games/icon/crystal_land.png",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "diamond_wins",
+    "game_name": "Diamond Wins: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/diamond_wins.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "book_of_gold_multichance",
+    "game_name": "Book of Gold: Multichance",
+    "banner": "https://playson.betbio777.pro/games/icon/book_of_gold_multichance.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "solar_king",
+    "game_name": "Solar King",
+    "banner": "https://playson.betbio777.pro/games/icon/solar_king.png",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "super_sunny_fruits",
+    "game_name": "Super Sunny Fruits: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/super_sunny_fruits.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "5_super_sevens_n_fruits",
+    "game_name": "5 Super Sevens & Fruits",
+    "banner": "https://playson.betbio777.pro/games/icon/5_super_sevens_n_fruits.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "divine_dragon",
+    "game_name": "Divine Dragon: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/divine_dragon.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "wolf_power",
+    "game_name": "Wolf Power: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/wolf_power.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "rich_diamonds",
+    "game_name": "Rich Diamonds: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/rich_diamonds.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "5_fortunator",
+    "game_name": "5 Fortunator",
+    "banner": "https://playson.betbio777.pro/games/icon/5_fortunator.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "eagle_power",
+    "game_name": "Eagle Power: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/eagle_power.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "hot_burning_wins",
+    "game_name": "Hot Burning Wins",
+    "banner": "https://playson.betbio777.pro/games/icon/hot_burning_wins.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "spirit_of_egypt",
+    "game_name": "Spirit of Egypt: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/spirit_of_egypt.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "jokers_coins",
+    "game_name": "Joker   s Coins",
+    "banner": "https://playson.betbio777.pro/games/icon/jokers_coins.png",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "diamond_fort",
+    "game_name": "Diamond Fortunator",
+    "banner": "https://playson.betbio777.pro/games/icon/diamond_fort.png",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "royal_coins",
+    "game_name": "Royal Coins: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/royal_coins.png",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "buffalo_xmas",
+    "game_name": "Buffalo Power: Christmas",
+    "banner": "https://playson.betbio777.pro/games/icon/buffalo_xmas.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "burning_wins_x2",
+    "game_name": "Burning Wins x2",
+    "banner": "https://playson.betbio777.pro/games/icon/burning_wins_x2.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "burning_fort",
+    "game_name": "Burning Fortunator",
+    "banner": "https://playson.betbio777.pro/games/icon/burning_fort.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "lion_gems",
+    "game_name": "Lion Gems: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/lion_gems.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "book_del_sol",
+    "game_name": "Book del Sol: Multiplier",
+    "banner": "https://playson.betbio777.pro/games/icon/book_del_sol.png",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "luxor_gold",
+    "game_name": "Luxor Gold: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/luxor_gold.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "ruby_hit",
+    "game_name": "Ruby Hit: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/ruby_hit.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "ultra_fort",
+    "game_name": "Ultra Fortunator: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/ultra_fort.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "royal_coins_2",
+    "game_name": "Royal Coins 2: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/royal_coins_2.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "pirate_sharky",
+    "game_name": "Pirate Sharky",
+    "banner": "https://playson.betbio777.pro/games/icon/pirate_sharky.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "treasures_fire",
+    "game_name": "Treasures of Fire: Scatter Pays",
+    "banner": "https://playson.betbio777.pro/games/icon/treasures_fire.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "hit_the_bank",
+    "game_name": "Hit the Bank: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/hit_the_bank.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "pirate_chest",
+    "game_name": "Pirate Chest: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/pirate_chest.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "bozo_cats",
+    "game_name": "Bozo Cats",
+    "banner": "https://playson.betbio777.pro/games/icon/bozo_cats.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "mammoth_peak",
+    "game_name": "Mammoth Peak: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/mammoth_peak.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "royal_joker",
+    "game_name": "Royal Joker: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/royal_joker.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "giza_nights",
+    "game_name": "Giza Nights: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/giza_nights.png",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "coin_strike",
+    "game_name": "Coin Strike: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/coin_strike.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "buffalo_power_2",
+    "game_name": "Buffalo Power 2: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/buffalo_power_2.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "royal_fort",
+    "game_name": "Royal Fortunator: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/royal_fort.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "energy_coins",
+    "game_name": "Energy Coins: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/energy_coins.png",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "empire_gold",
+    "game_name": "Empire Gold: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/empire_gold.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "3pots_riches",
+    "game_name": "3 Pots Riches: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/3pots_riches.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "wolf_land",
+    "game_name": "Wolf Land: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/wolf_land.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "crown_n_diamonds",
+    "game_name": "Crown and Diamonds: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/crown_n_diamonds.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "777sizzling_wins",
+    "game_name": "777 Sizzling Wins: 5 lines",
+    "banner": "https://playson.betbio777.pro/games/icon/777sizzling_wins.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "PLAYSON",
+    "game_code": "pearl_ocean",
+    "game_name": "Pearl Ocean: Hold and Win",
+    "banner": "https://playson.betbio777.pro/games/icon/pearl_ocean.png",
+    "status": 1
+  }
+]

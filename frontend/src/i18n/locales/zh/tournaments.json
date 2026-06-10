@@ -1,0 +1,15 @@
+{
+  "title": "锦标赛",
+  "activeTournaments": "正在进行的锦标赛",
+  "upcomingTournaments": "即将开始的锦标赛",
+  "completedTournaments": "已结束的锦标赛",
+  "joinNow": "立即加入",
+  "prizePool": "奖池",
+  "rank": "排名",
+  "player": "玩家",
+  "points": "积分",
+  "endsIn": "结束倒计时",
+  "rules": "锦标赛规则",
+  "myPosition": "我的排名",
+  "noTournaments": "目前没有正在进行的锦标赛。"
+}

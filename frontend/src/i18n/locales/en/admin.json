@@ -1,0 +1,13 @@
+{
+    "menu": {
+        "users": "Users",
+        "affiliates": "Affiliates",
+        "leaderboard": "Leaderboard",
+        "promocode": "Promocode",
+        "approve": "Approve",
+        "settings": "Settings"
+    },
+    "auth": {
+        "login": "Admin Login"
+    }
+}

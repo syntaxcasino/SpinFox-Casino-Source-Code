@@ -1,0 +1,1532 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "112",
+    "game_name": "Pyramid Raider",
+    "banner": "https://cdn.slotgambit.com/112.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "125",
+    "game_name": "Zeus M",
+    "banner": "https://cdn.slotgambit.com/125.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "123",
+    "game_name": "Lucky Bats M",
+    "banner": "https://cdn.slotgambit.com/123.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "129",
+    "game_name": "Gu Gu Gu 2 M",
+    "banner": "https://cdn.slotgambit.com/129.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "137",
+    "game_name": "Disco Night M",
+    "banner": "https://cdn.slotgambit.com/137.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "118",
+    "game_name": "SkrSkr",
+    "banner": "https://cdn.slotgambit.com/118.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "121",
+    "game_name": "Rave Jump 2 M",
+    "banner": "https://cdn.slotgambit.com/121.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "135",
+    "game_name": "Gu Gu Gu M",
+    "banner": "https://cdn.slotgambit.com/135.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "113",
+    "game_name": "Flying Cai Shen",
+    "banner": "https://cdn.slotgambit.com/113.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "116",
+    "game_name": "Wonderland",
+    "banner": "https://cdn.slotgambit.com/116.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "115",
+    "game_name": "Snow Queen",
+    "banner": "https://cdn.slotgambit.com/115.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "221",
+    "game_name": "Detective Dee 2",
+    "banner": "https://cdn.slotgambit.com/221.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "124",
+    "game_name": "Invincible Elephant",
+    "banner": "https://cdn.slotgambit.com/124.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "117",
+    "game_name": "5 God beasts",
+    "banner": "https://cdn.slotgambit.com/117.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "131",
+    "game_name": "Fa Cai Shen M",
+    "banner": "https://cdn.slotgambit.com/131.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "109",
+    "game_name": "Rave Jump mobile",
+    "banner": "https://cdn.slotgambit.com/109.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "111",
+    "game_name": "Fly Out",
+    "banner": "https://cdn.slotgambit.com/111.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "122",
+    "game_name": "Zuma Wild",
+    "banner": "https://cdn.slotgambit.com/122.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "139",
+    "game_name": "Fire Chibi M",
+    "banner": "https://cdn.slotgambit.com/fire-chibi.jpg",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "127",
+    "game_name": "God of War M",
+    "banner": "https://cdn.slotgambit.com/god-of-war.jpg",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "133",
+    "game_name": "Good Fortune M",
+    "banner": "https://cdn.slotgambit.com/133.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "144",
+    "game_name": "Diamond Treasure",
+    "banner": "https://cdn.slotgambit.com/144.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "146",
+    "game_name": "Sky Lanterns",
+    "banner": "https://cdn.slotgambit.com/146.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "128",
+    "game_name": "Wheel Money",
+    "banner": "https://cdn.slotgambit.com/128.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "130",
+    "game_name": "Gold Stealer",
+    "banner": "https://cdn.slotgambit.com/130.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "138",
+    "game_name": "Move n' Jump",
+    "banner": "https://cdn.slotgambit.com/138.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "147",
+    "game_name": "Flower Fortunes",
+    "banner": "https://cdn.slotgambit.com/147.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "157",
+    "game_name": "5 Boxing",
+    "banner": "https://cdn.slotgambit.com/157.png",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "132",
+    "game_name": "Meow",
+    "banner": "https://cdn.slotgambit.com/132.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "142",
+    "game_name": "Hephaestus",
+    "banner": "https://cdn.slotgambit.com/142.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "143",
+    "game_name": "Fa Cai Fu Wa",
+    "banner": "https://cdn.slotgambit.com/143.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "152",
+    "game_name": "Double Fly",
+    "banner": "https://cdn.slotgambit.com/152.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "153",
+    "game_name": "Six Candy",
+    "banner": "https://cdn.slotgambit.com/153.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "150",
+    "game_name": "Shou-Xin",
+    "banner": "https://cdn.slotgambit.com/150.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "148",
+    "game_name": "Fortune Totem",
+    "banner": "https://cdn.slotgambit.com/148.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "136",
+    "game_name": "Running Animals",
+    "banner": "https://cdn.slotgambit.com/136.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "140",
+    "game_name": "Fire Chibi 2",
+    "banner": "https://cdn.slotgambit.com/140.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "206",
+    "game_name": "Sweet POP",
+    "banner": "https://cdn.slotgambit.com/206.png",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "209",
+    "game_name": "The Cupids",
+    "banner": "https://cdn.slotgambit.com/209.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "13",
+    "game_name": "SakuraLegend",
+    "banner": "https://cdn.slotgambit.com/sakura-legend.jpg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "26",
+    "game_name": "777",
+    "banner": "https://cdn.slotgambit.com/26.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "72",
+    "game_name": "HappyRichYear",
+    "banner": "https://cdn.slotgambit.com/happy-rich-year.jpg",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "79",
+    "game_name": "Chameleon",
+    "banner": "https://cdn.slotgambit.com/chameleon.jpg",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "89",
+    "game_name": "Thor",
+    "banner": "https://cdn.slotgambit.com/89.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "99",
+    "game_name": "Jump Higher",
+    "banner": "https://cdn.slotgambit.com/99.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "104",
+    "game_name": "Chicky Parm Parm",
+    "banner": "https://cdn.slotgambit.com/104.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "214",
+    "game_name": "Ninja Raccoon",
+    "banner": "https://cdn.slotgambit.com/214.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "8",
+    "game_name": "SoSweet",
+    "banner": "https://cdn.slotgambit.com/so-sweet.jpg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "15",
+    "game_name": "GuGuGu",
+    "banner": "https://cdn.slotgambit.com/15.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "31",
+    "game_name": "God of War",
+    "banner": "https://cdn.slotgambit.com/31.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "42",
+    "game_name": "Sherlock Holmes",
+    "banner": "https://cdn.slotgambit.com/sherlock-holmes-cq9gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "68",
+    "game_name": "WuKong&Peaches",
+    "banner": "https://cdn.slotgambit.com/wukong-peaches.jpg",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "80",
+    "game_name": "Poseidon",
+    "banner": "https://cdn.slotgambit.com/Poseidon.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "218",
+    "game_name": "Dollar Bomb",
+    "banner": "https://cdn.slotgambit.com/218.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "163",
+    "game_name": "Ne Zha Advent",
+    "banner": "https://cdn.slotgambit.com/163.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "187",
+    "game_name": "Wing Chun",
+    "banner": "https://cdn.slotgambit.com/187.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "46",
+    "game_name": "Wolf Moon",
+    "banner": "https://cdn.slotgambit.com/wolf-moon-cq9gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "180",
+    "game_name": "Gu Gu Gu 3",
+    "banner": "https://cdn.slotgambit.com/180.png",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "17",
+    "game_name": "GreatLion",
+    "banner": "https://cdn.slotgambit.com/great-lion-cq9gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "64",
+    "game_name": "Zeus",
+    "banner": "https://cdn.slotgambit.com/zeus-cq9.jpg",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "74",
+    "game_name": "Treasure Bowl",
+    "banner": "https://cdn.slotgambit.com/treasure-bowl-of-dragon-jackpot.jpg",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "185",
+    "game_name": "Dragon Ball",
+    "banner": "https://cdn.slotgambit.com/185.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "194",
+    "game_name": "Fortune Dragon",
+    "banner": "https://cdn.slotgambit.com/194.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "197",
+    "game_name": "Dragon's Treasure",
+    "banner": "https://cdn.slotgambit.com/197.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "210",
+    "game_name": "Oo Ga Cha Ka",
+    "banner": "https://cdn.slotgambit.com/210.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "GB5",
+    "game_name": "Hot DJ",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVZZqoTtGn2CYC3BqfnudwGwbQNvNzlqlXjw&s",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "173",
+    "game_name": "6 Toros",
+    "banner": "https://cdn.slotgambit.com/173.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "59",
+    "game_name": "SummerMood",
+    "banner": "https://cdn.slotgambit.com/Summer-Mood.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "67",
+    "game_name": "GoldenEggs",
+    "banner": "https://cdn.slotgambit.com/golden-eggs-cq9.jpg",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "96",
+    "game_name": "FootballBaby",
+    "banner": "https://cdn.slotgambit.com/Football-Baby.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "5007",
+    "game_name": "Da Fa Cai",
+    "banner": "https://cdn.slotgambit.com/5007.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "177",
+    "game_name": "Aladdin's lamp",
+    "banner": "https://cdn.slotgambit.com/177.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "GB6",
+    "game_name": "Ganesha Jr.",
+    "banner": "https://cdn.slotgambit.com/gb6.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "154",
+    "game_name": "Kronos",
+    "banner": "https://cdn.slotgambit.com/154.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "29",
+    "game_name": "WaterWorld",
+    "banner": "https://cdn.slotgambit.com/water-world.jpg",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "32",
+    "game_name": "Detective Dee",
+    "banner": "https://cdn.slotgambit.com/detective-dee-cq9-gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "55",
+    "game_name": "Dragon Heart",
+    "banner": "https://cdn.slotgambit.com/dragon-heart.jpg",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "202",
+    "game_name": "OrientalBeauty",
+    "banner": "https://cdn.slotgambit.com/202.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "203",
+    "game_name": "RaveHigh",
+    "banner": "https://cdn.slotgambit.com/203.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "5009",
+    "game_name": "Uproar in Heaven",
+    "banner": "https://cdn.slotgambit.com/5009.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "182",
+    "game_name": "Thor 2",
+    "banner": "https://cdn.slotgambit.com/182.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "16",
+    "game_name": "Super5",
+    "banner": "https://cdn.slotgambit.com/super-5-cq9gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "50",
+    "game_name": "Good Fortune",
+    "banner": "https://cdn.slotgambit.com/good-fortune-cq9.jpg",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "77",
+    "game_name": "RedPhoenix",
+    "banner": "https://cdn.slotgambit.com/red-phoenix.jpg",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "86",
+    "game_name": "RunningToro",
+    "banner": "https://cdn.slotgambit.com/86.png",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "103",
+    "game_name": "Jewel Luxury",
+    "banner": "https://cdn.slotgambit.com/103.png",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "220",
+    "game_name": "Floating Market",
+    "banner": "https://cdn.slotgambit.com/220.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "33",
+    "game_name": "Fire Chibi",
+    "banner": "https://cdn.slotgambit.com/33.png",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "44",
+    "game_name": "Fruit King II",
+    "banner": "https://cdn.slotgambit.com/Fruit-King-2.png",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "49",
+    "game_name": "Lonely Planet",
+    "banner": "https://cdn.slotgambit.com/lonely-planet.jpg",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "58",
+    "game_name": "GuGuGu2",
+    "banner": "https://cdn.slotgambit.com/58.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "76",
+    "game_name": "WonWonWon",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIpsTH14QJSvdw_UG6DApGOAwwcsGW6hJzA&s",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "201",
+    "game_name": "MuayThai",
+    "banner": "https://cdn.slotgambit.com/201.png",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "212",
+    "game_name": "Burning Xi-You",
+    "banner": "https://cdn.slotgambit.com/212.png",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "215",
+    "game_name": "Hot Pinatas",
+    "banner": "https://cdn.slotgambit.com/215.png",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "211",
+    "game_name": "King of Atlantis",
+    "banner": "https://cdn.slotgambit.com/211.png",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "219",
+    "game_name": "King Kong Shake",
+    "banner": "https://cdn.slotgambit.com/219.png",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "3",
+    "game_name": "VampireKiss",
+    "banner": "https://cdn.slotgambit.com/vampire-kiss-cq9gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "34",
+    "game_name": "Gophers War",
+    "banner": "https://cdn.slotgambit.com/gophers-war.jpg",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "38",
+    "game_name": "All Wilds",
+    "banner": "https://cdn.slotgambit.com/all-wilds.jpg",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "51",
+    "game_name": "Ecstatic Circus",
+    "banner": "https://cdn.slotgambit.com/ecstatic-circus.jpg",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "70",
+    "game_name": "WanBaoDino",
+    "banner": "https://cdn.slotgambit.com/wanbao-dino.jpg",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "83",
+    "game_name": "FireQueen",
+    "banner": "https://cdn.slotgambit.com/fire-queen-cq9.jpg",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "179",
+    "game_name": "Jump High 2",
+    "banner": "https://cdn.slotgambit.com/179.png",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "186",
+    "game_name": "Fire Queen 2",
+    "banner": "https://cdn.slotgambit.com/186.png",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "GB3",
+    "game_name": "Coin Spinner",
+    "banner": "https://cdn.slotgambit.com/gb3.png",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "161",
+    "game_name": "Hercules",
+    "banner": "https://cdn.slotgambit.com/161.png",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "184",
+    "game_name": "Six Gacha",
+    "banner": "https://cdn.slotgambit.com/184.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "1",
+    "game_name": "FruitKing",
+    "banner": "https://cdn.slotgambit.com/Fruit-King.png",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "20",
+    "game_name": "888",
+    "banner": "https://cdn.slotgambit.com/20.png",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "57",
+    "game_name": "The Beast War",
+    "banner": "https://cdn.slotgambit.com/the-beast-war.jpg",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "66",
+    "game_name": "Fire777",
+    "banner": "https://cdn.slotgambit.com/fire-777.jpg",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "78",
+    "game_name": "Apollo",
+    "banner": "https://cdn.slotgambit.com/apollo-cq9.jpg",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "GB2",
+    "game_name": "Monster Hunter",
+    "banner": "https://cdn.slotgambit.com/gb2.png",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "5",
+    "game_name": "Mr.Rich",
+    "banner": "https://cdn.slotgambit.com/mr-rich.jpg",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "9",
+    "game_name": "ZhongKui",
+    "banner": "https://cdn.slotgambit.com/Zhong-Kul.png",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "21",
+    "game_name": "BigWolf",
+    "banner": "https://cdn.slotgambit.com/bigwolf.jpg.057552e2ba6e7cf5d1374ef5e2b13bba.jpg",
+    "status": 1
+  },
+  {
+    "id": 121,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "23",
+    "game_name": "YuanBao",
+    "banner": "https://cdn.slotgambit.com/yuan-bao.jpg",
+    "status": 1
+  },
+  {
+    "id": 122,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "24",
+    "game_name": "RaveJump2",
+    "banner": "https://cdn.slotgambit.com/rave-jump-2.jpg",
+    "status": 1
+  },
+  {
+    "id": 123,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "36",
+    "game_name": "Pub Tycoon",
+    "banner": "https://cdn.slotgambit.com/pub-tycoon.jpg",
+    "status": 1
+  },
+  {
+    "id": 124,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "183",
+    "game_name": "Wolf Disco",
+    "banner": "https://cdn.slotgambit.com/183.png",
+    "status": 1
+  },
+  {
+    "id": 125,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "7",
+    "game_name": "RaveJump",
+    "banner": "https://cdn.slotgambit.com/rave-jump.jpg",
+    "status": 1
+  },
+  {
+    "id": 126,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "47",
+    "game_name": "Pharaoh's Gold",
+    "banner": "https://cdn.slotgambit.com/pharaohs-gold-cq9-gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 127,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "52",
+    "game_name": "Jump High",
+    "banner": "https://cdn.slotgambit.com/jump-high.jpg",
+    "status": 1
+  },
+  {
+    "id": 128,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "54",
+    "game_name": "Funny Alpaca",
+    "banner": "https://cdn.slotgambit.com/funny-alpaca.jpg",
+    "status": 1
+  },
+  {
+    "id": 129,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "69",
+    "game_name": "FaCaiShen",
+    "banner": "https://cdn.slotgambit.com/fa-cai-shen-cq9.jpg",
+    "status": 1
+  },
+  {
+    "id": 130,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "35",
+    "game_name": "CrazyNuozha",
+    "banner": "https://cdn.slotgambit.com/crazy-nuozha.jpg",
+    "status": 1
+  },
+  {
+    "id": 131,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "95",
+    "game_name": "FootballBoots",
+    "banner": "https://cdn.slotgambit.com/Football-Boots.png",
+    "status": 1
+  },
+  {
+    "id": 132,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "204",
+    "game_name": "LuckyBoxes",
+    "banner": "https://cdn.slotgambit.com/204.png",
+    "status": 1
+  },
+  {
+    "id": 133,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "199",
+    "game_name": "Songkran Festival",
+    "banner": "https://cdn.slotgambit.com/199.png",
+    "status": 1
+  },
+  {
+    "id": 134,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "GB8",
+    "game_name": "Dragon Koi",
+    "banner": "https://cdn.slotgambit.com/dragon-koi.jpg",
+    "status": 1
+  },
+  {
+    "id": 135,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "160",
+    "game_name": "Fa Cai Shen2",
+    "banner": "https://cdn.slotgambit.com/160.png",
+    "status": 1
+  },
+  {
+    "id": 136,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "12",
+    "game_name": "TreasureHouse",
+    "banner": "https://cdn.slotgambit.com/treasure-house.jpg",
+    "status": 1
+  },
+  {
+    "id": 137,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "19",
+    "game_name": "HotSpin",
+    "banner": "https://cdn.slotgambit.com/Hot-Spin.png",
+    "status": 1
+  },
+  {
+    "id": 138,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "22",
+    "game_name": "MonkeyOfficeLegend",
+    "banner": "https://cdn.slotgambit.com/monkey-office-legend.jpg",
+    "status": 1
+  },
+  {
+    "id": 139,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "27",
+    "game_name": "Magic World",
+    "banner": "https://cdn.slotgambit.com/Magic-World.png",
+    "status": 1
+  },
+  {
+    "id": 140,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "39",
+    "game_name": "Apsaras",
+    "banner": "https://cdn.slotgambit.com/apsaras.jpg",
+    "status": 1
+  },
+  {
+    "id": 141,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "105",
+    "game_name": "Jumping Mobile",
+    "banner": "https://cdn.slotgambit.com/105.png",
+    "status": 1
+  },
+  {
+    "id": 142,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "102",
+    "game_name": "Fruity Carnival",
+    "banner": "https://cdn.slotgambit.com/102.png",
+    "status": 1
+  },
+  {
+    "id": 143,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "195",
+    "game_name": "Lord Ganesha",
+    "banner": "https://cdn.slotgambit.com/195.png",
+    "status": 1
+  },
+  {
+    "id": 144,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "223",
+    "game_name": "Acrobatics",
+    "banner": "https://cdn.slotgambit.com/Acrobatics-6878100.jpg",
+    "status": 1
+  },
+  {
+    "id": 145,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "98",
+    "game_name": "All Star Team",
+    "banner": "https://cdn.slotgambit.com/All-Star-Team.png",
+    "status": 1
+  },
+  {
+    "id": 146,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "208",
+    "game_name": "Money Tree",
+    "banner": "https://cdn.slotgambit.com/208.png",
+    "status": 1
+  },
+  {
+    "id": 147,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "188",
+    "game_name": "Cricket Fever",
+    "banner": "https://cdn.slotgambit.com/188.png",
+    "status": 1
+  },
+  {
+    "id": 148,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "2",
+    "game_name": "GodOfChess",
+    "banner": "https://cdn.slotgambit.com/God-of-Chess.png",
+    "status": 1
+  },
+  {
+    "id": 149,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "4",
+    "game_name": "WildTarzan",
+    "banner": "https://cdn.slotgambit.com/wild-tarzan.jpg",
+    "status": 1
+  },
+  {
+    "id": 150,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "10",
+    "game_name": "LuckyBats",
+    "banner": "https://cdn.slotgambit.com/lucky-bats.jpg",
+    "status": 1
+  },
+  {
+    "id": 151,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "81",
+    "game_name": "Treasure Island",
+    "banner": "https://cdn.slotgambit.com/treasure-island-cq9gaming.jpg",
+    "status": 1
+  },
+  {
+    "id": 152,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "92",
+    "game_name": "WorldCupRussia2018",
+    "banner": "https://cdn.slotgambit.com/world-cup-russia-2018.jpg",
+    "status": 1
+  },
+  {
+    "id": 153,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "205",
+    "game_name": "DiscoNight",
+    "banner": "https://cdn.slotgambit.com/205.png",
+    "status": 1
+  },
+  {
+    "id": 154,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "108",
+    "game_name": "Jump Higher mobile",
+    "banner": "https://cdn.slotgambit.com/108.png",
+    "status": 1
+  },
+  {
+    "id": 155,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "5008",
+    "game_name": "Da Hong Zhong",
+    "banner": "https://cdn.slotgambit.com/5008.png",
+    "status": 1
+  },
+  {
+    "id": 160,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "CQ9",
+    "game_code": "228",
+    "game_name": "Mirror Mirror",
+    "banner": "https://cdn.slotgambit.com/mirror-mirror-cq9gaming.jpg",
+    "status": 1
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPZuluKing",
+    "game_name": "Zulu King",
+    "banner": "https://cdn.slotgambit.com/TPZuluKing.png",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPLostCityOfAtlantis",
+    "game_name": "The Lost City of Atlantis",
+    "banner": "https://cdn.slotgambit.com/TPLostCityOfAtlantis.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPSilkenSands",
+    "game_name": "Silken Sands",
+    "banner": "https://cdn.slotgambit.com/TPSilkenSands.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPShamansVision",
+    "game_name": "Shaman's Vision",
+    "banner": "https://cdn.slotgambit.com/TPShamansVision.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPLuckyEast",
+    "game_name": "Lucky East",
+    "banner": "https://cdn.slotgambit.com/TPLuckyEast.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPGreatApes",
+    "game_name": "Great Apes",
+    "banner": "https://cdn.slotgambit.com/TPGreatApes.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPMooneysMoney",
+    "game_name": "Mooney's Money",
+    "banner": "https://cdn.slotgambit.com/TPMooneysMoney.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPTajMahal",
+    "game_name": "Taj Mahal",
+    "banner": "https://cdn.slotgambit.com/TPTajMahal.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPAmericanWild",
+    "game_name": "American Wild",
+    "banner": "https://cdn.slotgambit.com/TPAmericanWild.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPMarmin",
+    "game_name": "Marmin",
+    "banner": "https://cdn.slotgambit.com/TPMarmin.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPSplendidaVenezia",
+    "game_name": "Splendida Venezia",
+    "banner": "https://cdn.slotgambit.com/TPSplendidaVenezia.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPBalantra",
+    "game_name": "Balantra",
+    "banner": "https://cdn.slotgambit.com/TPBalantra.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPAfricanWild",
+    "game_name": "African Wild",
+    "banner": "https://cdn.slotgambit.com/TPAfricanWild.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPFrice",
+    "game_name": "Frice",
+    "banner": "https://cdn.slotgambit.com/TPFrice.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPrinceOfTheJungle",
+    "game_name": "Prince Of The Jungle",
+    "banner": "https://cdn.slotgambit.com/TPPrinceOfTheJungle.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPHappyGoLucky",
+    "game_name": "Happy Go Lucky",
+    "banner": "https://cdn.slotgambit.com/TPHappyGoLucky.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPKingCrab",
+    "game_name": "King Crab",
+    "banner": "https://cdn.slotgambit.com/TPKingCrab.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPDickDetective",
+    "game_name": "Dick the Detective",
+    "banner": "https://cdn.slotgambit.com/TPDickDetective.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPTiti",
+    "game_name": "Titi",
+    "banner": "https://cdn.slotgambit.com/TPTiti.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPToucan",
+    "game_name": "Toucan",
+    "banner": "https://cdn.slotgambit.com/TPToucan.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPRapidReels",
+    "game_name": "Rapid Reels",
+    "banner": "https://cdn.slotgambit.com/TPRapidReels.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPSunWukong",
+    "game_name": "Sun Wukong",
+    "banner": "https://cdn.slotgambit.com/TPSunWukong.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPrincessOfTheJungle",
+    "game_name": "Princess Of The Jungle",
+    "banner": "https://cdn.slotgambit.com/TPPrincessOfTheJungle.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPuffinKing",
+    "game_name": "Puffin King",
+    "banner": "https://cdn.slotgambit.com/TPPuffinKing.png",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPJacksQuest",
+    "game_name": "Jack's Quest",
+    "banner": "https://cdn.slotgambit.com/TPJacksQuest.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPJadeEmperor",
+    "game_name": "Jade Emperor",
+    "banner": "https://cdn.slotgambit.com/TPJadeEmperor.png",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPFantasyGarden",
+    "game_name": "Fantasy Garden",
+    "banner": "https://cdn.slotgambit.com/TPFantasyGarden.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPGoldenLion",
+    "game_name": "Golden Lion",
+    "banner": "https://cdn.slotgambit.com/TPGoldenLion.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPBlackPanther",
+    "game_name": "Black Panther",
+    "banner": "https://cdn.slotgambit.com/TPBlackPanther.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPSpartansTheFinalStand",
+    "game_name": "Spartans The Final Stand",
+    "banner": "https://cdn.slotgambit.com/TPSpartansTheFinalStand.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPBaiLongma",
+    "game_name": "Bai Longma",
+    "banner": "https://cdn.slotgambit.com/TPBaiLongma.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPoseidon",
+    "game_name": "Poseidon",
+    "banner": "https://cdn.slotgambit.com/TPPoseidon.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPMayanDreams",
+    "game_name": "Mayan Dreams",
+    "banner": "https://cdn.slotgambit.com/TPMayanDreams.png",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPWildSafari",
+    "game_name": "Wild Safari",
+    "banner": "https://cdn.slotgambit.com/TPWildSafari.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPNeonNight",
+    "game_name": "Neon Nights",
+    "banner": "https://cdn.slotgambit.com/TPNeonNight.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPOlympus",
+    "game_name": "Olympus",
+    "banner": "https://cdn.slotgambit.com/TPOlympus.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPYinYang",
+    "game_name": "Yin Yang",
+    "banner": "https://cdn.slotgambit.com/TPYinYang.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPSacredFlower",
+    "game_name": "Sacred Flower",
+    "banner": "https://cdn.slotgambit.com/TPSacredFlower.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPTreasureCove",
+    "game_name": "Treasure Cove",
+    "banner": "https://cdn.slotgambit.com/TPTreasureCove.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPhoenix",
+    "game_name": "Phoenix",
+    "banner": "https://cdn.slotgambit.com/TPPhoenix.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPegasus",
+    "game_name": "Pegasus",
+    "banner": "https://cdn.slotgambit.com/TPPegasus.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPKingoftheDeep",
+    "game_name": "King of the Deep",
+    "banner": "https://cdn.slotgambit.com/TPKingoftheDeep.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPLuckyJesters",
+    "game_name": "Lucky Jesters",
+    "banner": "https://cdn.slotgambit.com/TPLuckyJesters.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPGriffin",
+    "game_name": "Griffin",
+    "banner": "https://cdn.slotgambit.com/TPGriffin.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPLightningFruits",
+    "game_name": "Lightning Fruits",
+    "banner": "https://cdn.slotgambit.com/TPLightningFruits.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPMagicalFairiesDeluxe",
+    "game_name": "Magical Fairies Deluxe",
+    "banner": "https://cdn.slotgambit.com/TPMagicalFairiesDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPPrincessOfTheDeep",
+    "game_name": "Princess Of The Deep",
+    "banner": "https://cdn.slotgambit.com/TPPrincessOfTheDeep.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPRed",
+    "game_name": "Red",
+    "banner": "https://cdn.slotgambit.com/TPRed.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPWildCleopatraDeluxe",
+    "game_name": "Wild Cleopatra Deluxe",
+    "banner": "https://cdn.slotgambit.com/TPWildCleopatraDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "GMW",
+    "game_code": "TPMagicSigns",
+    "game_name": "Magic Signs",
+    "banner": "https://cdn.slotgambit.com/TPMagicSigns.png",
+    "status": 1
+  }
+]

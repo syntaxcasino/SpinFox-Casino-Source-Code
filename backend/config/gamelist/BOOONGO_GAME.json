@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "happy_fish",
+    "game_name": "Happy Fish",
+    "banner": "https://cdn.slotgambit.com/happy_fish_banner_szwaz.jpg",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "gold_nuggets",
+    "game_name": "Gold Nuggets",
+    "banner": "https://cdn.slotgambit.com/gold_nuggets_banner_prfta.jpg",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "sticky_piggy",
+    "game_name": "Sticky Piggy",
+    "banner": "https://cdn.slotgambit.com/sticky_piggy_banner_hdxsn.jpg",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "tiger_jungle",
+    "game_name": "Tiger Jungle",
+    "banner": "https://cdn.slotgambit.com/tiger_jungle_banner_ufniw.jpg",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "grab_the_gold",
+    "game_name": "Grab the Gold!",
+    "banner": "https://cdn.slotgambit.com/grab_the_gold_banner_yxvbq.jpg",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "lotus_charm",
+    "game_name": "Lotus Charm",
+    "banner": "https://cdn.slotgambit.com/lotus_charm_banner_fcoyx.jpg",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "more_magic_apple",
+    "game_name": "More Magic Apple",
+    "banner": "https://cdn.slotgambit.com/more_magic_apple_banner_qsbqe.jpg",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "green_chilli_2",
+    "game_name": "Green Chilli 2",
+    "banner": "https://cdn.slotgambit.com/green_chilli_2_banner_qdelm.jpg",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "lady_fortune",
+    "game_name": "Lady Fortune",
+    "banner": "https://cdn.slotgambit.com/lady_fortune_banner_mdvsp.jpg",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "green_chilli",
+    "game_name": "Green Chilli",
+    "banner": "https://cdn.slotgambit.com/green_chilli_banner_wbdal.jpg",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "tiger_gems",
+    "game_name": "Tiger Gems",
+    "banner": "https://cdn.slotgambit.com/tiger_gems_banner_lyyjr.jpg",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "forest_spirit",
+    "game_name": "Forest Spirit",
+    "banner": "https://cdn.slotgambit.com/forest_spirit_banner_kifxe.jpg",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "little_farm",
+    "game_name": "Little Farm",
+    "banner": "https://cdn.slotgambit.com/little_farm_banner_jbybv.jpg",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "coin_volcano",
+    "game_name": "Coin Volcano",
+    "banner": "https://cdn.slotgambit.com/coin_volcano_banner_hyptc.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "rio_gems",
+    "game_name": "Rio Gems",
+    "banner": "https://cdn.slotgambit.com/rio_gems_banner_gkiok.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "goddess_of_egypt",
+    "game_name": "Goddess of Egypt",
+    "banner": "https://cdn.slotgambit.com/goddess_of_egypt_banner_cyhcz.jpg",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "boom_gold",
+    "game_name": "Boom! Boom! Gold!",
+    "banner": "https://cdn.slotgambit.com/boom_gold_banner_zjqjo.jpg",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "big_heist",
+    "game_name": "Big Heist",
+    "banner": "https://cdn.slotgambit.com/big_heist_banner_efqes.jpg",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "hit_more_gold",
+    "game_name": "Hit more Gold!",
+    "banner": "https://cdn.slotgambit.com/hit_more_gold_banner_zcfzf.jpg",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "moon_sisters",
+    "game_name": "Moon Sisters",
+    "banner": "https://cdn.slotgambit.com/moon_sisters_banner_trqom.jpg",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "maya_sun",
+    "game_name": "Maya Sun",
+    "banner": "https://cdn.slotgambit.com/maya_sun_banner_gizub.jpg",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "egypt_fire",
+    "game_name": "Egypt Fire",
+    "banner": "https://cdn.slotgambit.com/egypt_fire_banner_lsegp.jpg",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "black_wolf",
+    "game_name": "Black Wolf",
+    "banner": "https://cdn.slotgambit.com/black_wolf_banner_kodrk.jpg",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "super_rich_god",
+    "game_name": "Super Rich God: Hold and Win",
+    "banner": "https://cdn.slotgambit.com/super_rich_god_banner_aoyfk.jpg",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "super_marble",
+    "game_name": "Super Marble",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG6Y-mEEhx_2O3bUWuNiCePVnSh5MaK1ryg_ksD8eHFsT28reW7J4laWE8ERJqLLbr85A&usqp=CAU",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "olympian_gods",
+    "game_name": "Olympian Gods",
+    "banner": "https://cdn.slotgambit.com/olympian_gods_banner_tugbt.jpg",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "sun_of_egypt_3",
+    "game_name": "Sun of Egypt 3",
+    "banner": "https://cdn.slotgambit.com/sun_of_egypt_3_banner_xobfo.jpg",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "candy_boom",
+    "game_name": "Candy Boom",
+    "banner": "https://cdn.slotgambit.com/candy_boom_banner_rkebf.jpg",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "hit_the_gold",
+    "game_name": "Hit the Gold!",
+    "banner": "https://cdn.slotgambit.com/hit_the_gold_banner_smciy.jpg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "eggs_of_gold",
+    "game_name": "Eggs of Gold",
+    "banner": "https://casinopearls.com/wp-content/uploads/2024/10/eggs_of_gold.jpg",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "book_of_sun",
+    "game_name": "Book of Sun",
+    "banner": "https://cdn.slotgambit.com/book_of_sun_multichance_banner_GIehvui.jpg",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "magic_apple_2",
+    "game_name": "Magic Apple 2",
+    "banner": "https://cdn.slotgambit.com/magic_apple_2_banner_xypvj.jpg",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "black_wolf_2",
+    "game_name": "Black Wolf 2",
+    "banner": "https://cdn.slotgambit.com/black_wolf_2_banner_pihet.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "sunlight_princess",
+    "game_name": "Sunlight Princess",
+    "banner": "https://cdn.slotgambit.com/sunlight_princess_banner_naann.jpg",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "queen_of_the_sun",
+    "game_name": "Queen Of The Sun",
+    "banner": "https://cdn.slotgambit.com/queen_of_the_sun_banner_emsjb.jpg",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "pearl_diver_2",
+    "game_name": "Pearl Diver 2: Treasure Chest",
+    "banner": "https://cdn.slotgambit.com/pearl_diver_2_banner_mrbnk.jpg",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "book_of_wizard_crystal",
+    "game_name": "Book of Wizard Crystal Chance",
+    "banner": "https://cdn.slotgambit.com/book_of_wizard_crystal_banner_vhfdh.jpg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "gold_express",
+    "game_name": "Gold Express",
+    "banner": "https://cdn.slotgambit.com/golden_express_banner_iayrp.jpg",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "3_coins_egypt",
+    "game_name": "3 Coins: Egypt",
+    "banner": "https://cdn.slotgambit.com/3_coins_egypt_banner_iobov.jpg",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "golden_dancing_lion",
+    "game_name": "Golden Dancing Lion",
+    "banner": "https://cdn.slotgambit.com/golden_dancing_lion_banner_hoxmm.jpg",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "wukong",
+    "game_name": "Wukong",
+    "banner": "https://cdn.slotgambit.com/wukong_banner_tkuui.jpg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "wolf_night",
+    "game_name": "Wolf Night",
+    "banner": "https://cdn.slotgambit.com/wolf_night_banner_nwkpk.jpg",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "book_of_sun_choice",
+    "game_name": "Book of Sun: Choice",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO8oUWftLUILTibX4qvxE8W-L8xDSvs0RhGg&s",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "3_coins",
+    "game_name": "3 Coins",
+    "banner": "https://cdn.slotgambit.com/3_coins_banner_crnpa.jpg",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "sun_of_egypt_2",
+    "game_name": "Sun of Egypt 2",
+    "banner": "https://cdn.slotgambit.com/sun_of_egypt_2_banner_vnyic.jpg",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "yo_ho_gold",
+    "game_name": "Yo-Ho Gold!",
+    "banner": "https://cdn.slotgambit.com/yo_ho_gold_banner_isqof.jpg",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "book_of_wizard",
+    "game_name": "Book of Wizard",
+    "banner": "https://cdn.slotgambit.com/book_of_wizard_banner_qdnbz.jpg",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "scarab_riches",
+    "game_name": "Scarab Riches",
+    "banner": "https://cdn.slotgambit.com/scarab_riches_banner_jixbp.jpg",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "dragon_pearls",
+    "game_name": "Dragon Pearls: Hold and Win",
+    "banner": "https://cdn.slotgambit.com/dragon_pearls_banner_TCt0sbA.jpg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "15_dragon_pearls",
+    "game_name": "15 Dragon Pearls",
+    "banner": "https://cdn.slotgambit.com/15_dragon_pearls_banner_ezukj.jpg",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "great_panda",
+    "game_name": "Great Panda: Hold and Win",
+    "banner": "https://cdn.slotgambit.com/great_panda_banner_uzjak.jpg",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "aztec_fire",
+    "game_name": "Aztec Fire",
+    "banner": "https://cdn.slotgambit.com/aztec_fire_2_banner_sjjti.png",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "caishen_wealth",
+    "game_name": "Caishen Wealth",
+    "banner": "https://cdn.slotgambit.com/caishen_wealth_banner_zioft.jpg",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "lord_fortune_2",
+    "game_name": "Lord Fortune 2",
+    "banner": "https://www.omni88.com/img/ng_bng_lordfortune2_en.jpg",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "thunder_of_olympus",
+    "game_name": "Thunder of Olympus",
+    "banner": "https://cdn.slotgambit.com/thunder_of_olympus_banner_kdzsf.jpg",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "eye_of_gold",
+    "game_name": "Eye of Gold",
+    "banner": "https://cdn.slotgambit.com/eye-of-gold.webp",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "tiger_stone",
+    "game_name": "Tiger Stone",
+    "banner": "https://cdn.slotgambit.com/tiger_stone_banner_mdgay.jpg",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "magic_apple",
+    "game_name": "Magic Apple",
+    "banner": "https://cdn.slotgambit.com/more_magic_apple_banner_qsbqe.jpg",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "magic_ball",
+    "game_name": "Magic Ball",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSQSj_9aOpyZB4N7bqlcJ3T7OiXGB-xt0j3TKYa6aaosHdD5EjoQyvGu6ILNhDExvQuKU&usqp=CAU",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "wolf_saga",
+    "game_name": "Wolf Saga",
+    "banner": "https://cdn.slotgambit.com/wolf_saga_banner_xwaqa.jpg",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "pearl_diver",
+    "game_name": "Pearl Diver",
+    "banner": "https://cdn.slotgambit.com/pearl_diver_2_banner_mrbnk.jpg",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "scarab_boost",
+    "game_name": "Scarab Boost",
+    "banner": "https://cdn.slotgambit.com/scarab_boost_banner_yavgj.jpg",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "sun_of_egypt",
+    "game_name": "Sun of Egypt: Hold and Win",
+    "banner": "https://cdn.slotgambit.com/sun_of_egypt_banner_zbrok.jpg",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "aztec_sun",
+    "game_name": "Aztec Sun",
+    "banner": "https://cdn.slotgambit.com/aztec_sun_banner_bejoc.jpg",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "scarab_temple",
+    "game_name": "Scarab Temple",
+    "banner": "https://cdn.slotgambit.com/scarab_temple_banner_xaweu.jpg",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "777_gems_respin",
+    "game_name": "777 Gems ReSpin",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYSbBMcCdK5sBHxoxMiW_iSDn6wzKIXhecUg&s",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "dragon_wealth",
+    "game_name": "Dragon Wealth",
+    "banner": "https://cdn.slotgambit.com/dragon_wealth_banner_gmscn.jpg",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "book_of_sun_multichance",
+    "game_name": "Book of Sun Multichance",
+    "banner": "https://cdn.slotgambit.com/book_of_sun_multichance_banner_GIehvui.jpg",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "tigers_gold",
+    "game_name": "Tiger's Gold",
+    "banner": "https://cdn.slotgambit.com/tigers_gold_banner_fgflt.jpg",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "buddha_fortune",
+    "game_name": "Buddha Fortune",
+    "banner": "https://cdn.slotgambit.com/Buddha-Fortune-Hold-and-Win-slot.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "777_coins",
+    "game_name": "777 Coins",
+    "banner": "https://cdn.slotgambit.com/777_coins_banner_uwcok.jpg",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "3_hot_chillies",
+    "game_name": "3 Hot Chillies",
+    "banner": "https://cdn.slotgambit.com/3_hot_chillies_banner_yjcoc.jpg",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "african_spirit_sticky_wilds",
+    "game_name": "African Spirit Sticky Wilds",
+    "banner": "https://cdn.slotgambit.com/african_spirit_sticky_wilds_banner_gunzr.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "grab_more_gold",
+    "game_name": "Grab more Gold!",
+    "banner": "https://cdn.slotgambit.com/grab_more_gold_banner_gwcza.jpg",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "BOOONGO",
+    "game_code": "crystal_scarabs",
+    "game_name": "Crystal Scarabs",
+    "banner": "https://cdn.slotgambit.com/crystal_scarabs_banner_uotbd.jpg",
+    "status": 1
+  }
+]

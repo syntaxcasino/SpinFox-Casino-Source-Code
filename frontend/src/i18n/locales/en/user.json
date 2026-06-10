@@ -1,0 +1,16 @@
+{
+  "balance": "Balance",
+  "bonusBalance": "Bonus Balance",
+  "loyaltyPoints": "Loyalty Points",
+  "level": "Level",
+  "rank": "Rank",
+  "deposit": "Deposit",
+  "withdraw": "Withdraw",
+  "profile": "Profile",
+  "accountSettings": "Account Settings",
+  "transactions": "Transaction History",
+  "referral": "Referral Program",
+  "myBonuses": "My Bonuses",
+  "security": "Security Settings",
+  "2fa": "Two-Factor Authentication"
+}

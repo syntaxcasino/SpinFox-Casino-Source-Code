@@ -1,0 +1,1192 @@
+[
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "cashtruckbegins",
+    "game_name": "Cash Truck Begins",
+    "banner": "https://cdn.slotgambit.com/cash-truck-begins-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "stickybanditsthunderrail",
+    "game_name": "Sticky Branits Thunder Rail",
+    "banner": "https://cdn.slotgambit.com/sticky-bandits-thunder-rail.jpg",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "tempuraprincess",
+    "game_name": "Tempura Princess",
+    "banner": "https://cdn.slotgambit.com/tempura-princess-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "epicfishnetoffortune",
+    "game_name": "Epic Fish Net of Fortune",
+    "banner": "https://cdn.slotgambit.com/epic-fish-net-of-fortune-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sakurafortuneepicbloom",
+    "game_name": "Sakura Fortune Epic Bloom",
+    "banner": "https://cdn.slotgambit.com/sakura-fortune-epic-bloom-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "crystalqueenscoins",
+    "game_name": "Crystal Queen’s Coins",
+    "banner": "https://cdn.slotgambit.com/crystal-queens-coins-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "fishadventure",
+    "game_name": "Epic Fish Adventure",
+    "banner": "https://cdn.slotgambit.com/epic-fish-adventure-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "pineapplecrush94",
+    "game_name": "Pineapple Crush",
+    "banner": "https://cdn.slotgambit.com/pineapple-crush-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "reelnightmare",
+    "game_name": "Reel Nightmare",
+    "banner": "https://cdn.slotgambit.com/reel-nightmare-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "templeofpaw",
+    "game_name": "Temple of Paw",
+    "banner": "https://cdn.slotgambit.com/temple-of-paw-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "shieldsoflambda",
+    "game_name": "Shields of Lambda",
+    "banner": "https://cdn.slotgambit.com/shields-of-lambda-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "cashtruck394",
+    "game_name": "Cash Truck 3 Turbo",
+    "banner": "https://cdn.slotgambit.com/cash-truck-3-turbo-6.jpg",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "brawlersbar",
+    "game_name": "Brawlers Bar Cash Collect",
+    "banner": "https://cdn.slotgambit.com/brawlers-bar-cash-collect-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "candyglyph",
+    "game_name": "Candy Glyph",
+    "banner": "https://cdn.slotgambit.com/candy-glyph-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "stickybanditsunchained",
+    "game_name": "Sticky Bandits Unchained",
+    "banner": "https://cdn.slotgambit.com/sticky-bandits-unchained-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bookofyuletide",
+    "game_name": "Book of Yuletide",
+    "banner": "https://cdn.slotgambit.com/book-of-yuletide-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bigbadwolfpigsofsteel94",
+    "game_name": "Big Bad Wolf: Pigs of Steel",
+    "banner": "https://cdn.slotgambit.com/big-bad-wolf_-pigs-of-steel-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "catrinascoins",
+    "game_name": "Catrina’s Coins",
+    "banner": "https://cdn.slotgambit.com/catrinas-coins-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "goldenglyph3",
+    "game_name": "Golden Glyph 3",
+    "banner": "https://cdn.slotgambit.com/golden-glyph-3-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "brooklynbootleggers",
+    "game_name": "Brooklyn Bootleggers",
+    "banner": "https://cdn.slotgambit.com/brooklyn-bootleggers-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "feastingfox",
+    "game_name": "Feasting Fox",
+    "banner": "https://cdn.slotgambit.com/feasting-fox-logo-01-248x371.jpg",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "cashtruck2",
+    "game_name": "Cash Truck 2",
+    "banner": "https://cdn.slotgambit.com/cash-truck-2-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wonderland94",
+    "game_name": "Adventures Beyond Wonderland Magical Maze",
+    "banner": "https://cdn.slotgambit.com/adventures-beyond-wonderland-magical-maze-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "dogtowndeal",
+    "game_name": "Dog Town Deal",
+    "banner": "https://cdn.slotgambit.com/dog-town-deal-logo-248x371.jpg",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "mineandmelt",
+    "game_name": "Mine & Melt",
+    "banner": "https://cdn.slotgambit.com/mine-melt-logo-01-248x371.jpg",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bookofinferno",
+    "game_name": "Book of Inferno",
+    "banner": "https://cdn.slotgambit.com/book-of-inferno-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bettybonkers",
+    "game_name": "Betty Bonkers",
+    "banner": "https://cdn.slotgambit.com/betty-bonkers-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "scattermonsters",
+    "game_name": "Scatter Monsters",
+    "banner": "https://cdn.slotgambit.com/scatter-monsters-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "cashtruckxmas94",
+    "game_name": "Cash Truck Xmas Delivery",
+    "banner": "https://cdn.slotgambit.com/cash-truck-xmas-delivery-logo-01.jpg",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "ravenrising",
+    "game_name": "Raven Rising",
+    "banner": "https://cdn.slotgambit.com/raven-rising-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "totemthunder",
+    "game_name": "Primal Spirits",
+    "banner": "https://cdn.slotgambit.com/primal-spirits-logo-1.jpg",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "easternemeraldsmegaways",
+    "game_name": "Eastern Emeralds Megaways",
+    "banner": "https://cdn.slotgambit.com/eastern-emeralds-megaways-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "spinionsgameday",
+    "game_name": "Spinions Game Day",
+    "banner": "https://cdn.slotgambit.com/spinions-game-day-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "beastwood",
+    "game_name": "Beastwood",
+    "banner": "https://cdn.slotgambit.com/beastwood-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "trailofblood",
+    "game_name": "Sticky Bandits Trail of Blood",
+    "banner": "https://cdn.slotgambit.com/sticky-bandits-trail-of-blood-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sluggertime",
+    "game_name": "Slugger Time",
+    "banner": "https://cdn.slotgambit.com/slugger-time-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "fliproyale",
+    "game_name": "Flip Royale",
+    "banner": "https://cdn.slotgambit.com/flip-royal-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "azticons",
+    "game_name": "Azticons Chaos Clusters",
+    "banner": "https://cdn.slotgambit.com/azticons-chaos-clusters-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sakura294",
+    "game_name": "Sakura Fortune 2",
+    "banner": "https://cdn.slotgambit.com/sakura-fortune-2-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "highstreetheist",
+    "game_name": "High Street Heist",
+    "banner": "https://cdn.slotgambit.com/high-street-heist-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "warpwreckers",
+    "game_name": "Warp Wreckers Power Glyph",
+    "banner": "https://cdn.slotgambit.com/warp-wreckers-power-glyph-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "cashtruck",
+    "game_name": "Cash Truck",
+    "banner": "https://cdn.slotgambit.com/cash-truck-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "spinionsxmas",
+    "game_name": "Spinions Christmas Party",
+    "banner": "https://cdn.slotgambit.com/spinions-christmas-party-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bluewizard",
+    "game_name": "Blue Wizard",
+    "banner": "https://cdn.slotgambit.com/blue-wizard-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bookofduat",
+    "game_name": "Book of Duat",
+    "banner": "https://cdn.slotgambit.com/book-of-duat-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "renosevens",
+    "game_name": "Reno 7s",
+    "banner": "https://cdn.slotgambit.com/reno-7s-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wildharlequin",
+    "game_name": "Wild Harlequin",
+    "banner": "https://cdn.slotgambit.com/wild-harlequin-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bigbadwolfmegaways",
+    "game_name": "Big Bad Wolf Megaways",
+    "banner": "https://cdn.slotgambit.com/big-bad-wolf-megaways-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sevensultra",
+    "game_name": "Sevens High Ultra",
+    "banner": "https://cdn.slotgambit.com/sevens-high-ultra-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "cabincrashers",
+    "game_name": "Cabin Crashers",
+    "banner": "https://cdn.slotgambit.com/cabin-crashers-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "tigersgloryultra",
+    "game_name": "Tigers Glory Ultra",
+    "banner": "https://cdn.slotgambit.com/tigers-glory-ultra-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "guardianofathens",
+    "game_name": "Guardian of Athens",
+    "banner": "https://cdn.slotgambit.com/guardian-of-athens-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "goldenglyph2",
+    "game_name": "Golden Glyph 2",
+    "banner": "https://cdn.slotgambit.com/golden-glyph-2-min.jpg",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "mostwanted",
+    "game_name": "Sticky Bandits 3 Most Wanted",
+    "banner": "https://cdn.slotgambit.com/sticky-bandits-3-.jpg",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sinbad",
+    "game_name": "Sinbad",
+    "banner": "https://cdn.slotgambit.com/Sinbad-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "crownofvalor",
+    "game_name": "Crown of Valor",
+    "banner": "https://cdn.slotgambit.com/Crown-of-Valor-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "dinosaurrage",
+    "game_name": "Dinosaur Rage",
+    "banner": "https://cdn.slotgambit.com/Dinosaur-Rage.jpg",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "locothemonkey",
+    "game_name": "Loco the Monkey",
+    "banner": "https://cdn.slotgambit.com/Loco-the-Monkey-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bbwxmasspecial",
+    "game_name": "Big Bad Wolf Christmas Special",
+    "banner": "https://cdn.slotgambit.com/Big-Bad-Wolf-Christmas-Special-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "crystalprince",
+    "game_name": "Crystal Prince",
+    "banner": "https://cdn.slotgambit.com/Crystal-Prince-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wrathofhades2",
+    "game_name": "Titan Thunder: Wrath of Hades",
+    "banner": "https://cdn.slotgambit.com/Titan-Thunder-Wrath-of-Hades-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "hammerofvulcan",
+    "game_name": "Hammer of Vulcan",
+    "banner": "https://cdn.slotgambit.com/Hammer-of-Vulcan-1.jpg",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "ghostglyph",
+    "game_name": "Ghost Glyph",
+    "banner": "https://cdn.slotgambit.com/Ghost-Glyph-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "artemisvsmedusa",
+    "game_name": "Artemis vs Medusa",
+    "banner": "https://cdn.slotgambit.com/Artemis-vs-Medusa-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "arcanegems",
+    "game_name": "Arcane Gems",
+    "banner": "https://cdn.slotgambit.com/Arcane-Gems-1.jpg",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "diamondduke",
+    "game_name": "Diamond Duke",
+    "banner": "https://cdn.slotgambit.com/Diamond-Duke-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "nerosfortune",
+    "game_name": "Nero’s Fortune",
+    "banner": "https://cdn.slotgambit.com/Neros-Fortune-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "panthersreign",
+    "game_name": "Panthers Reign",
+    "banner": "https://cdn.slotgambit.com/Panthers-Reign.jpg",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wildcauldron",
+    "game_name": "Wild Cauldron",
+    "banner": "https://cdn.slotgambit.com/Wild-Cauldron-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "skullsup",
+    "game_name": "Skulls UP!",
+    "banner": "https://cdn.slotgambit.com/Skulls-UP-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "polarpaws",
+    "game_name": "Polar Paws",
+    "banner": "https://cdn.slotgambit.com/Polar-Paws-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "goldenglyph",
+    "game_name": "Golden Glyph",
+    "banner": "https://cdn.slotgambit.com/Golden-Glyph-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wildchasetokyogo",
+    "game_name": "Wild Chase: Tokyo Go",
+    "banner": "https://cdn.slotgambit.com/Wild-Chase-Tokyo-Go-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wildtome",
+    "game_name": "Wild Tome of the Woods",
+    "banner": "https://cdn.slotgambit.com/Wild-Tome-of-the-Woods-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wildreturn",
+    "game_name": "Sticky Bandits: Wild Return",
+    "banner": "https://cdn.slotgambit.com/Sticky-Bandits-Wild-Return-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "primezone",
+    "game_name": "Prime Zone",
+    "banner": "https://cdn.slotgambit.com/Prime-Zone.jpg",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "dragonchase",
+    "game_name": "Dragon Chase",
+    "banner": "https://cdn.slotgambit.com/Dragon-Chase-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "talesofdoctordolittle",
+    "game_name": "Tales of Dr Dolittle",
+    "banner": "https://cdn.slotgambit.com/Tales-of-Dr-Dolittle-foto.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "duriandynamite",
+    "game_name": "Durian Dynamite",
+    "banner": "https://cdn.slotgambit.com/Durian-Dynamite-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "grand",
+    "game_name": "The Grand",
+    "banner": "https://cdn.slotgambit.com/The-Grand-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "tickettothestars",
+    "game_name": "Ticket to the Stars",
+    "banner": "https://cdn.slotgambit.com/Ticket-to-the-Stars-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "divinedreams",
+    "game_name": "Divine Dreams",
+    "banner": "https://cdn.slotgambit.com/divine-dreams-logo.jpg",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "tigersglory",
+    "game_name": "Tiger’s Glory",
+    "banner": "https://cdn.slotgambit.com/tigersglory.jpg",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "arkofmystery",
+    "game_name": "Ark Of Mystery",
+    "banner": "https://cdn.slotgambit.com/arkofmystery.jpg",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bigbotcrew",
+    "game_name": "Big Bot Crew",
+    "banner": "https://cdn.slotgambit.com/bigbotcrew.jpg",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "hiddenvalley2",
+    "game_name": "Hidden Valley",
+    "banner": "https://cdn.slotgambit.com/hiddenvalleysite.jpg",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "easternemeralds",
+    "game_name": "Eastern Emeralds",
+    "banner": "https://cdn.slotgambit.com/easternemeraldssite.jpg",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "dwarfsgonewild",
+    "game_name": "Dwarfs Gone Wild",
+    "banner": "https://cdn.slotgambit.com/dwarfsgonewildsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "piratescharm",
+    "game_name": "Pirate’s Charm",
+    "banner": "https://cdn.slotgambit.com/piratescharmsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "jokerstrike",
+    "game_name": "Joker Strike",
+    "banner": "https://cdn.slotgambit.com/Joker-Strike.jpg",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "volcanoriches",
+    "game_name": "Volcano Riches",
+    "banner": "https://cdn.slotgambit.com/volcanorichessite.jpg",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "northernsky",
+    "game_name": "Northern Sky",
+    "banner": "https://cdn.slotgambit.com/northernskysite.jpg",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "piedpiper",
+    "game_name": "Pied Piper",
+    "banner": "https://cdn.slotgambit.com/piedpipersite.jpg",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "rapunzel2",
+    "game_name": "Rapunzel’s Tower",
+    "banner": "https://cdn.slotgambit.com/rapunzel2site.jpg",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "mightyarthur",
+    "game_name": "Mighty Arthur",
+    "banner": "https://cdn.slotgambit.com/mightyarthursite.jpg",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "mayana",
+    "game_name": "Mayana",
+    "banner": "https://cdn.slotgambit.com/mayanasite.jpg",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "fairygate",
+    "game_name": "Fairy Gate",
+    "banner": "https://cdn.slotgambit.com/fairygatesite.jpg",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "stickybandits",
+    "game_name": "Sticky Bandits",
+    "banner": "https://cdn.slotgambit.com/stickybanditssite.jpg",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sakurafortune",
+    "game_name": "Sakura Fortune",
+    "banner": "https://cdn.slotgambit.com/sakura-fortune-logo-01.jpg",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "leprechaunhills",
+    "game_name": "Leprechaun Hills",
+    "banner": "https://cdn.slotgambit.com/leprechaunhillssite.jpg",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "hotsync",
+    "game_name": "Hot Sync",
+    "banner": "https://cdn.slotgambit.com/hotsyncsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "phoenixsun",
+    "game_name": "Phoenix Sun",
+    "banner": "https://cdn.slotgambit.com/phoenixsunsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "dragonshrine",
+    "game_name": "Dragon Shrine",
+    "banner": "https://cdn.slotgambit.com/dragonshrinesite.jpg",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "goldlab",
+    "game_name": "Gold Lab",
+    "banner": "https://cdn.slotgambit.com/goldlabsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "spinions",
+    "game_name": "Spinions Beach Party",
+    "banner": "https://cdn.slotgambit.com/spinionssite.jpg",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "wildchase",
+    "game_name": "The Wild Chase",
+    "banner": "https://cdn.slotgambit.com/wildchasesite.jpg",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "geniestouch",
+    "game_name": "Genie’s Touch",
+    "banner": "https://cdn.slotgambit.com/geniestouchsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "secondstrike",
+    "game_name": "Second Strike",
+    "banner": "https://cdn.slotgambit.com/secondstrikesite.jpg",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sabretooth",
+    "game_name": "Razortooth",
+    "banner": "https://cdn.slotgambit.com/razortoothsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "crystalqueen",
+    "game_name": "Crystal Queen",
+    "banner": "https://cdn.slotgambit.com/crystalqueensite.jpg",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "sevens",
+    "game_name": "Sevens High",
+    "banner": "https://cdn.slotgambit.com/sevenssite.jpg",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "illuminous",
+    "game_name": "Illuminous",
+    "banner": "https://cdn.slotgambit.com/illuminoussite.jpg",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "colossus",
+    "game_name": "King Colossus",
+    "banner": "https://cdn.slotgambit.com/colossussite.jpg",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "treasureisland",
+    "game_name": "Treasure Island",
+    "banner": "https://cdn.slotgambit.com/treasureislandsite.jpg",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "goldilocks2",
+    "game_name": "Goldilocks and The Wild Bears",
+    "banner": "https://cdn.slotgambit.com/goldilocks-and-the-wild-bears-logo-01.jpg",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "bigbadwolf90",
+    "game_name": "Big Bad Wolf",
+    "banner": "https://cdn.slotgambit.com/big-bad-wolf-logo-01.jpg",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "mountainking",
+    "game_name": "Hall of the Mountain King",
+    "banner": "https://cdn.slotgambit.com/Hall-of-the-Mountain-King-foto.jpg",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "ivan",
+    "game_name": "Ivan and the Immortal King",
+    "banner": "https://cdn.slotgambit.com/ivan.jpg",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "QUICKSPIN",
+    "game_code": "vampiresenpai",
+    "game_name": "Vampire Senpai",
+    "banner": "https://cdn.slotgambit.com/Vampire-Senpai-foto.jpg",
+    "status": 1
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTheKoiGate",
+    "game_name": "Koi Gate",
+    "banner": "https://cdn.slotgambit.com/SGTheKoiGate.png",
+    "status": 1
+  },
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPandaPanda",
+    "game_name": "Panda Panda",
+    "banner": "https://cdn.slotgambit.com/SGPandaPanda.png",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGOceansCall",
+    "game_name": "Ocean's Call",
+    "banner": "https://cdn.slotgambit.com/SGOceansCall.png",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWitchesTome",
+    "game_name": "Witches Tome",
+    "banner": "https://cdn.slotgambit.com/SGWitchesTome.png",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSirensSpell",
+    "game_name": "Siren's Spell",
+    "banner": "https://cdn.slotgambit.com/SGSirensSpell.png",
+    "status": 1
+  },
+  {
+    "id": 6,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTootyFruityFruits",
+    "game_name": "Tooty Fruity Fruits",
+    "banner": "https://cdn.slotgambit.com/SGTootyFruityFruits.png",
+    "status": 1
+  },
+  {
+    "id": 7,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLegendOfNezha",
+    "game_name": "Legend Of Nezha",
+    "banner": "https://cdn.slotgambit.com/SGLegendOfNezha.png",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCrystopia",
+    "game_name": "Crystopia",
+    "banner": "https://cdn.slotgambit.com/SGCrystopia.png",
+    "status": 1
+  },
+  {
+    "id": 9,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTheBigDealDeluxe",
+    "game_name": "The Big Deal Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGTheBigDealDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLegendaryBeasts",
+    "game_name": "Legendary Beasts",
+    "banner": "https://cdn.slotgambit.com/SGLegendaryBeasts.png",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGRainbowmania",
+    "game_name": "Rainbowmania",
+    "banner": "https://cdn.slotgambit.com/SGRainbowmania.png",
+    "status": 1
+  },
+  {
+    "id": 12,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSojuBomb",
+    "game_name": "Soju Bomb",
+    "banner": "https://cdn.slotgambit.com/SGSojuBomb.png",
+    "status": 1
+  },
+  {
+    "id": 13,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDragonTigerGate",
+    "game_name": "Dragon Tiger Gate",
+    "banner": "https://cdn.slotgambit.com/SGDragonTigerGate.png",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTaikoBeats",
+    "game_name": "Taiko Beats",
+    "banner": "https://cdn.slotgambit.com/SGTaikoBeats.png",
+    "status": 1
+  },
+  {
+    "id": 15,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTukTukThailand",
+    "game_name": "Tuk Tuk Thailand",
+    "banner": "https://cdn.slotgambit.com/SGTukTukThailand.png",
+    "status": 1
+  },
+  {
+    "id": 16,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSpaceGoonz",
+    "game_name": "Space Goonz",
+    "banner": "https://cdn.slotgambit.com/SGSpaceGoonz.png",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLaughingBuddha",
+    "game_name": "Laughing Buddha",
+    "banner": "https://cdn.slotgambit.com/SGLaughingBuddha.png",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBombRunner",
+    "game_name": "Bomb Runner",
+    "banner": "https://cdn.slotgambit.com/SGBombRunner.png",
+    "status": 1
+  },
+  {
+    "id": 19,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGGoldenUnicornDeluxe",
+    "game_name": "Golden Unicorn Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGGoldenUnicornDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 20,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDiscoBeats",
+    "game_name": "Disco Beats",
+    "banner": "https://cdn.slotgambit.com/SGDiscoBeats.png",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMightyMedusa",
+    "game_name": "Mighty Medusa",
+    "banner": "https://cdn.slotgambit.com/SGMightyMedusa.png",
+    "status": 1
+  },
+  {
+    "id": 22,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLuckyDurian",
+    "game_name": "Lucky Durian",
+    "banner": "https://cdn.slotgambit.com/SGLuckyDurian.png",
+    "status": 1
+  },
+  {
+    "id": 23,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLanternLuck",
+    "game_name": "Lantern Luck",
+    "banner": "https://cdn.slotgambit.com/SGLanternLuck.png",
+    "status": 1
+  },
+  {
+    "id": 24,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGNewYearsBash",
+    "game_name": "New Years Bash",
+    "banner": "https://cdn.slotgambit.com/SGNewYearsBash.png",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGProst",
+    "game_name": "Prost!",
+    "banner": "https://cdn.slotgambit.com/SGProst.png",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFly",
+    "game_name": "Fly!",
+    "banner": "https://cdn.slotgambit.com/SGFly.png",
+    "status": 1
+  },
+  {
+    "id": 27,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGNineTails",
+    "game_name": "Nine Tails",
+    "banner": "https://cdn.slotgambit.com/SGNineTails.png",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMarvelousFurlongs",
+    "game_name": "Marvelous Furlongs",
+    "banner": "https://cdn.slotgambit.com/SGMarvelousFurlongs.png",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMysticFortuneDeluxe",
+    "game_name": "Mystic Fortune Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGMysticFortuneDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGReturnToTheFeature",
+    "game_name": "Return To The Feature",
+    "banner": "https://cdn.slotgambit.com/SGReturnToTheFeature.png",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCalaverasExplosivas",
+    "game_name": "Calaveras Explosivas",
+    "banner": "https://cdn.slotgambit.com/SGCalaverasExplosivas.png",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBeforeTimeRunsOut",
+    "game_name": "Before Time Runs Out",
+    "banner": "https://cdn.slotgambit.com/SGBeforeTimeRunsOut.png",
+    "status": 1
+  },
+  {
+    "id": 33,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCandyTower",
+    "game_name": "Candy Tower",
+    "banner": "https://cdn.slotgambit.com/SGCandyTower.png",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGOrbsOfAtlantis",
+    "game_name": "Orbs of Atlantis",
+    "banner": "https://cdn.slotgambit.com/SGOrbsOfAtlantis.png",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTotemTowers",
+    "game_name": "Totem Towers",
+    "banner": "https://cdn.slotgambit.com/SGTotemTowers.png",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGChristmasGiftRush",
+    "game_name": "Christmas Gift Rush",
+    "banner": "https://cdn.slotgambit.com/SGChristmasGiftRush.png",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTabernaDeLosMuertos",
+    "game_name": "Taberna De Los Muertos",
+    "banner": "https://cdn.slotgambit.com/SGTabernaDeLosMuertos.png",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTabernaDeLosMuertosUltra",
+    "game_name": "Taberna De Los Muertos Ultra",
+    "banner": "https://cdn.slotgambit.com/SGTabernaDeLosMuertosUltra.png",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGJellyfishFlow",
+    "game_name": "Jellyfish Flow",
+    "banner": "https://cdn.slotgambit.com/SGJellyfishFlow.png",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGJellyfishFlowUltra",
+    "game_name": "Jellyfish Flow Ultra",
+    "banner": "https://cdn.slotgambit.com/SGJellyfishFlowUltra.png",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWealthInn",
+    "game_name": "Wealth Inn",
+    "banner": "https://cdn.slotgambit.com/SGWealthInn.png",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHappyApe",
+    "game_name": "Happy Ape",
+    "banner": "https://cdn.slotgambit.com/SGHappyApe.png",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGKnockoutFootballRush",
+    "game_name": "Knockout Football Rush",
+    "banner": "https://cdn.slotgambit.com/SGKnockoutFootballRush.png",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTechnoTumble",
+    "game_name": "Techno Tumble",
+    "banner": "https://cdn.slotgambit.com/SGTechnoTumble.png",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHeySushi",
+    "game_name": "Hey Sushi",
+    "banner": "https://cdn.slotgambit.com/SGHeySushi.png",
+    "status": 1
+  },
+  {
+    "id": 46,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLoonyBlox",
+    "game_name": "Loony Blox",
+    "banner": "https://cdn.slotgambit.com/SGLoonyBlox.png",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGNaughtySanta",
+    "game_name": "Naughty Santa",
+    "banner": "https://cdn.slotgambit.com/SGNaughtySanta.png",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFaCaiShenDeluxe",
+    "game_name": "Fa Cai Shen Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGFaCaiShenDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 49,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLuckyFortuneCat",
+    "game_name": "Lucky Fortune Cat",
+    "banner": "https://rotativka.com/en/wp-content/uploads/sites/3/2021/12/Mount-Mazuma-Demo.jpg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHotHotHalloween",
+    "game_name": "Hot Hot Halloween",
+    "banner": "https://cdn.slotgambit.com/SGHotHotHalloween.png",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWizardsWantWar",
+    "game_name": "Wizards Want War!",
+    "banner": "https://cdn.slotgambit.com/SGWizardsWantWar.png",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLuckyLucky",
+    "game_name": "Lucky Lucky",
+    "banner": "https://cdn.slotgambit.com/SGLuckyLucky.png",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGColossalGems",
+    "game_name": "Colossal Gems",
+    "banner": "https://cdn.slotgambit.com/SGColossalGems.png",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMountMazuma",
+    "game_name": "Mount Mazuma",
+    "banner": "https://cdn.slotgambit.com/SGMountMazuma.png",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWildTrucks",
+    "game_name": "Wild Trucks",
+    "banner": "https://cdn.slotgambit.com/SGWildTrucks.png",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHotHotFruit",
+    "game_name": "Hot Hot Fruit",
+    "banner": "https://cdn.slotgambit.com/SGHotHotFruit.png",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SG5LuckyLions",
+    "game_name": "5 Lucky Lions",
+    "banner": "https://cdn.slotgambit.com/SG5LuckyLions.png",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPumpkinPatch",
+    "game_name": "Pumpkin Patch",
+    "banner": "https://cdn.slotgambit.com/SGPumpkinPatch.png",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHappiestChristmasTree",
+    "game_name": "Happiest Christmas Tree",
+    "banner": "https://cdn.slotgambit.com/SGHappiestChristmasTree.png",
+    "status": 1
+  },
+  {
+    "id": 60,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGEgyptianDreamsDeluxe",
+    "game_name": "Egyptian Dreams Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGEgyptianDreamsDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGJump",
+    "game_name": "Jump!",
+    "banner": "https://cdn.slotgambit.com/SGJump.png",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFortuneDogs",
+    "game_name": "Fortune Dogs",
+    "banner": "https://cdn.slotgambit.com/SGFortuneDogs.png",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGKnockoutFootball",
+    "game_name": "Knockout Football",
+    "banner": "https://cdn.slotgambit.com/SGKnockoutFootball.png",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMagicOak",
+    "game_name": "Magic Oak",
+    "banner": "https://cdn.slotgambit.com/SGMagicOak.png",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSantasVillage",
+    "game_name": "Santa's Village",
+    "banner": "https://cdn.slotgambit.com/SGSantasVillage.png",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPresto",
+    "game_name": "Presto!",
+    "banner": "https://cdn.slotgambit.com/SGPresto.png",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFourDivineBeasts",
+    "game_name": "Four Divine Beasts",
+    "banner": "https://cdn.slotgambit.com/SGFourDivineBeasts.png",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGRollingRoger",
+    "game_name": "Rolling Roger",
+    "banner": "https://cdn.slotgambit.com/SGRollingRoger.png",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCakeValley",
+    "game_name": "Cake Valley",
+    "banner": "https://cdn.slotgambit.com/SGCakeValley.png",
+    "status": 1
+  },
+  {
+    "id": 70,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLondonHunter",
+    "game_name": "London Hunter",
+    "banner": "https://cdn.slotgambit.com/SGLondonHunter.png",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SG5Mariachis",
+    "game_name": "5 Mariachis",
+    "banner": "https://cdn.slotgambit.com/SG5Mariachis.png",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGScruffyScallywags",
+    "game_name": "Scruffy Scallywags",
+    "banner": "https://cdn.slotgambit.com/SGScruffyScallywags.png",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SG12Zodiacs",
+    "game_name": "12 Zodiacs",
+    "banner": "https://cdn.slotgambit.com/SG12Zodiacs.png",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFireRooster",
+    "game_name": "Fire Rooster",
+    "banner": "https://cdn.slotgambit.com/SGFireRooster.png",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGNuwa",
+    "game_name": "Nuwa",
+    "banner": "https://cdn.slotgambit.com/SGNuwa.png",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFaCaiShen",
+    "game_name": "Fa Cai Shen",
+    "banner": "https://cdn.slotgambit.com/SGFaCaiShen.png",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSparta",
+    "game_name": "Sparta",
+    "banner": "https://cdn.slotgambit.com/SGSparta.png",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGGangsters",
+    "game_name": "Gangsters",
+    "banner": "https://cdn.slotgambit.com/SGGangsters.png",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBombsAway",
+    "game_name": "Bombs Away",
+    "banner": "https://cdn.slotgambit.com/SGBombsAway.png",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGGoldRush",
+    "game_name": "Gold Rush",
+    "banner": "https://cdn.slotgambit.com/SGGoldRush.png",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDragonsThrone",
+    "game_name": "Dragon's Throne",
+    "banner": "https://cdn.slotgambit.com/SGDragonsThrone.png",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWickedWitch",
+    "game_name": "Wicked Witch",
+    "banner": "https://cdn.slotgambit.com/SGWickedWitch.png",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGRomanEmpire",
+    "game_name": "Roman Empire",
+    "banner": "https://cdn.slotgambit.com/SGRomanEmpire.png",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCoyoteCrash",
+    "game_name": "Coyote Crash",
+    "banner": "https://cdn.slotgambit.com/SGCoyoteCrash.png",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSuperTwister",
+    "game_name": "Super Twister",
+    "banner": "https://cdn.slotgambit.com/SGSuperTwister.png",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBuggyBonus",
+    "game_name": "Buggy Bonus",
+    "banner": "https://cdn.slotgambit.com/SGBuggyBonus.png",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGGlamRock",
+    "game_name": "Glam Rock",
+    "banner": "https://cdn.slotgambit.com/SGGlamRock.png",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGJugglenaut",
+    "game_name": "Jugglenaut",
+    "banner": "https://cdn.slotgambit.com/SGJugglenaut.png",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGGalacticCash",
+    "game_name": "Galactic Cash",
+    "banner": "https://cdn.slotgambit.com/SGGalacticCash.png",
+    "status": 1
+  },
+  {
+    "id": 90,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTreasureTomb",
+    "game_name": "Treasure Tomb",
+    "banner": "https://cdn.slotgambit.com/SGTreasureTomb.png",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGArcaneElements",
+    "game_name": "Arcane Elements",
+    "banner": "https://cdn.slotgambit.com/SGArcaneElements.png",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTreasureDiver",
+    "game_name": "Treasure Diver",
+    "banner": "https://cdn.slotgambit.com/SGTreasureDiver.png",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGKanesInferno",
+    "game_name": "Kane's Inferno",
+    "banner": "https://cdn.slotgambit.com/SGKanesInferno.png",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCarnivalCash",
+    "game_name": "Carnival Cash",
+    "banner": "https://cdn.slotgambit.com/SGCarnivalCash.png",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTheDragonCastle",
+    "game_name": "Dragon Castle",
+    "banner": "https://cdn.slotgambit.com/SGTheDragonCastle.png",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGKingTutsTomb",
+    "game_name": "King Tut's Tomb",
+    "banner": "https://cdn.slotgambit.com/SGKingTutsTomb.png",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGShaolinFortunes100",
+    "game_name": "Shaolin Fortunes 100",
+    "banner": "https://cdn.slotgambit.com/SGShaolinFortunes100.png",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGShaolinFortunes243",
+    "game_name": "Shaolin Fortunes",
+    "banner": "https://cdn.slotgambit.com/SGShaolinFortunes243.png",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDoubleODollars",
+    "game_name": "Double O Dollars",
+    "banner": "https://cdn.slotgambit.com/SGDoubleODollars.png",
+    "status": 1
+  },
+  {
+    "id": 100,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGQueenOfQueens1024",
+    "game_name": "Queen of Queens II",
+    "banner": "https://cdn.slotgambit.com/SGQueenOfQueens1024.png",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCashReef",
+    "game_name": "Cash Reef",
+    "banner": "https://cdn.slotgambit.com/SGCashReef.png",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGQueenOfQueens243",
+    "game_name": "Queen of Queens",
+    "banner": "https://cdn.slotgambit.com/SGQueenOfQueens243.png",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPiratesPlunder",
+    "game_name": "Pirate's Plunder",
+    "banner": "https://cdn.slotgambit.com/SGPiratesPlunder.png",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGIndianCashCatcher",
+    "game_name": "Indian Cash Catcher",
+    "banner": "https://cdn.slotgambit.com/SGIndianCashCatcher.png",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGRodeoDrive",
+    "game_name": "Rodeo Drive",
+    "banner": "https://cdn.slotgambit.com/SGRodeoDrive.png",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHauntedHouse",
+    "game_name": "Haunted House",
+    "banner": "https://cdn.slotgambit.com/SGHauntedHouse.png",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGLittleGreenMoney",
+    "game_name": "Little Green Money",
+    "banner": "https://cdn.slotgambit.com/SGLittleGreenMoney.png",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMonsterMashCash",
+    "game_name": "Monster Mash Cash",
+    "banner": "https://cdn.slotgambit.com/SGMonsterMashCash.png",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDrFeelgood",
+    "game_name": "Dr Feelgood",
+    "banner": "https://cdn.slotgambit.com/SGDrFeelgood.png",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGVikingsPlunder",
+    "game_name": "Viking's Plunder",
+    "banner": "https://cdn.slotgambit.com/SGVikingsPlunder.png",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBlackbeardsBounty",
+    "game_name": "Blackbeard's Bounty",
+    "banner": "https://cdn.slotgambit.com/SGBlackbeardsBounty.png",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWeirdScience",
+    "game_name": "Weird Science",
+    "banner": "https://cdn.slotgambit.com/SGWeirdScience.png",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPoolShark",
+    "game_name": "Pool Shark",
+    "banner": "https://cdn.slotgambit.com/SGPoolShark.png",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSOS",
+    "game_name": "S.O.S!",
+    "banner": "https://cdn.slotgambit.com/SGSOS.png",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPamperMe",
+    "game_name": "Pamper Me",
+    "banner": "https://cdn.slotgambit.com/SGPamperMe.png",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGZeus",
+    "game_name": "Zeus",
+    "banner": "https://cdn.slotgambit.com/SGZeus.png",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSpaceFortune",
+    "game_name": "Space Fortune",
+    "banner": "https://cdn.slotgambit.com/SGSpaceFortune.png",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGJungleRumble",
+    "game_name": "Jungle Rumble",
+    "banner": "https://cdn.slotgambit.com/SGJungleRumble.png",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSuperStrike",
+    "game_name": "Super Strike",
+    "banner": "https://cdn.slotgambit.com/SGSuperStrike.png",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBarnstormerBucks",
+    "game_name": "Barnstormer Bucks",
+    "banner": "https://cdn.slotgambit.com/SGBarnstormerBucks.png",
+    "status": 1
+  },
+  {
+    "id": 121,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGEgyptianDreams",
+    "game_name": "Egyptian Dreams",
+    "banner": "https://cdn.slotgambit.com/SGEgyptianDreams.png",
+    "status": 1
+  },
+  {
+    "id": 122,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBikiniIsland",
+    "game_name": "Bikini Island",
+    "banner": "https://cdn.slotgambit.com/SGBikiniIsland.png",
+    "status": 1
+  },
+  {
+    "id": 123,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMummyMoney",
+    "game_name": "Mummy Money",
+    "banner": "https://cdn.slotgambit.com/SGMummyMoney.png",
+    "status": 1
+  },
+  {
+    "id": 124,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGArcticWonders",
+    "game_name": "Arctic Wonders",
+    "banner": "https://cdn.slotgambit.com/SGArcticWonders.png",
+    "status": 1
+  },
+  {
+    "id": 125,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTowerOfPizza",
+    "game_name": "Tower Of Pizza",
+    "banner": "https://cdn.slotgambit.com/SGTowerOfPizza.png",
+    "status": 1
+  },
+  {
+    "id": 126,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMysticFortune",
+    "game_name": "Mystic Fortune",
+    "banner": "https://cdn.slotgambit.com/SGMysticFortune.png",
+    "status": 1
+  },
+  {
+    "id": 127,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFlyingHigh",
+    "game_name": "Flying High",
+    "banner": "https://cdn.slotgambit.com/SGFlyingHigh.png",
+    "status": 1
+  },
+  {
+    "id": 128,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMrBling",
+    "game_name": "Mr Bling",
+    "banner": "https://cdn.slotgambit.com/SGMrBling.png",
+    "status": 1
+  },
+  {
+    "id": 129,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGAllForOne",
+    "game_name": "All For One",
+    "banner": "https://cdn.slotgambit.com/SGAllForOne.png",
+    "status": 1
+  },
+  {
+    "id": 130,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDragonsRealm",
+    "game_name": "Dragon's Realm",
+    "banner": "https://cdn.slotgambit.com/SGDragonsRealm.png",
+    "status": 1
+  },
+  {
+    "id": 131,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBirdOfThunder",
+    "game_name": "Bird of Thunder",
+    "banner": "https://cdn.slotgambit.com/SGBirdOfThunder.png",
+    "status": 1
+  },
+  {
+    "id": 132,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGPuckerUpPrince",
+    "game_name": "Pucker Up Prince",
+    "banner": "https://cdn.slotgambit.com/SGPuckerUpPrince.png",
+    "status": 1
+  },
+  {
+    "id": 133,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSirBlingalot",
+    "game_name": "Sir Blingalot",
+    "banner": "https://cdn.slotgambit.com/SGSirBlingalot.png",
+    "status": 1
+  },
+  {
+    "id": 134,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGRuffledUp",
+    "game_name": "Ruffled Up",
+    "banner": "https://cdn.slotgambit.com/SGRuffledUp.png",
+    "status": 1
+  },
+  {
+    "id": 135,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGGoldenUnicorn",
+    "game_name": "Golden Unicorn",
+    "banner": "https://cdn.slotgambit.com/SGGoldenUnicorn.png",
+    "status": 1
+  },
+  {
+    "id": 136,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGRideEmCowboy",
+    "game_name": "Ride 'em Cowboy",
+    "banner": "https://cdn.slotgambit.com/SGRideEmCowboy.png",
+    "status": 1
+  },
+  {
+    "id": 137,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGAzlandsGold",
+    "game_name": "Aztlan's Gold",
+    "banner": "https://cdn.slotgambit.com/SGAzlandsGold.png",
+    "status": 1
+  },
+  {
+    "id": 138,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFrontierFortunes",
+    "game_name": "Frontier Fortunes",
+    "banner": "https://cdn.slotgambit.com/SGFrontierFortunes.png",
+    "status": 1
+  },
+  {
+    "id": 139,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWaysOfFortune",
+    "game_name": "Ways Of Fortune",
+    "banner": "https://cdn.slotgambit.com/SGWaysOfFortune.png",
+    "status": 1
+  },
+  {
+    "id": 140,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTheBigDeal",
+    "game_name": "The Big Deal",
+    "banner": "https://cdn.slotgambit.com/SGTheBigDeal.png",
+    "status": 1
+  },
+  {
+    "id": 141,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSkysTheLimit",
+    "game_name": "Sky's the Limit",
+    "banner": "https://cdn.slotgambit.com/SGSkysTheLimit.png",
+    "status": 1
+  },
+  {
+    "id": 142,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGZeus2",
+    "game_name": "Zeus 2",
+    "banner": "https://cdn.slotgambit.com/SGZeus2.png",
+    "status": 1
+  },
+  {
+    "id": 143,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFenghuang",
+    "game_name": "Fenghuang",
+    "banner": "https://cdn.slotgambit.com/SGFenghuang.png",
+    "status": 1
+  },
+  {
+    "id": 144,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGDiscoFunk",
+    "game_name": "Disco Funk",
+    "banner": "https://cdn.slotgambit.com/SGDiscoFunk.png",
+    "status": 1
+  },
+  {
+    "id": 145,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGCashosaurus",
+    "game_name": "Cashosaurus",
+    "banner": "https://cdn.slotgambit.com/SGCashosaurus.png",
+    "status": 1
+  },
+  {
+    "id": 146,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGAtomicKittens",
+    "game_name": "Atomic Kittens",
+    "banner": "https://cdn.slotgambit.com/SGAtomicKittens.png",
+    "status": 1
+  },
+  {
+    "id": 147,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGBikiniIslandDeluxe",
+    "game_name": "Bikini Island Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGBikiniIslandDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 148,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGMeowJanken",
+    "game_name": "Meow Janken",
+    "banner": "https://cdn.slotgambit.com/SGMeowJanken.png",
+    "status": 1
+  },
+  {
+    "id": 149,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSlimeParty",
+    "game_name": "Slime Party",
+    "banner": "https://cdn.slotgambit.com/SGSlimeParty.png",
+    "status": 1
+  },
+  {
+    "id": 150,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGTheDeadEscape",
+    "game_name": "The Dead Escape",
+    "banner": "https://cdn.slotgambit.com/SGTheDeadEscape.png",
+    "status": 1
+  },
+  {
+    "id": 151,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGScopa",
+    "game_name": "Scopa",
+    "banner": "https://cdn.slotgambit.com/SGScopa.png",
+    "status": 1
+  },
+  {
+    "id": 152,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFruityHalloween",
+    "game_name": "Fruity Halloween",
+    "banner": "https://cdn.slotgambit.com/SGFruityHalloween.png",
+    "status": 1
+  },
+  {
+    "id": 153,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGZeusDeluxe",
+    "game_name": "Zeus Deluxe",
+    "banner": "https://cdn.slotgambit.com/SGZeusDeluxe.png",
+    "status": 1
+  },
+  {
+    "id": 154,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGSantasInn",
+    "game_name": "Santa's Inn",
+    "banner": "https://cdn.slotgambit.com/SGSantasInn.png",
+    "status": 1
+  },
+  {
+    "id": 155,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGFruityMayan",
+    "game_name": "Fruity Mayan",
+    "banner": "https://cdn.slotgambit.com/SGFruityMayan.png",
+    "status": 1
+  },
+  {
+    "id": 156,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGValentineMonchy",
+    "game_name": "Valentine Monchy",
+    "banner": "https://cdn.slotgambit.com/SGValentineMonchy.png",
+    "status": 1
+  },
+  {
+    "id": 157,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGHotHotSummer",
+    "game_name": "Hot Hot Summer",
+    "banner": "https://cdn.slotgambit.com/SGHotHotSummer.png",
+    "status": 1
+  },
+  {
+    "id": 158,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGVampiresFate",
+    "game_name": "Vampire's Fate",
+    "banner": "https://cdn.slotgambit.com/SGVampiresFate.png",
+    "status": 1
+  },
+  {
+    "id": 159,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGNaughtyWukong",
+    "game_name": "Naughty Wukong",
+    "banner": "https://cdn.slotgambit.com/SGNaughtyWukong.png",
+    "status": 1
+  },
+  {
+    "id": 160,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "HABANERO",
+    "game_code": "SGWildFlow",
+    "game_name": "Wild Flow",
+    "banner": "https://cdn.slotgambit.com/SGWildFlow.png",
+    "status": 1
+  }
+]

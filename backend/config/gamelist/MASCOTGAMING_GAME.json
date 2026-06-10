@@ -1,0 +1,1252 @@
+[
+  {
+    "id": 2,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wild_spirit_deluxe",
+    "game_name": "Wild Spirit Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_wildspiritdlx.jpeg",
+    "status": 1
+  },
+  {
+    "id": 3,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "scratch_the_bank",
+    "game_name": "Scratch the Bank",
+    "banner": "https://cdn.slotgambit.com/game_scratchbank.jpeg",
+    "status": 1
+  },
+  {
+    "id": 4,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "princess_and_dwarfs_deluxe",
+    "game_name": "Princess and Dwarfs Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_princess.jpeg",
+    "status": 1
+  },
+  {
+    "id": 5,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "lucky_fruity_coin",
+    "game_name": "Lucky Fruity Coin",
+    "banner": "https://cdn.slotgambit.com/game_fruitycoin2.svg",
+    "status": 1
+  },
+  {
+    "id": 8,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "friar_truck’s_inn",
+    "game_name": "Friar Truck’s Inn",
+    "banner": "https://cdn.slotgambit.com/game_friar3.svg",
+    "status": 1
+  },
+  {
+    "id": 10,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Anksunamun_deluxe",
+    "game_name": "Anksunamun Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_anksunamundlx4.jpeg",
+    "status": 1
+  },
+  {
+    "id": 11,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruity_x125",
+    "game_name": "Fruity X125",
+    "banner": "https://cdn.slotgambit.com/game_fruity125-4.svg",
+    "status": 1
+  },
+  {
+    "id": 14,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wasteland_riches",
+    "game_name": "Wasteland Riches",
+    "banner": "https://cdn.slotgambit.com/game_wasteland2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 17,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "tessa_hunt_and_the_temple_of_horus",
+    "game_name": "Tessa Hunt and the Temple of Horus",
+    "banner": "https://cdn.slotgambit.com/game_tessa3.svg",
+    "status": 1
+  },
+  {
+    "id": 18,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "for_the_realm_deluxe",
+    "game_name": "For the Realm Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_fortherealmdlx3.svg",
+    "status": 1
+  },
+  {
+    "id": 21,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "zeus_the_invincible",
+    "game_name": "Zeus The Invincible",
+    "banner": "https://cdn.slotgambit.com/game_zeusinvincible3.svg",
+    "status": 1
+  },
+  {
+    "id": 25,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "bitmine_bonanza",
+    "game_name": "Bitmine Bonanza",
+    "banner": "https://cdn.slotgambit.com/game_bitmine.jpeg",
+    "status": 1
+  },
+  {
+    "id": 26,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_biggest_win_x50",
+    "game_name": "The Biggest Win x50",
+    "banner": "https://cdn.slotgambit.com/game_biggestwin3.svg",
+    "status": 1
+  },
+  {
+    "id": 28,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "lucky_year_25",
+    "game_name": "Lucky Year 25",
+    "banner": "https://cdn.slotgambit.com/game_luckyyear2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 29,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "spicy_candies_rockblock",
+    "game_name": "Spicy Candies Rockblock",
+    "banner": "https://cdn.slotgambit.com/game_spicycandies3.svg",
+    "status": 1
+  },
+  {
+    "id": 30,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "space_gems_rockblocks",
+    "game_name": "Space Gems Rockblocks",
+    "banner": "https://cdn.slotgambit.com/game_spacegems2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 31,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "riot_brutalskis_revenge",
+    "game_name": "Riot Brutalskis Revenge",
+    "banner": "https://cdn.slotgambit.com/game_1xriot.jpeg",
+    "status": 1
+  },
+  {
+    "id": 32,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "icy_rockfall_x25",
+    "game_name": "Icy Rockfall X25",
+    "banner": "https://cdn.slotgambit.com/game_icyrockfall2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 34,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "243_fruity_zen",
+    "game_name": "243 Fruity Zen",
+    "banner": "https://cdn.slotgambit.com/game_243fruity2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 35,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "metal_frontiers",
+    "game_name": "Metal Frontiers",
+    "banner": "https://cdn.slotgambit.com/game_metal2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 36,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "bastet_and_cats_deluxe",
+    "game_name": "Bastet and Cats Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_bastetdlx2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 37,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "1x_riot",
+    "game_name": "1x Riot",
+    "banner": "https://cdn.slotgambit.com/game_1xriot.jpeg",
+    "status": 1
+  },
+  {
+    "id": 38,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "booming_fruity_boom",
+    "game_name": "Booming Fruity Boom",
+    "banner": "https://cdn.slotgambit.com/game_riotultimate3.jpeg",
+    "status": 1
+  },
+  {
+    "id": 39,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "ouija_secrets",
+    "game_name": "Ouija Secrets",
+    "banner": "https://cdn.slotgambit.com/game_ouija2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 40,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "cancan_saloon_deluxe",
+    "game_name": "Cancan Saloon Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_cancandeluxe3.jpeg",
+    "status": 1
+  },
+  {
+    "id": 41,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_vegas_extreme_x125",
+    "game_name": "Fruit Vegas Extreme x125",
+    "banner": "https://cdn.slotgambit.com/game_fruitvegas125-2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 42,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "incredible_xfu_hero",
+    "game_name": "Incredible XFu Hero",
+    "banner": "https://cdn.slotgambit.com/game_xfu2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 43,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "kite_festival_crash_game",
+    "game_name": "Kite Festival Crash Game",
+    "banner": "https://cdn.slotgambit.com/game_kitefest2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 44,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "riot_ultimate",
+    "game_name": "Riot Ultimate",
+    "banner": "https://cdn.slotgambit.com/game_riot2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 45,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wood_luck",
+    "game_name": "Wood Luck",
+    "banner": "https://cdn.slotgambit.com/game_woodluck3.svg",
+    "status": 1
+  },
+  {
+    "id": 47,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "reel_eldorado",
+    "game_name": "Reel Eldorado",
+    "banner": "https://cdn.slotgambit.com/game_reeleldo2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 48,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "sticky_fruit_madness",
+    "game_name": "Sticky Fruit Madness",
+    "banner": "https://cdn.slotgambit.com/game_stickyfruit2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 50,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "ice_number_one",
+    "game_name": "Ice Number One",
+    "banner": "https://cdn.slotgambit.com/game_ice1-2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 51,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "hot_fruit_x15",
+    "game_name": "Hot Fruit X15",
+    "banner": "https://cdn.slotgambit.com/game_hotfruit-2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 52,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fabulous_farm_slot",
+    "game_name": "Fabulous Farm Slot",
+    "banner": "https://cdn.slotgambit.com/game_fabfarm-2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 53,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "big_win_x25",
+    "game_name": "Big Win x25",
+    "banner": "https://cdn.slotgambit.com/game_bigwinx25-3.svg",
+    "status": 1
+  },
+  {
+    "id": 54,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "mist",
+    "game_name": "Mist",
+    "banner": "https://cdn.slotgambit.com/game_mist.jpeg",
+    "status": 1
+  },
+  {
+    "id": 55,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_candy_slot_deluxe",
+    "game_name": "The Candy Slot Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_candyslotd.jpeg",
+    "status": 1
+  },
+  {
+    "id": 56,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Admiral_x_fruit_machine",
+    "game_name": "Admiral X Fruit Machine",
+    "banner": "https://cdn.slotgambit.com/game_admiralxfruit.jpeg",
+    "status": 1
+  },
+  {
+    "id": 57,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Azino_fruit_machine_x25",
+    "game_name": "Azino Fruit Machine x25",
+    "banner": "https://cdn.slotgambit.com/game_azinofruit3.jpeg",
+    "status": 1
+  },
+  {
+    "id": 58,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "yukon_fever",
+    "game_name": "Yukon Fever",
+    "banner": "https://cdn.slotgambit.com/game_yukon.jpeg",
+    "status": 1
+  },
+  {
+    "id": 59,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "dreamshock:_jackpot_x",
+    "game_name": "Dreamshock: Jackpot X",
+    "banner": "https://cdn.slotgambit.com/game_dreamshock.jpeg",
+    "status": 1
+  },
+  {
+    "id": 61,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "dragons_lucky_25",
+    "game_name": "Dragons Lucky 25",
+    "banner": "https://cdn.slotgambit.com/game_lucky25.jpeg",
+    "status": 1
+  },
+  {
+    "id": 62,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "re_kill_ultimate",
+    "game_name": "Re Kill Ultimate",
+    "banner": "https://cdn.slotgambit.com/game_rekillu.jpeg",
+    "status": 1
+  },
+  {
+    "id": 63,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wild_wild_bet",
+    "game_name": "Wild Wild Bet",
+    "banner": "https://cdn.slotgambit.com/game_wwbet.jpeg",
+    "status": 1
+  },
+  {
+    "id": 64,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "rush25_gryphons_castle",
+    "game_name": "Rush25 Gryphons Castle",
+    "banner": "https://cdn.slotgambit.com/game_gryphon25.jpeg",
+    "status": 1
+  },
+  {
+    "id": 65,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "christmas_infinite_gifts",
+    "game_name": "Christmas Infinite Gifts",
+    "banner": "https://cdn.slotgambit.com/game_infgifts.jpeg",
+    "status": 1
+  },
+  {
+    "id": 66,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "book_of_Aksunamun",
+    "game_name": "Book of Aksunamun",
+    "banner": "https://cdn.slotgambit.com/game_book-of-amaterasu.jpeg",
+    "status": 1
+  },
+  {
+    "id": 67,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "1x_twin_fruits",
+    "game_name": "1x Twin Fruits",
+    "banner": "https://cdn.slotgambit.com/game_1xtwin.jpeg",
+    "status": 1
+  },
+  {
+    "id": 68,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "reveal_the_kraken",
+    "game_name": "Reveal the Kraken",
+    "banner": "https://cdn.slotgambit.com/game_kraken2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 69,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "hello_win",
+    "game_name": "Hello Win",
+    "banner": "https://cdn.slotgambit.com/game_hellowin.jpeg",
+    "status": 1
+  },
+  {
+    "id": 71,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "zeus_the_thunderer_deluxe",
+    "game_name": "Zeus the Thunderer Deluxe",
+    "banner": "https://cdn.slotgambit.com/game_zeusdeluxe.jpeg",
+    "status": 1
+  },
+  {
+    "id": 72,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "minotaurs_wilds",
+    "game_name": "Minotaurs Wilds",
+    "banner": "https://cdn.slotgambit.com/game_minotaur.jpeg",
+    "status": 1
+  },
+  {
+    "id": 73,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_pendragon_legend",
+    "game_name": "The Pendragon Legend",
+    "banner": "https://cdn.slotgambit.com/game_pendragon.jpeg",
+    "status": 1
+  },
+  {
+    "id": 74,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wild_phoenix_rises",
+    "game_name": "Wild Phoenix Rises",
+    "banner": "https://cdn.slotgambit.com/game_phoenix2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 75,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "ben_gun_robinson",
+    "game_name": "Ben Gun Robinson",
+    "banner": "https://cdn.slotgambit.com/game_bengunn.jpeg",
+    "status": 1
+  },
+  {
+    "id": 76,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "hook_up_fishing_wars",
+    "game_name": "Hook Up Fishing Wars",
+    "banner": "https://cdn.slotgambit.com/game_fishing.jpeg",
+    "status": 1
+  },
+  {
+    "id": 77,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_machine_megabonus",
+    "game_name": "Fruit Machine Megabonus",
+    "banner": "https://cdn.slotgambit.com/game_fmmegabonus.jpeg",
+    "status": 1
+  },
+  {
+    "id": 78,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Aloha_tiki_bar_dice",
+    "game_name": "Aloha Tiki Bar Dice",
+    "banner": "https://cdn.slotgambit.com/game_alohadice.jpeg",
+    "status": 1
+  },
+  {
+    "id": 79,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "dice_vegas",
+    "game_name": "Dice Vegas",
+    "banner": "https://cdn.slotgambit.com/game_dicevegas.jpeg",
+    "status": 1
+  },
+  {
+    "id": 80,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "dice_disco_mega_stacks",
+    "game_name": "Dice Disco Mega Stacks",
+    "banner": "https://cdn.slotgambit.com/game_dicedisco.jpeg",
+    "status": 1
+  },
+  {
+    "id": 81,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruits_of_mbit",
+    "game_name": "Fruits of Mbit",
+    "banner": "https://cdn.slotgambit.com/game_mbit.jpeg",
+    "status": 1
+  },
+  {
+    "id": 82,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "twin_dice_of_olympus",
+    "game_name": "Twin Dice of Olympus",
+    "banner": "https://cdn.slotgambit.com/game_diceolymp.jpeg",
+    "status": 1
+  },
+  {
+    "id": 83,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "dice_of_luxor",
+    "game_name": "Dice of Luxor",
+    "banner": "https://cdn.slotgambit.com/game_diceluxor.jpeg",
+    "status": 1
+  },
+  {
+    "id": 84,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "rocket_chimp_jackpot",
+    "game_name": "Rocket Chimp Jackpot",
+    "banner": "https://cdn.slotgambit.com/game_rocketchimp.jpeg",
+    "status": 1
+  },
+  {
+    "id": 85,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "easter_luck",
+    "game_name": "Easter Luck",
+    "banner": "https://cdn.slotgambit.com/game_easter.jpeg",
+    "status": 1
+  },
+  {
+    "id": 86,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_machine_x25",
+    "game_name": "Fruit Machine x25",
+    "banner": "https://cdn.slotgambit.com/game_fruitmachine.jpeg",
+    "status": 1
+  },
+  {
+    "id": 87,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "trump_card_queen",
+    "game_name": "Trump Card Queen",
+    "banner": "https://cdn.slotgambit.com/game_trump.jpeg",
+    "status": 1
+  },
+  {
+    "id": 88,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "cleopatras_gems_bingo",
+    "game_name": "Cleopatras Gems Bingo",
+    "banner": "https://cdn.slotgambit.com/game_cleogems.jpeg",
+    "status": 1
+  },
+  {
+    "id": 89,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "greedy_greenskins_rockways",
+    "game_name": "Greedy Greenskins Rockways",
+    "banner": "https://cdn.slotgambit.com/game_greenskins.jpeg",
+    "status": 1
+  },
+  {
+    "id": 91,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wildlife_riches",
+    "game_name": "Wildlife Riches",
+    "banner": "https://cdn.slotgambit.com/game_wildlife.jpeg",
+    "status": 1
+  },
+  {
+    "id": 92,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "1x_fruits",
+    "game_name": "1x Fruits",
+    "banner": "https://cdn.slotgambit.com/game_1xfruits.jpeg",
+    "status": 1
+  },
+  {
+    "id": 93,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "deepsea_riches",
+    "game_name": "Deepsea Riches",
+    "banner": "https://cdn.slotgambit.com/game_deepsea.jpeg",
+    "status": 1
+  },
+  {
+    "id": 94,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "loot_the_train",
+    "game_name": "Loot the Train",
+    "banner": "https://cdn.slotgambit.com/game_train.jpeg",
+    "status": 1
+  },
+  {
+    "id": 95,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "princess_and_dwarfs_rockways",
+    "game_name": "Princess and Dwarfs Rockways",
+    "banner": "https://cdn.slotgambit.com/game_dwarfsdlx.jpeg",
+    "status": 1
+  },
+  {
+    "id": 96,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_disco_mega_stacks",
+    "game_name": "Fruit Disco Mega Stacks",
+    "banner": "https://cdn.slotgambit.com/game_fruitdisco.jpeg",
+    "status": 1
+  },
+  {
+    "id": 97,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "double_triple_fruits",
+    "game_name": "Double Triple Fruits",
+    "banner": "https://cdn.slotgambit.com/game_dtfruits.jpeg",
+    "status": 1
+  },
+  {
+    "id": 98,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "riot_2_bnb",
+    "game_name": "Riot 2 BnB",
+    "banner": "https://cdn.slotgambit.com/game_riot2.jpeg",
+    "status": 1
+  },
+  {
+    "id": 99,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Across_the_universe",
+    "game_name": "Across the Universe",
+    "banner": "https://cdn.slotgambit.com/game_universe.jpeg",
+    "status": 1
+  },
+  {
+    "id": 101,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Сandy_Сrush",
+    "game_name": "Сandy Сrush",
+    "banner": "https://cdn.slotgambit.com/game_candyslotd.jpeg",
+    "status": 1
+  },
+  {
+    "id": 102,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "for_the_realm",
+    "game_name": "For the Realm",
+    "banner": "https://cdn.slotgambit.com/game_fortherealm3.svg",
+    "status": 1
+  },
+  {
+    "id": 103,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "cleopatras_gems_rockways",
+    "game_name": "Cleopatras Gems Rockways",
+    "banner": "https://cdn.slotgambit.com/game_cleo.jpeg",
+    "status": 1
+  },
+  {
+    "id": 104,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "primal_bet_rockways",
+    "game_name": "Primal Bet Rockways",
+    "banner": "https://cdn.slotgambit.com/game_primalbet.jpeg",
+    "status": 1
+  },
+  {
+    "id": 105,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Aloha_tiki_bar",
+    "game_name": "Aloha Tiki Bar",
+    "banner": "https://cdn.slotgambit.com/game_aloha.jpeg",
+    "status": 1
+  },
+  {
+    "id": 106,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_evil_bet",
+    "game_name": "The Evil Bet",
+    "banner": "https://cdn.slotgambit.com/game_evilbet.jpeg",
+    "status": 1
+  },
+  {
+    "id": 107,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "pinup_dolls",
+    "game_name": "Pinup Dolls",
+    "banner": "https://cdn.slotgambit.com/game_pinup.jpeg",
+    "status": 1
+  },
+  {
+    "id": 108,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "hydras_lair",
+    "game_name": "Hydras Lair",
+    "banner": "https://cdn.slotgambit.com/game_hydra.jpeg",
+    "status": 1
+  },
+  {
+    "id": 109,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "dragons_nest",
+    "game_name": "Dragons Nest",
+    "banner": "https://cdn.slotgambit.com/game_dragonsnest.jpeg",
+    "status": 1
+  },
+  {
+    "id": 110,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "twin_fruits_of_olympus",
+    "game_name": "Twin Fruits of Olympus",
+    "banner": "https://cdn.slotgambit.com/game_olymp.jpeg",
+    "status": 1
+  },
+  {
+    "id": 111,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruits_of_luxor",
+    "game_name": "Fruits of Luxor",
+    "banner": "https://cdn.slotgambit.com/game_luxor.jpeg",
+    "status": 1
+  },
+  {
+    "id": 112,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "twin_fruits_of_olympus",
+    "game_name": "Twin Fruits of Olympus",
+    "banner": "https://cdn.slotgambit.com/game_olymp.jpeg",
+    "status": 1
+  },
+  {
+    "id": 113,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "twin_fruits_of_santa",
+    "game_name": "Twin Fruits of Santa",
+    "banner": "https://cdn.slotgambit.com/game_santa.jpeg",
+    "status": 1
+  },
+  {
+    "id": 114,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "zeus_the_thunderer",
+    "game_name": "Zeus the Thunderer",
+    "banner": "https://cdn.slotgambit.com/game_zeus3.svg",
+    "status": 1
+  },
+  {
+    "id": 115,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "Amaterasu_book",
+    "game_name": "Amaterasu Book",
+    "banner": "https://cdn.slotgambit.com/game_book-of-amaterasu.jpeg",
+    "status": 1
+  },
+  {
+    "id": 116,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "mayan_riches_rockways",
+    "game_name": "Mayan Riches Rockways",
+    "banner": "https://cdn.slotgambit.com/game_mayan.jpeg",
+    "status": 1
+  },
+  {
+    "id": 117,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "bastet_and_cats",
+    "game_name": "Bastet and Cats",
+    "banner": "https://cdn.slotgambit.com/game_bastet.jpeg",
+    "status": 1
+  },
+  {
+    "id": 118,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_myth",
+    "game_name": "The Myth",
+    "banner": "https://cdn.slotgambit.com/game_myth.jpeg",
+    "status": 1
+  },
+  {
+    "id": 119,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "hellsing",
+    "game_name": "Hellsing",
+    "banner": "https://cdn.slotgambit.com/game_hellsing.jpeg",
+    "status": 1
+  },
+  {
+    "id": 120,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "prince_of_persia",
+    "game_name": "Prince of Persia",
+    "banner": "https://cdn.slotgambit.com/game_prince.jpeg",
+    "status": 1
+  },
+  {
+    "id": 121,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "merry_scary_christmas",
+    "game_name": "Merry Scary Christmas",
+    "banner": "https://cdn.slotgambit.com/game_merry-scary-christmas.jpeg",
+    "status": 1
+  },
+  {
+    "id": 122,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "la_fiesta_de_muertos",
+    "game_name": "La Fiesta de Muertos",
+    "banner": "https://cdn.slotgambit.com/game_fiesta.jpeg",
+    "status": 1
+  },
+  {
+    "id": 123,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "three_corsairs",
+    "game_name": "Three Corsairs",
+    "banner": "https://cdn.slotgambit.com/game_threecorsairs.jpeg",
+    "status": 1
+  },
+  {
+    "id": 124,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "queen_of_spades",
+    "game_name": "Queen of Spades",
+    "banner": "https://cdn.slotgambit.com/game_queenofspades.jpeg",
+    "status": 1
+  },
+  {
+    "id": 125,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "re_kill",
+    "game_name": "Re Kill",
+    "banner": "https://cdn.slotgambit.com/game_rekill-rerun.jpeg",
+    "status": 1
+  },
+  {
+    "id": 126,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_macau",
+    "game_name": "Fruit Macau",
+    "banner": "https://cdn.slotgambit.com/game_macau.jpeg",
+    "status": 1
+  },
+  {
+    "id": 127,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_monaco",
+    "game_name": "Fruit Monaco",
+    "banner": "https://cdn.slotgambit.com/game_monaco.jpeg",
+    "status": 1
+  },
+  {
+    "id": 128,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "robin_of_loxley",
+    "game_name": "Robin of Loxley",
+    "banner": "https://cdn.slotgambit.com/game_robin.jpeg",
+    "status": 1
+  },
+  {
+    "id": 129,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "riot",
+    "game_name": "Riot",
+    "banner": "https://cdn.slotgambit.com/game_riot2.svg",
+    "status": 1
+  },
+  {
+    "id": 131,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "gemz_grow",
+    "game_name": "Gemz Grow",
+    "banner": "https://cdn.slotgambit.com/game_gemz.jpeg",
+    "status": 1
+  },
+  {
+    "id": 134,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "bennys_the_biggest_game",
+    "game_name": "Bennys the Biggest Game",
+    "banner": "https://cdn.slotgambit.com/game_benny.jpeg",
+    "status": 1
+  },
+  {
+    "id": 135,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "legioner",
+    "game_name": "Legioner",
+    "banner": "https://cdn.slotgambit.com/game_legioner.jpeg",
+    "status": 1
+  },
+  {
+    "id": 137,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "merlins_tower",
+    "game_name": "Merlins Tower",
+    "banner": "https://cdn.slotgambit.com/game_merlin.jpeg",
+    "status": 1
+  },
+  {
+    "id": 138,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "gryphons_castle",
+    "game_name": "Gryphons Castle",
+    "banner": "https://cdn.slotgambit.com/game_gryphon.jpeg",
+    "status": 1
+  },
+  {
+    "id": 139,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "wild_spirit",
+    "game_name": "Wild Spirit",
+    "banner": "https://cdn.slotgambit.com/game_wildspirit.jpeg",
+    "status": 1
+  },
+  {
+    "id": 140,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fruit_vegas",
+    "game_name": "Fruit Vegas",
+    "banner": "https://cdn.slotgambit.com/game_fruitvegas.jpeg",
+    "status": 1
+  },
+  {
+    "id": 141,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "purple_pills",
+    "game_name": "Purple Pills",
+    "banner": "https://cdn.slotgambit.com/game_purplepills.jpeg",
+    "status": 1
+  },
+  {
+    "id": 142,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "fairytale_coven",
+    "game_name": "Fairytale Coven",
+    "banner": "https://cdn.slotgambit.com/game_fairytale.jpeg",
+    "status": 1
+  },
+  {
+    "id": 143,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_tomb_det",
+    "game_name": "The Tomb Det",
+    "banner": "https://cdn.slotgambit.com/game_tomb.jpeg",
+    "status": 1
+  },
+  {
+    "id": 144,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "mermaids_bay",
+    "game_name": "Mermaids Bay",
+    "banner": "https://cdn.slotgambit.com/game_mermaid.jpeg",
+    "status": 1
+  },
+  {
+    "id": 145,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "northern_heat",
+    "game_name": "Northern Heat",
+    "banner": "https://cdn.slotgambit.com/game_nheat.jpeg",
+    "status": 1
+  },
+  {
+    "id": 147,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "cancan_saloon",
+    "game_name": "Cancan Saloon",
+    "banner": "https://cdn.slotgambit.com/game_cancan.jpeg",
+    "status": 1
+  },
+  {
+    "id": 148,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "lions_pride",
+    "game_name": "Lions Pride",
+    "banner": "https://cdn.slotgambit.com/game_lionspride.jpeg",
+    "status": 1
+  },
+  {
+    "id": 149,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "the_rite",
+    "game_name": "The Rite",
+    "banner": "https://cdn.slotgambit.com/game_rite.jpeg",
+    "status": 1
+  },
+  {
+    "id": 150,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "bamboo_bear",
+    "game_name": "Bamboo Bear",
+    "banner": "https://cdn.slotgambit.com/game_bamboo2.svg",
+    "status": 1
+  },
+  {
+    "id": 151,
+    "sort": 0,
+    "lang": "en",
+    "providerCode": "MASCOTGAMING",
+    "game_code": "venetian_magic",
+    "game_name": "Venetian Magic",
+    "banner": "https://cdn.slotgambit.com/game_venetian.jpeg",
+    "status": 1
+  }
+]
